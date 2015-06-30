@@ -1,15 +1,15 @@
-Tous dans le même bateau (speedboat)
+## Tous dans le même bateau (speedboat)
 
 Le speedboat et sa variante "Tous dans le même bateau" sont des jeux co-créatif issu des innovation games et qui permettent de récolter des critiques/retours sur un système, un projet ou un produit dans un cadre constructif et bienveillant.
 
 Brievement le format de base consiste à dessiner un bateau sur un mur, ce bateau représentant le système étudié, et demander aux participants de noter sur des post-it quels sont les ancres qui freinent à l'avancée du bateau (le système étudié).
 
-Intérêts/Particularités
+## Intérêts/Particularités
 Ce format permet de récolter des critiques tout en évitant d’avoir une avalanche de récriminations et transforme cette critique en feedback utile et constructif. Il donne un moyen d'exprimer la frustration sans laisser la mentalité de groupe ou une seule personne dominer la discussion.
 La verbalisation écrite permet d'aller au coeur des choses, les gens expriment les gros problèmes, les petits problèmes disparaissent d'eux mêmes.
 
 
-Ce qu'il faut pour démarrer
+## Ce qu'il faut pour démarrer
 
 Un projet, un système, envisagé ou existant
 
@@ -23,10 +23,8 @@ Du temps
 
 De 20 à 40 minutes.
 
-Déroulement
+## Déroulement
 Première partie
-
-Déroulé:
 
 Après avoir dessiné un bateau sur un paperboard accroché au mur, on lui ajoute des ancres et un petit vent arrière. On peut compléter le décor avec un petit port sympathique et/ou une ile.
 
@@ -41,7 +39,7 @@ Une ancre symbolise ce qui nous semble être un frein dans notre voyage vers le 
 Après écoute de la consigne, les participant ont un temps de réflexion pour noter leurs ancres sur un post-it. Dans un deuxième temps, chacun vient poser ses ancres sous le bateau en expliquant au groupe ce qu'ils ont noté.
 
 
-Options
+## Options
 
 Dans le format originel "speedboat" est un hors-bord, ce qui correspond à l'image d'une entreprise qui veut accélérer son produit, et par défaut seules les ancres sont demandés aux participants. Dans la variante française que nous utilisons, le hors-bord est remplacé par un voilier, ce qui rend possible de demander aux participants des "vents favorables" poussant le bateau vers l'avant.
 
@@ -71,14 +69,14 @@ Il est possible de créer deux sous-groupes travaillant sur 2 bateaux différent
 Il est possible de créer deux sous-groupes paradis et enfer pour faire éclater un abcès.
 
 
-Variantes d'usages
+## Variantes d'usages
 
 Créer une vision partagée sur les problèmes à résoudre
 Générer des idées de solution
 Voter avec le dotvoting s'accorder sur des solutions et leur priorité de mise en oeuvre
 
 
-1: retrospective
+### 1: retrospective
 
 Dans ce cas le port indique ce qui s'est passé (bien passé ou mal passé)
 
@@ -86,7 +84,7 @@ Ceci permet d'aligner tout le monde sur ce qui s'est passé sur la période pass
 
 L'ile représente les éléments indéterminés par exemple est ce que l'argent représente un frein ou un moteur ?
 
-2: amorce de projet:
+### 2: amorce de projet:
 
 freins
 énergisants
@@ -94,14 +92,12 @@ freins
 **compléter**
 
 
-3: après avoir calé une vision on part sur une hypothèse -> port
-
+### 3: après avoir calé une vision on part sur une hypothèse -> port
 permet d'identifier risques et opportunités
 
 **compléter**
 
-4: grand groupe (30 personnes)
-
+### 4: grand groupe (30 personnes)
 Demander a deux personnes de dessiner un bateau sur une feuille au mur, former deux groupes (15 personnes / groupe)
 Distribuer 2 post it pour ancres (ce qui freine l’avancée du système)
 5 minutes réflexion personnelle (prévoir stylos) 
@@ -113,7 +109,7 @@ Puis ensuite passer aux voiles (amélioration potentielles) et iles s’il y a 
 
 **compléter**
 
-Astuces
+## Astuces
 
 Bien préciser le système étudié et bien raconter l'histoire favorise le cadre bienveillant et assure une bonne dynamique et un résultat intéressant.
 
@@ -133,7 +129,7 @@ travailler sur des parties est moins bien que travailler sur l'ensemble, cela cl
 
 possible de séparer groupes entre gens paradis et enfer pour faire éclater abcès.
 
-Capitalisation
+## Capitalisation
 
 Numéroter les post-it
 Prendre une photo pour conserver une trace de l'organisation
@@ -142,7 +138,7 @@ Conserver les post-it
 
 
 
-Origine
+## Origine
 
 C'est une adaptation de Speed Boat, un des Innovation games, 
 http://innovationgames.com/speed-boat/
@@ -153,7 +149,7 @@ http://www.gymkhana.fr/contributions/gymkhana-fr/gymkhana-contenu/4_tous-dans-le
 La variante pour grands groupes a été adaptée par Lilian Ricaud
 
 
-Patterns
+## Patterns
 ARTEFACTS  + UNIVERS DE REFERENCE
 TIMEBOX
 POST-IT
@@ -164,6 +160,3 @@ Options
 
 DOTVOTING
 SOUS-GROUPES
-
-
-
