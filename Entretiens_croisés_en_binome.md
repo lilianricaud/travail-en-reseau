@@ -27,3 +27,10 @@ Il est important dans ce format de choisir de bonnes questions qui ouvrent la co
 
 ## Source: 
 Adapté par Lilian Ricaud à partir d'un format vécu lors d'une pause dej à la Serre, Toulouse (animé par ???)
+
+## Patterns
+
+TIMEBOX
+QUESTION OUVRANTE
+RENCONTRE DEBOUT
+PAIRES
