@@ -30,7 +30,7 @@ Adapté par Lilian Ricaud à partir d'un format vécu lors d'une pause dej à la
 
 ## Patterns
 
-TIMEBOX
-QUESTION OUVRANTE
-RENCONTRE DEBOUT
-PAIRES
+- TIMEBOX
+- QUESTION OUVRANTE
+- RENCONTRE DEBOUT
+- PAIRES
