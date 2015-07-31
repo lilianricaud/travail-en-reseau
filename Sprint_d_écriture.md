@@ -19,7 +19,11 @@ Par exemple voici les questions posées pour faire rédiger aux participants une
 
 ## Définition de rôles tournants
 
-Dans une rencontre il est intéressant de formaliser la distribution des roles, particulièrement lorsque les participants ne sont pas habitués à travailler ensemble. D'un autre coté, il est interessant de faire tourner ces roles pour que chacun puisse etre dans un role ou il est à l'aise ou un role qu'il maitrise mal ou plus laborieux. Ceci permet d'éviter que ce soit toujours les même qui fasse le travail et le fait d'avoir a prendre nu role permet de creer de l'emathie avec les autres quand eux même ne sont pas à l'aise dans un des roles. 
+Dans une rencontre il est intéressant de formaliser la distribution des roles, particulièrement lorsque les participants ne sont pas habitués à travailler ensemble. 
+
+D'un autre coté, il est interessant de faire tourner ces roles pour que chacun puisse etre dans un role ou il est à l'aise ou un role qu'il maitrise mal ou plus laborieux. 
+
+Ceci permet d'éviter que ce soit toujours les même qui fasse le travail et le fait d'avoir à prendre un role permet de creer de l'empathie avec les autres quand eux même ne sont pas à l'aise dans un des roles. 
 
 ### Rôles proposés:
 
