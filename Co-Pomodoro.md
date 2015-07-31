@@ -1,4 +1,5 @@
-![]({{site.baseurl}}/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/09/technique-pomodoro-reunions-591x510.jpg)
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/09/technique-pomodoro-reunions-591x510.jpg)
+
 ## Co-Pomodoro: Un format pour mener des réunions efficaces à distance
 
 Avec le développement du télétravail, cette question se pose de plus en plus.
