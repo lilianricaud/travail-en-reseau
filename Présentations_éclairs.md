@@ -2,14 +2,16 @@
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
-Alternative aux longues présentation powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
+Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel. Ce format permet aussi à un public de visualiser et découvrir un très grand nombre de sujets en un temps très court. En revanche ce format n'est pas adapté pour de l'interactivité.
 
-Même si le terme générique est présentation éclair, il existe des variantes avec des marques de fabrique particulières (Ignite, Pecha Kucha, ...). Celles ci utilisent des ingrédient similaires et le choix de l'une d'entre elles peut etre intéressant pour générer de l'interet au sein de certaines communautés de pratique.
+Même si le terme générique est présentation éclair, il existe des variantes avec des marques de fabrique particulières (Ignite, Pecha Kucha, ...). Celles ci utilisent des ingrédients similaires et le choix de l'une d'entre elles peut être intéressant pour générer de l'interet au sein de certaines communautés de pratique.
 
 ## Exemple: 
 
-![Sebastion Paquet - How to become a Culture Hacker, Ignite Talk](https://www.youtube.com/watch?v=ojQT6U-gRAM)
+Sebastien Paquet - How to become a Culture Hacker, Ignite Talk
+https://www.youtube.com/watch?v=ojQT6U-gRAM
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ojQT6U-gRAM" frameborder="0" allowfullscreen></iframe>
 
 ## Variantes:
 
