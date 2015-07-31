@@ -2,6 +2,8 @@
 
 ## Minga: un chantier collectif pour créer des biens communs
 
+CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
+
 Une Minga également appelée Minka (en langue quechua) est une tradition sud-américaine de travail collectif à des fins sociales (https://fr.wikipedia.org/wiki/Minga_%28tradition_sud-am%C3%A9ricaine%29).
 
 D’origine précolombienne, cette tradition met le travail commun au service d’une communauté, d’un village ou d’une famille, à des moments déterminés où un effort important est nécessaire : récoltes agricoles, constructions de bâtiments publics, déménagements…
