@@ -4,7 +4,7 @@ Photo par [Mario Klingemann](https://www.flickr.com/photos/quasimondo/98427151),
 
 ## Souvenirs du futur: format de réflexion collective et énergiseur 
 
-CC-BY-SA Lilian Ricaud
+CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
 Ce format est un type de brainstorming qui permet de générer des idées par une réflexion collective, mais aussi de créer une vision partagée et de générer de l'enthousiasme autour d'un projet commun.
 
