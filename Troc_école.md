@@ -38,7 +38,7 @@ Apporter un des objets ou services suivants::
 * Sourire :)
 * visite atypique de Lille (sur les toits, dans les égouts, lieux artistiques ou hors normes... )
 
-Le sourire mets le prix d'entrée assez bas pour que tout le monde puisse joindre la classe.
+Le sourire mets le prix d'entrée assez bas pour que tout le monde puisse joindre la classe. Il est intéressant d'avoir un système d'inscription et de limiter le nombre de tickets par élément demandé (pour éviter par exemple que tout le monde ramène la même chose). Cela permat aussi de limiter le nombre de participants par classe si nécessaire.
 
 ### Animer la classe
 
