@@ -34,18 +34,18 @@ Ceci permet d'éviter que ce soit toujours les même qui fasse le travail et le 
 
 ### Rôles Optionnels
 * il serait possible d'avoir un rôle d'observateur méta qui ne tournerait pas mais serait un observateur du processus afin d'améliorer le format
-* il serait possible d'avoir un "expert" chargé spécifiquement d'arbitrer certains choix plus technique, mais uniquement dans un contexte particulièrement technique ou la présence d'expert certifié serait essentielle pour compléter l'expertise collective du groupe. Dans la plupat des cas ce n'est pas souhaitable de séparer cette fonction du groupe et mettre en avant un expert en particulier.
+* il serait possible d'avoir un "expert" chargé spécifiquement d'arbitrer certains choix plus technique, mais uniquement dans un contexte particulièrement techniques ou la présence d'expert certifié serait essentielle pour compléter l'expertise collective du groupe. Dans la plupart des cas ce n'est pas souhaitable de séparer cette fonction du groupe et mettre en avant un expert en particulier.
 
 ## Réflexion et écriture collective 
 
-Pour chaque question, le groupe échange pendant 10 min et la discussion est facilitée par l'animateur, les notes prises par le scribe (qui peut etre aidé par le groupe via un pad) et le gardien du temps s'assure que le rythme est respecté.
+Pour chaque question, le groupe échange pendant 10 min et la discussion est facilitée par l'animateur, les notes prises par le scribe (qui peut être aidé par le groupe via un pad) et le gardien du temps s'assure que le rythme est respecté.
 
 ## Finalisation du document
 
 Après la production de matière brute il est intéressant d'avoir un temps de finalisation du document. Ce temps peut comporter les éléments suivants:
 
 * Vérifier et corriger les fautes d'orthographes
-* Ajouter des liens vers d'autres ressource sur le sujet
+* Ajouter des liens vers d'autres ressources sur le sujet
 * Ajouter des éléments de contexte (titre description, mots clés, licence libre)
 * Formater et mettre en page
 * Publier en ligne
@@ -53,14 +53,14 @@ Après la production de matière brute il est intéressant d'avoir un temps de f
 ## Déroulé:
 
 * Définition de 3-5 questions ou points à traiter : 15-30 minutes
-* Réflexion et écrture collective 10-15 minutes par question
+* Réflexion et écriture collective 10-15 minutes par question
 * Finalisation: 10-15 minutes
 
 
 ## Variantes
 
-Un variante très différentes mais utilisée à Supagro Florac avec le même objectif
-http://www.multibao.org/contributions/multibao/contributions/sprint_ecriture
+Un variante très différente mais utilisée à Supagro Florac avec le même objectif
+http://www.multibao.org/multibao/contributions/contributions/sprint_ecriture.md
 
 ## Sources:
 
