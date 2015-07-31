@@ -22,7 +22,7 @@ Indiquer un titre et un programme succint. Le contenu peut etre affiché sur le 
 
 ###Indiquer un mode de paiement non monétaire
 
-Il peut s'agir d'un objet ou d'un service. N'hésitez pas à avoir de l'imagination et à manifester vos besoins, même s'ils semblent improbables, on ne sait jamais et peut qu'un participant aura la possibilité de vous offrir quelque chose dont vous révez. A titre d'exemple voici une liste que j'avais demandé pour une tradeschool ayant eu lieu lors de rencontres Roumics 2013.
+Il peut s'agir d'un objet ou d'un service. N'hésitez pas à avoir de l'imagination et à manifester vos besoins, même s'ils semblent improbables, on ne sait jamais et peut qu'un participant aura la possibilité de vous offrir quelque chose dont vous révez. A titre d'exemple voici une liste que j'avais demandé pour une tradeschool ayant eu lieu lors de rencontres Roumics 2013 (http://tradeschool.coop/lille/class/concevoir-des-evenements-co-creatifs-pour-penser-agir-et-creer-ensemble/).
 
 Apporter un des objets ou services suivants::
 * aide pour trouver des dates de concerts ou diffuser localement des groupes rock/chanson française du gers
