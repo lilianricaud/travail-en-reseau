@@ -1,3 +1,8 @@
+## Entretiens croisés en binome: énergiseur et brise glace
+
+CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
+
+
 Pour commencer une réunion ou une rencontre en large groupe, ce format sert d'énergiseur et de brise-glace simple à mettre en oeuvre.
 
 ## Principe
