@@ -2,7 +2,7 @@
 
 ## Co-Pomodoro: Un format pour mener des réunions efficaces à distance
 
-CC-BY-SA Lilian Ricaud
+CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
 Avec le développement du télétravail, cette question se pose de plus en plus.
 
