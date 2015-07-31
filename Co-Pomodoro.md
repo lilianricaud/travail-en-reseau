@@ -1,4 +1,4 @@
-## Un format pour mener des réunions efficaces à distance
+## Co-Pomodoro: Un format pour mener des réunions efficaces à distance
 
 Avec le développement du télétravail, cette question se pose de plus en plus.
 
