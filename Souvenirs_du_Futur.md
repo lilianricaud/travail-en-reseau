@@ -2,7 +2,7 @@
 
 Photo par [Mario Klingemann](https://www.flickr.com/photos/quasimondo/98427151), sous licence Creative Commons BY-NC
 
-## Souvenir du futur: format de réflexion collective: 
+## Souvenirs du futur: format de réflexion collective et énergiseur 
 
 CC-BY-SA Lilian Ricaud
 
