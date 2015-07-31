@@ -18,8 +18,13 @@ La notion de Minga est intéressante car contrairement à des buzzwords vides de
 
 Plus qu'un format défini avec des règles du jeu précise, la Minga est donc plutot un appel à travailler ensemble pour créer des bien commun.
 
-Exemples de Mingas:
+## Exemples de Mingas:
 
 Minga de Brest: http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/
 
 Minga de Lille: http://www.lilianricaud.com/travail-en-reseau/minga-de-lille-travailler-en-reseau-pour-soutenir-les-communs/
+
+## Sources:
+Fiche crée par Lilian Ricaud (http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/) et utilisant du contenu de Wikipédia (https://fr.wikipedia.org/wiki/Minga_%28tradition_sud-am%C3%A9ricaine%29) 
+Image mise dans le domaine public par Wilson Daza https://fr.wikipedia.org/wiki/Minga_%28tradition_sud-am%C3%A9ricaine%29#/media/File:La-Minga-de-Curgos.jpg
+
