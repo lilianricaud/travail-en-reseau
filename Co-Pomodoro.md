@@ -17,15 +17,15 @@ Même s’il intéressant d’avoir des des compétences d’animation ou de fac
 ## Présentation de la technique Pomodoro
 Avant de rentrer dans le détail voici un description de la technique Pomodoro qui a servi de base à ce format. Comme l’explique Wikipédia,
 
-    La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l’usage d’un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori (qui signifie en italien « tomates »). Ces différentes périodes de travail sont séparées par de courtes pauses. Proches des concepts de cycles itératifs et des méthodes de développement agiles, utilisées dans le développement de logiciel, la méthode est utilisée pour la programmation en binôme. La méthode a pour principale idée que des pauses régulières favorisent l’agilité intellectuelle.
+La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l’usage d’un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori (qui signifie en italien « tomates »). Ces différentes périodes de travail sont séparées par de courtes pauses. Proches des concepts de cycles itératifs et des méthodes de développement agiles, utilisées dans le développement de logiciel, la méthode est utilisée pour la programmation en binôme. La méthode a pour principale idée que des pauses régulières favorisent l’agilité intellectuelle.
 
-    La technique se présente sous la forme de cinq étapes :
+La technique se présente sous la forme de cinq étapes :
 
-        décider de la tâche à effectuer ;
-        régler le pomodoro (minuteur) sur 25 minutes ;
-        travailler sur la tâche jusqu’à ce que le minuteur sonne et la noter comme faite ;
-        prendre une courte pause (5 minutes) ;
-        tous les quatre pomodori prendre une pause un peu plus longue (15-20 minutes).
+* décider de la tâche à effectuer ;
+* régler le pomodoro (minuteur) sur 25 minutes ;
+* travailler sur la tâche jusqu’à ce que le minuteur sonne et la noter comme faite ;
+* prendre une courte pause (5 minutes) ;
+* tous les quatre pomodori prendre une pause un peu plus longue (15-20 minutes).
 
     https://fr.wikipedia.org/wiki/Technique_Pomodoro
 
@@ -63,7 +63,7 @@ Ce moment d’ouverture/inclusion a deux avantages:
 
 Comme la technique « Souvenir du futur » ce format est intéressant car il permet à chacun de partager un peu de sa personnalité tout en gardant un contrôle complet sur ce que l’on livre de soi. On peut ainsi choisir de livrer des choses très personnelles ou bien rester général sans avoir besoin de trop se dévoiler.
 
-    Sur les Check in et Check out lisez http://www.co-creative-recipes.cc/recipes/check-in-check-out/ (en anglais)
+Sur les Check in et Check out lisez http://www.co-creative-recipes.cc/recipes/check-in-check-out/ (en anglais)
 
 ### Ingrédient 3: contrainte de temps et cycle de travail
 Avez vous déja assisté à une réunion de travail prévue pour durer 2h, mais qui déborde, empêchant de planifier d’autres taches et qui au final fait perdre une demi journée ?
@@ -135,7 +135,7 @@ CC-BY-SA Lilian Ricaud, publié à l'origine sur http://www.lilianricaud.com/tra
 
 ##Patterns
 
-TIMEBOX
-QUESTION OUVRANTE 
-PAUSE
-CHECK IN/ CHECK OUT
+* TIMEBOX
+* QUESTION OUVRANTE 
+* PAUSE
+* CHECK IN/ CHECK OUT
