@@ -11,7 +11,7 @@ Même si le terme générique est présentation éclair, il existe des variantes
 Sebastien Paquet - How to become a Culture Hacker, Ignite Talk
 https://www.youtube.com/watch?v=ojQT6U-gRAM
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ojQT6U-gRAM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojQT6U-gRAM" frameborder="0" allowfullscreen></iframe>
 
 ## Variantes:
 
