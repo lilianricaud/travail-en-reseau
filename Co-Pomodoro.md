@@ -2,6 +2,8 @@
 
 ## Co-Pomodoro: Un format pour mener des réunions efficaces à distance
 
+CC-BY-SA Lilian Ricaud
+
 Avec le développement du télétravail, cette question se pose de plus en plus.
 
 Pour les organisations qui se noient déja dans la réunionite, c’est une question qui va être de plus en plus importante. S’il est très facile de perdre du temps dans des réunions, avec la distance s’ajoute une complexité supplémentaire pour arriver à bien travailler ensemble.
