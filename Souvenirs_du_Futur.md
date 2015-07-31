@@ -12,7 +12,7 @@ Le format consiste à se projeter dans le futur après qu’un projet ou un év�
 
 En racontant des histoires au passé ont fait sortir quelque chose de tangible et on crée une empathie avec le sujet. Il ne s’agit plus simplement de quelque chose d’imaginaire, mais quelque chose de qui devient très réel pour tous.
 
-La aussi la diversité des individus enrichit le groupe, chaque personne amenant un angle plus ou moins personnel, technique, théorique ou pratique, mais toutes les pistes sont intéressantes, menant à une sorte de mini cahier des charges de ce que devrait être le projet commun
+La diversité des individus enrichit le groupe, chaque personne amenant un angle plus ou moins personnel, technique, théorique ou pratique, mais toutes les pistes sont intéressantes, menant à une sorte de mini cahier des charges de ce que devrait être le projet commun.
 
 ## Déroulé
 
@@ -28,12 +28,12 @@ De même il est extremement important que les participants **parlent au passé**
 Selon votre objectif vous pouvez changer la période dans laquelle vous vous projetez (6 jours ou 6 mois après la réalisation du projet)
 
 ### Réflexion
-On peut donner 5-15 minutes aux participants pour noter des idées sur papier ou sur des post-its. Les participants peuvent réfléchir seuls ou en petit groupes. Générallement il y a une première phase d'écriture, puis un arrêt, mais le faciliateur peut encourager et donner des exemples. Souvent des idées arrivent plus tard, notamment pour certains participants qui ont eu du mal à démarrer. Au bout d'un moment on observe que la plupart des gens ont fini de noter et on peut alors passer à la suite. A l'inverse on peut aussi choisir de donner une contrainte de temps.
+On peut donner 5-15 minutes aux participants pour noter des idées sur papier ou sur des post-its. Les participants peuvent réfléchir seuls ou en petit groupes. Généralement il y a une première phase d'écriture, puis un arrêt, mais le faciliateur peut encourager et donner des exemples. Souvent des idées arrivent plus tard, notamment pour certains participants qui ont eu du mal à démarrer. Au bout d'un moment on observe que la plupart des gens ont fini de noter et on peut alors passer à la suite. A l'inverse on peut aussi choisir de donner une contrainte de temps.
 
 ### Mise en commun des souvenirs
-Chacun est invité à présenter ses « souvenirs » au groupe. Par expérience il est intéressant que chacun parle à tour de role ce qui favorise l'écoute et permet à chacun de livrer sa vision. De plus les souvenirs se complètent généralement très bien et ainsi le tour de table enrichit les souvenirs déja livrés. 
+Chacun est invité à présenter ses « souvenirs » au groupe. Par expérience il est intéressant que chaque personne parle à tour de role ce qui favorise l'écoute et permet à chacun de livrer sa vision sans être interrompu. De plus les souvenirs se complètent généralement très bien et ainsi le tour de table enrichit les souvenirs déja livrés. Dans certains cas il peut etre ok de laisser les participants spontanément completer les souvenirs des autres, mais il faut veiller à ce que chacun puisse aussi s'exprimer et puisse se livrer sans être constamment interrompu.
 
-Si les souvenirs ont été notés sur des post-it, il peuvent être collés sur un tableau et réorganisés au fur et à mesure.  En complément ou en remplacement, les souvenirs peuvent être notés dans un traitement de texte, un pad ou un outil de mindmapping  projeté sur un écran qui permet la aussi de rendre visible, réorganiser, mais aussi de conserver au format électronique. Le format peut être clos à cette étape si le temps manque ou après l'étape suivante.
+Si les souvenirs ont été notés sur des post-it, il peuvent être collés sur un mur ou une table et réorganisés au fur et à mesure. En complément ou en remplacement, les souvenirs peuvent être notés dans un traitement de texte, un pad ou un outil de mindmapping  projeté sur un écran qui permet la aussi de rendre visible, réorganiser, mais aussi de conserver au format électronique. Le format peut être clos à cette étape si le temps manque ou sinon on peut continuer et s'arreter après l'étape suivante.
 
 ### Formation de regroupements ou clusters
 Les souvenirs collectés devrait etre notés tels quels et restitués aux participants, mais en complément il est intéressant d'organiser les souvenirs par catégories ou groupes logiques en regroupement les souvenirs similaires ensemble. Un facilitateur peut aider à faire le regroupements, mais il est interessant que la logique de regroupement soit négociée avec les participants.
