@@ -30,3 +30,7 @@ Minga de Lille: http://www.lilianricaud.com/travail-en-reseau/minga-de-lille-tra
 Fiche crée par Lilian Ricaud (http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/) et utilisant du contenu de Wikipédia (https://fr.wikipedia.org/wiki/Minga_%28tradition_sud-am%C3%A9ricaine%29) 
 Image mise dans le domaine public par Wilson Daza https://fr.wikipedia.org/wiki/Minga_%28tradition_sud-am%C3%A9ricaine%29#/media/File:La-Minga-de-Curgos.jpg
 
+## Voir le kit Minga pour co-créer des comuns
+
+* http://www.multibao.org/lilianricaud/minga/
+
