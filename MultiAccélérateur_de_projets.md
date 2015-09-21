@@ -96,11 +96,9 @@ Vote des participants à main levée sur des questions posées par les animateur
 * remerciements & FIN
 
 ## Sources: 
-Ce nouveau format a été adapté par Anne-Marie Fontaine à partir du  « Wiser Action » de Nadine Jouanen ainsi que d’autres méthodes. 
+Ce nouveau format a été adapté par Anne-Marie Fontaine à partir du  « Wiser Action » de Nadine Jouanen ainsi que d’autres méthodes. Les pictos ont été conçus par Salma Otmani.
 
 Le format a été initialement été conçu pour une pause dej atelier de 2h avant d’être remodifié pour une séquence raccourcie d’une heure par Lilian Ricaud et Anne-Marie Fontaine.
-
-Les pictos ont été conçus par Salma Otmani.
 
 L'ensemble du contenu est mis à disposition sous licence Creative Commons CC-BY-SA.
 
