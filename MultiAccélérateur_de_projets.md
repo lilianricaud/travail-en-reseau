@@ -2,7 +2,7 @@
 
 Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
 
-
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/multiaccelerateur-30juin152.jpg)
 
 ## 1 semaine avant : 
 
@@ -11,7 +11,7 @@ Les formats de type "accélérateur de projet" sont des méthodes faisant interv
 * supports visuels à afficher pour faciliter la réflexion
 
 Télécharger les supports visuels: 
-www.lilianricaud.com/travail-en-reseau/wp-content/uploads/pdf/fichiers-support-multiaccelerateur.zip
+[http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/pdf/fichiers-support-multiaccelerateur.zip](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/pdf/fichiers-support-multiaccelerateur.zip)
 
 ### Demander aux porteurs de projet 
 * de remplir par mots-clés le questionnaire/trame fourni dans le supports visuels
@@ -43,7 +43,7 @@ Présenter les règles du jeu de la prise de parole :
 ### Roles
 * un-e animateur-trice
 * un-e gardien-ne du temps
-* un-e attrapeur-se qui photographiera les canevas à la fin pour garder une traces
+* un-e attrapeur-se qui photographiera les canevas à la fin pour garder une trace
 
 ## Déroulé du format Pause Dej (2H):
 Ce format a été initialement utilisé pour les Pause Dej de la Serre, et être utilisé autour du temps de repas
@@ -52,7 +52,7 @@ Recette bientot en ligne...
 
 ## Déroulé du format version courte (1H):
 
-Nous avons fait une version condensée de découverte du format. Ce n'est pas aussi puissant que la version longue mais ça apporte tout de même pas mal d’idées au porteurs de projets
+Nous avons fait une version condensée de découverte du format qui tient dans un temps très réduit. Ce n'est pas aussi puissant que la version longue mais ça apporte tout de même pas mal d’idées au porteurs de projets en un temps ultra court.
 
 ### Présentation des règles du jeu Règle du jeu (5 min)
 
@@ -142,4 +142,3 @@ TIMEBOX: limites strictes de temps pour les séquences
 
 pitch
 rotation
-
