@@ -1,7 +1,7 @@
 
 # Elaguer l'arbre-projet
 
-![](https://pixabay.com/static/uploads/photo/2012/04/13/14/00/tree-32518_640.png)
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/10/elaguer-arbre-projet.png)
 
 ## Le principe: 
 
