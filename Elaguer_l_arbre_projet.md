@@ -9,6 +9,8 @@ Un arbre dessiné représente le projet. Les plus grosses branches représentent
 
 L'extérieur de l'arbre représente le futur. Ecrire les nouveaux éléments sur des cartes (idéalement en forme d'arbre ou contenant un dessin de feuille) et demander aux participants de placer les feuilles autour de l'arbre pour donner forme à sa croissance. Est ce qu'ils structurent un arbre qui pousse d'une manière équilibrée ? Est ce qu'une branche / catégorie reçoit toute la croissance ? Est ce qu'une partie sous utilisée de l'arbre devient plus forte ?
 
+![](http://www.innovationgames.com/wp-content/uploads/2011/08/oracletree.jpg)
+
 ## Pourquoi ça marche 
 
 Un des plus grands enjeux dans la mise en oeuvre d'un projet est de créer une image équilibrée de tout ce qui doit être faire pour réussir.
@@ -63,7 +65,7 @@ Organiser vos contributeurs afin d'avoir 4 à 10 personnes autour de chaque arbr
 
 Durant votre explication, rappelez aux contributeurs que la forme de l'arbre représente la croissance au cours du temps. Les aspects / fonctionnalités existant/e/s doivent donc aller près du tronc car ce sont les plus anciennes, , les feuilles les plus proches, représentent celles à ajouter dans le court terme. Les feuilles vers l'extérieur, au bord de la canopé, et même au dela, sont celles à considérer sur le long terme.
 
-Vous pouvez rendre cela plus expclite encore en ajoutant des repères chronologiques sur la canopé en croissance.
+Vous pouvez rendre cela plus explicite encore en ajoutant des repères chronologiques sur la canopé en croissance.
 
 Laissez du temps à chaque groupe pour présenter ses résultats à l'ensemble des contributeurs.
 
@@ -81,6 +83,8 @@ N'oubliez pas le système racinaire. Encouragez les contributeurs à écrire de 
 
 Essayez de laisser les arbres en place aussi longtemps que possible. Si faites  ce jeu sur plusieurs jours, mettez les arbres en place le premier jour et laissez les aussi longtemps que possible. Vou sverrez que les contributeurs continuent à jouer le jeu quand ils pensent à d'autres feuilles et discutent les uns avec les autres.
 
+![](http://methods4software.files.wordpress.com/2011/04/prune-prod-tree.jpg)
+
 ## Exploitez les résultats
 
 En fonction du nombre de participants, vous aurez entre 1 et 7 arbre, chacun décoré de feuilles et des notes des observateurs. Comparer ces résultats avec votre plan actuel et soyez attentifs aux éléments suivants.
@@ -96,4 +100,12 @@ Vous pouvez rendre ce jeu encore plus ouvert en donnant aux contributeurs une li
 
 ## Source
 
-Traduit et adapté par Lilian Ricaud à partir du jeu "Prune the product tree" (Luke Hohman, Innovation Games). La version originale est plus orienté pour l'examen des "fonctionalités" d'un "produit" par des "clients" et la version traduite a été ouverte plus largement pour l'examen des "éléments" d'un "projet" amendé par des "contributeurs".
+Traduit et adapté par Lilian Ricaud à partir du jeu "Prune the product tree" (Luke Hohman, Innovation Games http://www.innovationgames.com/prune-the-product-tree/). La version originale est plus orienté pour l'examen des "fonctionalités" d'un "produit" par des "clients" et la version traduite a été ouverte plus largement pour l'examen des "éléments" d'un "projet" amendé par des "contributeurs".
+
+## Examples d'usages
+
+* Product Roadmapping with Prune the Product Tree
+http://koo-doy.com/2011/04/20/product-roadmapping-with-prune-the-product-tree/
+
+* Prune the Product Tree at Oracle
+http://www.innovationgames.com/2011/03/innovation-games%C2%AE-at-work-pruning-the-product-tree-at-oracle/
