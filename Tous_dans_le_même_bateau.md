@@ -111,6 +111,43 @@ Puis ensuite passer aux voiles (amélioration potentielles) et iles s’il y a 
 
 **compléter**
 
+### 5: Elargir à d'autres acteurs•trices en dehors de l'atelier (en cours de test)
+Dans le cas ou l'on souhaite récolter les ressentis (négatifs et positifs)auprès d'une large communauté.
+- Réaliser l'atelier tel que décrit avec les participant•e•s d'un "groupe projet". 
+- A la suite de l'atelier leur distribuer une version papier du dessin : bateau (avec son nom)+ voiles + ancres + port (avec l'objectif rédigé clairement du projet)+ île. Ajouter le titre du projet et les consignes de la méthode. A minima les feuilles doivent être en A3 pour laisser suffisamment de place pour rédiger.
+- Demander aux participant•e•s d'utiliser ce support pour interroger (individuellement ou en petits groupes) les autres personnes concernées par le projet et de remplir les feuilles avec les remarques récoltées.
+- Compiler l'ensemble des retours et le rendre disponible pour tous•tes (affichage - web etc.)
+
+	_Exemple de description de la méthode à insérer dans la feuille distribuée:_
+        La méthode : « Tous•toutes dans le même bateau » :
+
+		Le port représente l’objectif du projet
+		Le bateau représente le collège aujourd’hui
+		Les ancres freinent l’avancée du bateau : 
+       		Qu’est ce qui manque aujourd’hui au collège ? 
+       		Qu’est ce qui pourrait mieux fonctionner ? …
+
+		C’est en réfléchiassant à partir de ces freins que nous allons pouvoir
+        imaginer comment, à partir de la réorganisation de la salle d’étude, de la
+        cour et du foyer, relever certaines de ces ancres, et, avec des vents
+        favorables, atteindre le port.
+
+		Consignes : 
+		Notez sur la feuille, au niveau des ancres, tous ce qui, aujourd’hui,
+        pourrait mieux fonctionner au collège. S’il manque une ancre, rajoutez-là.
+
+		Si vous avez des idées pour relever ces freins, notez-les à coté des vents
+        favorables.
+
+		Si vous avec envie de vous exprimer sur le projet, ou le collège, mais que
+        vous ne savez pas ou mettre votre idée, écrivez-là sur l’île.
+
+		Les participant•e•s de l’atelier scientifique se baseront sur vos idées pour
+        proposer des solutions.
+
+		Plus de détails sur cette méthode :
+		http://www.multibao.org/lilianricaud/travail-en-reseau/
+
 ## Astuces
 
 Bien préciser le système étudié et bien raconter l'histoire favorise le cadre bienveillant et assure une bonne dynamique et un résultat intéressant.
