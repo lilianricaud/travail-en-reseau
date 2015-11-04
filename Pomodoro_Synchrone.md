@@ -1,7 +1,8 @@
+# Pomodoro Synchrone
 
 Il faut 15 minutes pour revenir au niveau de concentration qu'on avait avant une interruption -> si on est dérangé toutes les 10 minutes on ne peut rien faire.
 
-Pour que quand on travaille ensemble on ne se dérange pas mutuellement en permanence, il est possible de faire un pomodoro synchrone ou tout le monde se met hors-flux en même temps avant de prendre une pause collective où les discussion reprennent.
+Pour ne pas déranger mutuellement en permanence quand on travaille ensemble dans un même espace physique, il est possible de faire un pomodoro synchrone ou tout le monde se met hors-flux en même temps avant de prendre une pause collective où les discussion reprennent.
 
 Recette Pomodoro:
 
@@ -14,3 +15,11 @@ https://fr.wikipedia.org/wiki/Technique_Pomodoro
 ### Options
 * Rendre visible le temps qui reste avant d'etre dérangeable (fin du cycle pomodoro)
 * Playslist synchrone 
+
+## Source:
+Format décrit par Laurent Marseault, Outils-Réseaux
+
+CC-BY-SA
+
+## Formats liés:
+* Co-Pomodoro
