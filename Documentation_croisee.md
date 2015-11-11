@@ -30,16 +30,16 @@ Un des aspect important peut être de traduire le contenu expert pour le rendre 
 Ce format peut être fait en présence ou a à distance. Dans le deux cas, un outil de co-écriture peut être utilisé pour prendre des notes à plusieurs avant d'archiver le contenu produit sur un site web, wiki ou autre boite à outil comme multibao.
 
 Licence libre: une licence permettant la libre réutilisation y compris commerciale telle la CC-BY-SA ou CC0 doit être choisie:
-* \url{https://creativecommons.org/choose/}
+* https://creativecommons.org/choose/
     
-Il est important que l'utilisation commerciale ou la modification soit possible pour que le document puisse être enrichi et puisse servir pour d'autres formations (une formation payante est un usage commercial). Ainsi ce format peut aider les deux participants et leur réseau à s'épanouir (voir Les réseaux qui durent sont sous licence CC BY SA \url{http://ebook.coop-tic.eu/francais/wakka.php?wiki=LesReseauxQuiDurentSontSousLicenceCcBy} )
+Il est important que l'utilisation commerciale ou la modification soit possible pour que le document puisse être enrichi et puisse servir pour d'autres formations (une formation payante est un usage commercial). Ainsi ce format peut aider les deux participants et leur réseau à s'épanouir (voir Les réseaux qui durent sont sous licence CC BY SA: http://ebook.coop-tic.eu/francais/wakka.php?wiki=LesReseauxQuiDurentSontSousLicenceCcBy)
 
 A distance il nécessite un outil de vidéochat (skype, hangout ou firefox hello). Avantage de chacun:
 * Skype est très répandu et beaucoup de gens l'utilisent déjà
 * Hangout permet d'enregistrer et/ou diffuser en direct sur youtube
 * Firefox hello est un outil libre
 
-Dans ce cas il est intéressant de le combiner avec une contrainte de temps comme dans le format Co-Pomodoro: \url{http://www.lilianricaud.com/travail-en-reseau/co-pomodoro-un-format-pour-des-rencontres-a-distance-productives/}
+Dans ce cas il est intéressant de le combiner avec une contrainte de temps comme dans le format Co-Pomodoro: http://www.lilianricaud.com/travail-en-reseau/co-pomodoro-un-format-pour-des-rencontres-a-distance-productives/
 
 ##Options:
 
