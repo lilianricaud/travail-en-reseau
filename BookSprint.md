@@ -2,18 +2,20 @@
 
 ![](http://www.flossmanualsfr.net/recettes-sur-la-documentation/_booki/recettes-sur-la-documentation/static/RecettesDocumentation-_index-img_0178-fr-old.jpg)
 
-Objectif: écrire une documentation de qualité dans le but de montrer son potentiel. Cette recette décrit comment créer un livre de documentation en 5 jours. 
+Objectif: écrire une documentation pour répondre aux besoins des utilisateurs. 
+Cette recette décrit comment créer un livre de documentation en 5 jours. 
 
 
 ## Ingrédients
 
 * 3-5 jours: 5 jours d'écriture pour une création, 4 pour une traduction, 1 jours réservés au déplacement si les co-auteurs voyagent de loin.
 
-* 3-14 personnes ayant des qualités rédactionelles (dans l'idéal, des personnes formateurs sur le sujet, ou des blogueurs, ou des chargés de documentation du sujet etc). Les personnes ont des connaissances différentes sur le sujet : Expert, intermédiaire, débutant. Ces niveaux d'approches différentes sont très importantes ! Ex : 4 experts, 2 intermédiaires, 2 débutants.(ça marche mieux si tout le monde est réunis au même endroit, au même moment)
+* 3-14 personnes ayant des qualités rédactionelles (dans l'idéal, des personnes formatricess sur le sujet, ou des blogueurs, ou des chargés de documentation du sujet etc). 
+ Les personnes ont des connaissances différentes sur le sujet : expert, intermédiaire, débutant. Ces niveaux d'approches différentes sont très importantes ! Ex : 4 experts, 2 intermédiaires, 2 débutants.(ça marche mieux si tout le monde est réunis au même endroit, au même moment)
 * 1 facilitateur: gardien de la méthodologie et de l'organisation.
 * 1 objectif
 * 1 lieu
-* 1 ordinateurs-portable par personne.
+* 1 ordinateur portable par personne.
 * 1 vidéo-projecteur
 * Une salle disponible 24h/24 avec internet ayant un débit suffisant
 * Outils Collaboratifs (mindmap, etherpad, ...)
@@ -35,7 +37,7 @@ Objectif: écrire une documentation de qualité dans le but de montrer son poten
 * ...
 
 ### Organisation de livre
-du plus simple au plus compliqué
+Moyenne de 150-200 pages par livre. Aller du plus simple au plus compliqué.
 Sommaire
 Chapitre 
 sections
@@ -43,8 +45,6 @@ sections
 Chapitre 
 sections
 sections
-Moyenne de 150-200 pages par livre
-
 
 ### Roles tournants: tout le monde joue ces roles alternativement.
 * auteur: ecrire selon son expérience, ses connaissances, son savoir-faire en se référant à la discussion du groupe.
