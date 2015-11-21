@@ -7,13 +7,68 @@ Objectif: écrire une documentation de qualité dans le but de montrer son poten
 ## Ingrédients
 
 * 3-5 jours
-* 3-14 personnes (tout le monde réunit au même endroit, au même moment)
-* 1 facilitateur
+* 3-14 personnes ayant des qualités rédactionelles (dans l'idéal, des personnes formateurs sur le sujet, ou des blogueurs, ou des chargés de documentation du sujet etc). Les personnes ont des connaissances différentes sur le sujet : Expert, intermédiaire, débutant. Ces niveaux d'approches différentes sont très importantes ! Ex : 4 experts, 2 intermédiaires, 2 débutants.(ça marche mieux si tout le monde est réunis au même endroit, au même moment)
+* 1 facilitateur: gardien de la méthodologie et de l'organisation.
 * 1 objectif
 * 1 lieu
+* 1 ordinateurs-portable par personne.
+* 1 vidéo-projecteur
+* Une salle disponible 24h/24 avec internet ayant un débit suffisant
 * Outils Collaboratifs
 
 Moyenne de 150-200 pages par livre
+
+
+
+
+
+
+5 jours d'écriture pour une création, 4 pour une traduction.
+
+1 jours réservés au déplacement si les co-auteurs voyagent de loin.
+
+1 logiciel Firefox pour écrire sur la plateforme.
+
+Floss Manuals & Booki pour héberger la rédaction.
+
+Budget financier pour rembourser au minimum les coûts de déplacement et au mieux pour indemniser les co-auteurs.
+
+Une grosse envie de participer à un expérience inédite.
+
+## principes
+
+### Organisation de livre
+du plus simple au plus compliqué
+Sommaire
+Chapitre 
+sections
+sections
+Chapitre 
+sections
+sections
+
+### Roles tournants: tout le monde joue ces roles alternativement.
+* auteur: ecrire selon son expérience, ses connaissances, son savoir-faire en se référant à la discussion du groupe.
+* relecteur: verifier tester, completer, reformuler, réordonner, hierarchiser le contenu du chapitre ou de la section, déplacer du contenu, corriger les erreurs de sens, de code, chasser les incohérences
+* illustrateur: imager le livre
+* editeur: chasse au fautes d'orthographe, améliorer le style, homogéneiser les styles
+
+Chaque chapitre est écrit par 2 personnes et relus par 2 autres personnes
+
+### Analyse des besoins des différents profils
+* Traducteurs
+* Administrateurs
+* Mainteneurs
+* Outils Collaboratifs
+* Documentation
+* Développeurs
+* Patch
+* Bug report
+* Utilisateurs 
+* Célébrités
+* ...
+
+## Déroulé
 
 ## Démarrage
 
@@ -25,20 +80,6 @@ Moyenne de 150-200 pages par livre
 4. equipe mixte
 5. disponilité
 6. esprit collaboratif
-
-## Analyse des besoins des différents profils
-Traducteurs
-Administrateurs
-Mainteneurs
-Outils Collaboratifs
-Documentation
-Développeurs
-Patch
-Bug report
-Utilisateurs 
-Célébrités
-
-## Déroulé
 
 ### Jour 1
 #### Matin
@@ -53,21 +94,6 @@ Dessins (facilitateur)
 #### Aprem
 * création de 39 chapitres
 - chacun choisit le chapitre sur lequel il veut écrire
-
-
-Organisation de livre
-du plus simple au plus compliqué
-
-
-#### principes
-
-Roles tournants
-
-* auteur: ecrire selon son expérince, ses connaissance, son savoir faire en se referant à la discussion du groupe
-
-* relecteur: verifier tester, completer, reformuler
-* illustrateur
-* editeur
 
 ### Jour 2 Redaction
 
@@ -109,9 +135,9 @@ Les communications instantanées permettent de travailler ensemble sur Floss Man
 
 
 ## Source:
+Elisa de Castro Guerra, Cedric Gémy, Nicolas Dufour et FLOSS MANUAL FR.
+Adapté de la méthode développée par Adam Hyde et Thomas Kraag. 
 
-Elisa de Castro Guerra et FLOSS MANUAL FR.
-Floss Manuals francophone a adopté cette méthodologie. Adam Hyde a élaboré cette méthodologie avec Thomas Kraag.
 
 * http://www.flossmanualsfr.net/recettes-sur-la-documentation/ch004_fichebooksprint
 
