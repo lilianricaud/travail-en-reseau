@@ -1,6 +1,6 @@
 # BookSprint 
 
-!(http://www.flossmanualsfr.net/recettes-sur-la-documentation/_booki/recettes-sur-la-documentation/static/RecettesDocumentation-_index-img_0178-fr-old.jpg)
+![](http://www.flossmanualsfr.net/recettes-sur-la-documentation/_booki/recettes-sur-la-documentation/static/RecettesDocumentation-_index-img_0178-fr-old.jpg)
 
 Objectif: écrire une documentation de qualité dans le but de montrer son potentiel. Cette recette décrit comment créer un livre de documentation en 5 jours. 
 
@@ -141,4 +141,3 @@ Adapté de la méthode développée par Adam Hyde et Thomas Kraag.
 
 
 * http://www.flossmanualsfr.net/recettes-sur-la-documentation/ch004_fichebooksprint
-
