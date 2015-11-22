@@ -2,6 +2,8 @@
 
 ![](http://www.flossmanualsfr.net/recettes-sur-la-documentation/_booki/recettes-sur-la-documentation/static/RecettesDocumentation-_index-img_0178-fr-old.jpg)
 
+> Version de travail en cours de rédaction
+
 Cette recette décrit comment créer un livre de documentation en 5 jours. 
 
 Un booksprint est un format innovant basé sur le Code Sprint, mais en mettant l'accent sur la production de documents au lieu de code. Un sprint rassemble un groupe d'auteurs, d'éditeurs, d'artiste, de formateur connaisseur sur le sujet du livre pour aller du synopsis au livre publié en cinq jours.
@@ -17,7 +19,6 @@ L'édition s'y fait par un travail collectif, dans un temps et un espace donne�
 ## Ingrédients
 
 * 3-5 jours: 5 jours d'écriture pour une création, 4 pour une traduction, 1 jours réservés au déplacement si les co-auteurs voyagent de loin.
-
 * 3-14 personnes ayant des qualités rédactionelles (dans l'idéal, des personnes formatricess sur le sujet, ou des blogueurs, ou des chargés de documentation du sujet etc). 
  Les personnes ont des connaissances différentes sur le sujet : expert, intermédiaire, débutant. Ces niveaux d'approches différentes sont très importantes ! Ex : 4 experts, 2 intermédiaires, 2 débutants.(ça marche mieux si tout le monde est réunis au même endroit, au même moment)
 * 1 facilitateur: gardien de la méthodologie et de l'organisation.
@@ -29,7 +30,7 @@ L'édition s'y fait par un travail collectif, dans un temps et un espace donne�
 * Outils Collaboratifs (mindmap, etherpad, ...)
 * Budget financier pour rembourser au minimum les coûts de déplacement et au mieux pour indemniser les co-auteurs.
 
-## principes
+## Principes
 
 ### Analyse des besoins des différents profils
 * Traducteurs
@@ -48,19 +49,17 @@ L'édition s'y fait par un travail collectif, dans un temps et un espace donne�
 Moyenne de 150-200 pages par livre. Aller du plus simple au plus compliqué.
 Sommaire
 Chapitre 
-sections
-sections
+	sections
+	sections
 Chapitre 
-sections
-sections
+	sections
+	sections
 
 ### Roles tournants: tout le monde joue ces roles alternativement.
 * auteur: ecrire selon son expérience, ses connaissances, son savoir-faire en se référant à la discussion du groupe.
 * relecteur: verifier tester, completer, reformuler, réordonner, hierarchiser le contenu du chapitre ou de la section, déplacer du contenu, corriger les erreurs de sens, de code, chasser les incohérences
 * illustrateur: imager le livre
 * editeur: chasse au fautes d'orthographe, améliorer le style, homogéneiser les styles
-
-Chaque chapitre est écrit par 2 personnes et relus par 2 autres personnes
 
 ### Au dela du livre
 
@@ -91,12 +90,13 @@ Dessins (facilitateur)
 
 #### Aprem
 * création de 39 chapitres
-- chacun choisit le chapitre sur lequel il veut écrire
+* chacun choisit le chapitre sur lequel il veut écrire
+* Chaque chapitre est écrit par 2 personnes et relus par 2 autres personnes
+
 
 ### Jour 2 Redaction
 
 Redaction des chapitres
-Bcp de chapitres par ce que bcp de participants
 
 ### Jour 3 redaction
 ### jour 4 relecture
@@ -104,17 +104,17 @@ Bcp de chapitres par ce que bcp de participants
 publication du livre le dernier jour à 18h.
 
 ## Publier le livre
-A utiliser en HTML, s'exporte en PDf grâce à Objavi, en ePub... Support aussi bien numérique que phsique (livre papier).
+A utiliser en HTML, s'exporte en PDf grâce à Objavi, en ePub... Support aussi bien numérique que physique (livre papier).
 
 ### Créer un Epub
 * http://fr.flossmanuals.net/creer-un-epub/_info/
 
-## Astuces pour bien résussir un Booksprint:
+## Astuces pour bien réussir un Booksprint:
 * Offrir hebergement, voyage et un repas
 * indemniser tout le monde
-Objectif clair
-Tout le monde présent les 5 jours
-* Herberger tout le monde ensemble, manger ensemble ou activité de groupe
+* Objectif clair
+* Tout le monde présent les 5 jours
+* Héberger tout le monde ensemble, manger ensemble ou activité de groupe
 * tout le monde décide ensemble
 * offrir café et thé
 * super équipe
@@ -132,9 +132,12 @@ Mais le travail en simultané dans un même lieu reste plus efficace.
 
 ## Source:
 Elisa de Castro Guerra, Cedric Gémy, Nicolas Dufour et FLOSS MANUAL FR.
-Adapté de la méthode développée par Adam Hyde et Thomas Kraag. 
+Adapté de la méthode initiallement développée par Adam Hyde et Thomas Kraag. 
 
-
+## Liens
 * http://www.flossmanualsfr.net/recettes-sur-la-documentation/ch004_fichebooksprint
 * https://fr.wikipedia.org/wiki/Booksprint
 * http://fr.flossmanuals.net/faq-floss-manuals-francophone/ch026_quest-ce-quun-book-sprint 
+
+## Licence
+CC-BY-SA
