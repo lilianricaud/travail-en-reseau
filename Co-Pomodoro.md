@@ -5,7 +5,7 @@
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
 Avec le développement du télétravail, cette question se pose de plus en plus.
-
+TEST
 Pour les organisations qui se noient déja dans la réunionite, c’est une question qui va être de plus en plus importante. S’il est très facile de perdre du temps dans des réunions, avec la distance s’ajoute une complexité supplémentaire pour arriver à bien travailler ensemble.
 
 Pour les télétravailleurs indépendants cette question est cruciale. Fatigue, tension nerveuse, chaque heure passée devant un écran a un coût.
