@@ -16,8 +16,8 @@ Brainwriting, Brainsketching, Bodystorming, Makestorming, Dreamstorming, Gamesto
 
 ## Patterns
 
-- BON GOUT
-* test
+BON GOUT
+
 Options
 
 TIMEBOX
