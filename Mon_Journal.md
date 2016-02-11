@@ -6,10 +6,11 @@ Mon journal est un format qui permet aux membres du groupe de se livrer et parle
 
 ## Préparation
 
-Demander aux gens d'amener des magazines et/ou choisir une grande variété de magazines et journaux différents.
+Demander aux participants d'amener des magazines et/ou choisir une grande variété de magazines et journaux différents.
 
 ## Consigne
-Demander auc participants individuellement de:
+
+Demander aux participants individuellement de:
 
 Découper des images et/ou textes pour représenter ce qu'ils aiment ou n'aiment pas dans le domaine personnel ou dans le domaine professionnel.
 
@@ -32,4 +33,5 @@ Le contenu peut être affiché au mur.
 Colle, scotch, papier (A3) ciseaux, magazines, journaux
 
 ## Source
-Existant peut etre sous un autre nom, ce format a été adapté par Lilian Ricaud à partir d'un exercice sans nom connu.
+
+Existant peut être sous un autre nom, ce format a été adapté par Lilian Ricaud à partir d'un exercice sans nom connu.
