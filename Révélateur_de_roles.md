@@ -2,11 +2,11 @@
 
 ## Principe
 
-Ce format vise à rendre visibles les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. Ce format permet de rendre visible les représentations que chacun peut avoir sur les rôles et de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué. 
+Ce format vise à rendre visibles les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. En permettant de rendre visible les représentations que chacun peut avoir sur les rôles, il permet d'expliciter la culture d'un groupe et/ou de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué. 
 
 ## Déroulé
 
-Inscrire des rôles sur des post it (Patron, ouvrier, …). Ces rôles peuvent être choisis par le facilitateur ou co-créés avec le groupe.
+Inscrire des rôles sur des post it (par exemple patron, ouvrier, usagers …). Ces rôles peuvent être choisis par le facilitateur ou co-créés avec le groupe.
 
 Chaque personne reçoit un post it au hasard qu'elle doit coller sur son front.
 
@@ -17,4 +17,3 @@ Le but du jeu est que chacun devine le post-it (et donc le rôle) qu'il porte su
 ## Source
 
 Format décrit par Stéphane Langlois, et documenté par Lilian Ricaud.
-
