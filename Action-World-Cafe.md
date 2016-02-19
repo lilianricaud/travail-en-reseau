@@ -73,5 +73,10 @@ Pour faciliter la mise en oeuvre des actions, il peut etre utile d'utiliser un o
 - vote à points / vote par gomettes
 - matrice Qui/Quoi/Quand
 
+## Source
+Adapté à partir du World Café par David Delon et Lilian Ricaud
 
+Méthodes World café:
+- http://www.multibao.org/multibao/contributions/contributions/world_cafe_expert.md
+- http://www.multibao.org/multibao/contributions/contributions/world_cafe.md
 
