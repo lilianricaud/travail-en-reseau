@@ -5,7 +5,7 @@ Ce format est une variante de World Café adapté specifiquement pour produire u
 
 ## Principe
 
-Le principe général du World Café est d'inviter des participants a contribuer a plusieurs sujets en sous groupe. Dans un cadre qui se veut convival, plusieurs tables sont disposées, avec pour chaque table un sujet à traiter. 
+Le principe général du World Café est d'inviter des participants a contribuer a plusieurs sujets en sous groupes. Dans un cadre qui se veut convivial, plusieurs tables sont disposées, avec pour chaque table un sujet/thème à traiter. 
 
 Autour de chaque table, des petits groupes de participants réfléchissent à un sujet pour un temps limité généralement de 15 à 30 minutes et laisse des notes (sur post-it et/ou sur une nappe) avant de passer à une autre table, pour completer les contributions des premières personnes.
 
@@ -16,23 +16,21 @@ La ou les questions abordées lors des conversations du Café sont essentielles 
 Le format Action World-Cafe s'appui sur la méthode traditionnelle du World Café mais formalise particulièrement bien la question posée pour obtenir des réponses pertinentes sous forme d'actions à mettre en oeuvre.
 
 ## Méthode du World Café
-
-Cette méthode a été particulierement bien décrite ici: 
+Avant de démarrer un Action World Café, il est important de connaitre la méthode du World Café traditionnelle. Cette méthode a été particulierement bien décrite ici: 
 - http://www.multibao.org/multibao/contributions/contributions/world_cafe_expert.md
 
 Voir en complément ici:
-
-http://www.multibao.org/multibao/contributions/contributions/world_cafe.md
+- http://www.multibao.org/multibao/contributions/contributions/world_cafe.md
 
 ## Méthode de l'Action World-Cafe
 
 ### Préalable
 
-Afin de co-créer une liste des actions à mener, il est d'abord important d'avoir eu un temps d'information ou d'échange pour avoir une vision partagée du projet.
+Afin de co-créer une liste des actions à mener, il est d'abord important d'avoir eu un temps d'information ou d'échange pour avoir une vision partagée du projet et des problématiques à résoudre.
 
 ### Matériel et disposition 
 
-Mettre des tables en ilot avec de l'espace pour circuler entre.
+Mettre des tables en ilot avec de l'espace pour pouvoir circuler entre.
 
 Sur chaque table des thèmes ou pistes d'actions sont affichées par post it. Il peut y avoir 3-4 tables selon le nombre de participants. 
 
