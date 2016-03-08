@@ -41,10 +41,16 @@ Pour ce qui concerne ton projet, Hue, c'est difficile comme ça de te bâtir un 
 *Troisième audition: musique et lectures croisées simultanément (chacun lit son texte)
 *Echange des textes
 *Temps d'écriture: 6 minutes dans le texte de l'autre.
-*Retour à son propre texte, écriture .(on fait ce qu'on veut de l'intervention de l'autre,ça peut se décider sur le moment)
+*Retour à son propre texte, écriture. (on fait ce qu'on veut de l'intervention de l'autre,ça peut se décider sur le moment)
 *Lectures
 
-## Source
+## Oulipo
 
-Auteur: Polixène
+L'Ouvroir de littérature potentielle, généralement désigné par son acronyme OuLiPo (ou Oulipo), est un groupe international de littéraires et de mathématiciens se définissant comme des « rats qui construisent eux-mêmes le labyrinthe dont ils se proposent de sortir. L'Oulipo utilise de nombreuses contraintes pour produire des textes.
+
+https://fr.wikipedia.org/wiki/Ouvroir_de_litt%C3%A9rature_potentielle#Contraintes
+
+## Sources
+
+Basé sur un commentaire de Polixène:
 http://www.vosecrits.com/t9904-ecrire-a-quatre-mains
