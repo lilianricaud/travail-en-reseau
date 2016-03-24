@@ -3,7 +3,7 @@
 
 ## Indicateurs de coopération 
 
-Les éléments suivant représentent des indicateurs possibles:
+Les éléments suivants représentent des indicateurs possibles:
 
 - **des représentations partagées** (du probleme, du projet, de l'evenement, …) et compatibles entre elles sur le plan pratique (administratif, financier, pedagogique…)
 - **une synchronisation des actions**: les personnes agissent avec et en fonction des autres pour que les actions arrivent à des moments opportuns
