@@ -5,16 +5,16 @@
 
 Les éléments suivant représentent des indicateurs possibles:
 
-- des représentations partagées (du probleme, du projet, de l'evenement, …) et compatibles entre elles sur le plan pratique (administratif, financier, pedagogique…)
-- une synchronisation des actions: les personnes agissent avec et en fonction des autres pour que les actions arrivent à des moments opportuns
-- une bonne communication et intercompréhension: chacun des membres est capable de comprendre la logique de l'autre, son raisonnement, ses priorités et ses contraintes.
-- des anticipations réciproques: les gens d'un groupe coopératif ont acquis une grande sensibilité à la culture, aux postures, aux regards et à la hauteur de voix pour savoir si une personne est prêt ou non a recevoir une information ou a entrer en coopération
-- une organisation de travail pertinente et flexible: le groupe est capable de faire évoluer son organisation par rapport au type de contexte ou de probleme à traiter en fonction des situations, priorités, evènements
-- de la cohésion et de la solidarité: il existe une relation d'entraide entre les génération ou entre des personnes poddédant des niveaux ou genre d'expertise différents
-- Une acceptation et une gestion des conflits à des moments opportuns: lorsque le groupe est confronté à des conflits ou à des divergences de vues, il sait se donner des priorités.
-- Une prise en compte des détails qui pourraient avoir un effet sur la coopération et la susciter ou, à l'inverse, la faire échouer
-- une analyse de la façon dont le groupe s'y est pris pour résoudre le problème afin d'améliorer sa coopération lorsque le même type de proble se présentera
-- une lucidité et un sntiment d' "efficacité collective" afin que le groupe ait confiance en l'utilisation de ses ressources pour atteindre ses objectifs.
+- **des représentations partagées** (du probleme, du projet, de l'evenement, …) et compatibles entre elles sur le plan pratique (administratif, financier, pedagogique…)
+- **une synchronisation des actions**: les personnes agissent avec et en fonction des autres pour que les actions arrivent à des moments opportuns
+- **une bonne communication et intercompréhension**: chacun des membres est capable de comprendre la logique de l'autre, son raisonnement, ses priorités et ses contraintes.
+- **des anticipations réciproques**: les gens d'un groupe coopératif ont acquis une grande sensibilité à la culture, aux postures, aux regards et à la hauteur de voix pour savoir si une personne est prêt ou non a recevoir une information ou a entrer en coopération
+- **une organisation de travail pertinente et flexible**: le groupe est capable de faire évoluer son organisation par rapport au type de contexte ou de probleme à traiter en fonction des situations, priorités, evènements
+- **de la cohésion et de la solidarité**: il existe une relation d'entraide entre les génération ou entre des personnes poddédant des niveaux ou genre d'expertise différents
+- **une acceptation et une gestion des conflits à des moments opportuns**: lorsque le groupe est confronté à des conflits ou à des divergences de vues, il sait se donner des priorités.
+- **conscience des détails importants**: ne prise en compte des détails qui pourraient avoir un effet sur la coopération et la susciter ou, à l'inverse, la faire échouer
+- **mécanisme de retrospective**: une analyse de la façon dont le groupe s'y est pris pour résoudre le problème afin d'améliorer sa coopération lorsque le même type de probleme se présentera
+- **une lucidité et un sntiment d' "efficacité collective"** afin que le groupe ait confiance en l'utilisation de ses ressources pour atteindre ses objectifs.
 
 ## Comment savoir si un groupe coopére bien ?
 
