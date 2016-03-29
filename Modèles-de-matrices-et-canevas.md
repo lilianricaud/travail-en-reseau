@@ -1,10 +1,8 @@
 Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement:
 
-## mandala
+## Mandala Holistique
 
-![Mandala Holistique]({{https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg}})
-
-![]({{site.baseurl}}/https://github.com/lilianricaud/travail-en-reseau/blob/master/mandala-holistique.jpg)
+<img src="https://github.com/lilianricaud/travail-en-reseau/blob/master/mandala-holistique.jpg">
 
 ## open lean canvas
 ## impact/effort
