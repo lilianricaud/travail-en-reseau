@@ -1,11 +1,14 @@
 Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement:
 
-- open lean canvas
-- mandala
-- impact/effort
-- barometre des taches - urgent/important
-- Plus - Delta
-- qui fait quoi quand
+## mandala
+
+![Mandala Holistique]({{site.baseurl}}/https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg)
+
+## open lean canvas
+## impact/effort
+## barometre des taches - urgent/important
+## Plus - Delta
+## qui fait quoi quand
 
 
 - exemple de matrices et canevas: https://www.tuzzit.com/fr/canevas
