@@ -4,6 +4,8 @@ Voici des matrices et canevas qu'il serait interessant de concevoir en version l
 
 <img src="https://github.com/lilianricaud/travail-en-reseau/blob/master/mandala-holistique.jpg">
 
+<img src="https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg">
+
 ## open lean canvas
 ## impact/effort
 ## barometre des taches - urgent/important
