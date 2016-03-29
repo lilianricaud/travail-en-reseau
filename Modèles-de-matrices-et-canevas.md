@@ -2,7 +2,7 @@ Voici des matrices et canevas qu'il serait interessant de concevoir en version l
 
 ## mandala
 
-![Mandala Holistique]({{site.baseurl}}/https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg)
+![Mandala Holistique]({{https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg}})
 
 ## open lean canvas
 ## impact/effort
