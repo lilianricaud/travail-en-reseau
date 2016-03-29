@@ -2,8 +2,6 @@ Voici des matrices et canevas qu'il serait interessant de concevoir en version l
 
 ## Mandala Holistique
 
-<img src="/mandala-holistique.jpg">
-
 <img src="https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg">
 
 ## open lean canvas
