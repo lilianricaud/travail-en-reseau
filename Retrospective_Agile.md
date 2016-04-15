@@ -10,7 +10,7 @@ Dans scrum les retrospectives sont courtes et très régulières (ex. 1h pour un
 
 ## Qui prend part ?
 
-"L'équipe", quiquonque est importante dans le contexte. Dans crum c'est au moins l'équipe de développement et parfois le product owner. 
+"L'équipe", quiquonque est importante dans le contexte. Dans scrum c'est au minimum l'équipe de développement et parfois le product owner. 
 
 Le SM facilite.
 
