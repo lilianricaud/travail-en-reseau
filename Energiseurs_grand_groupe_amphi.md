@@ -22,7 +22,7 @@ L'intervenant peut jouer un rythme en claquant des doigts ou tapant dans les mai
 
 Le rythme doit etre progressif pour etre facile a suivre, puis l'intervenant peut introduire des subtilités pour volontairement créer de la confusion avec humour
 
-## Illustre un principe avec une méthaphore corporelle
+## Illustrer un principe avec une méthaphore corporelle
 
 Dans une de ses interventions JF Noubel demander aux participants de respirer dans une paille (laissées en amont sur leur siège) et de remuer intensement pour leur vivre une sensation illustrant physiquement la notion de rareté.
 
