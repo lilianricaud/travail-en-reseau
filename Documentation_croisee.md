@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Documentation croisée 
+description: Un format où un "expert" instruit un "novice" qui en échange produit une recette sous licence libre.
+image_url: 
+---
+
+-->
+
+
 #Documentation croisée
 
 ##Le principe: 
