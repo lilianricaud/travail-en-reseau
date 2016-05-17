@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Jeux d'écriture littéraire 
+description: Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser la page blanche ou écrire en sortant de ses habitudes.
+image_url: 
+---
+
+-->
+
 # Jeux d'écriture littéraire
 
 Des sortes de jeux littéraires, juste pour lancer l'écriture, un principe, une règle, quelque chose...
@@ -7,9 +17,13 @@ Des sortes de jeux littéraires, juste pour lancer l'écriture, un principe, une
 ### Premier type de contraintes:
 
 Les inducteurs : situation, musiques, mises en condition diverses et variées : se surprendre mutuellement.Vivre des moments inhabituels, de façon à se sentir "hors de chez soi", disponible d'esprit, prêt(e) à ...
+
 Ces expériences permettent d'établir des doubles listes de mots(ou pioches) sur l'axe du sens et sur l'axe des sonorités :ces listes sont à utiliser pendant le processus d'écriture, selon des modalités qu'on décide .Elles sont une aide, un support.
+
 Vous pouvez les mélanger, les échanger, les limiter,etc ...
+
 Les inducteurs génèrent souvent le thème de l'écrit, si l'on ne se l'est pas imposé ;par exemple ,avec un inducteur musical, prenons les gymnopédies :peu de chance de produire des textes rageurs ou agressifs.
+
 D'où l'intérêt d'imaginer des situations de départ inédites voire déstabilisantes-en tous cas riches en émotions- : les productions sont plus variées, moins stéréotypées.
 
 ### Deuxième type:
