@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Evaluation croisée des restitutions 
+description: Un format pour que les moments des restitutions de sous-groupes vers le grand groupe soit un temps de travail à part entière.
+image_url: 
+---
+
+-->
+
 # Evaluation croisée des restitutions
 
 ## Principe
@@ -8,7 +18,7 @@ Une astuce pour que le moment des restitutions soit un temps de travail à part 
 
 Pour cela il faut donner au groupe les critères d'évaluation de la restitution pour leur permettre de négocier entre eux et d'évaluer la qualité du travail des autres. 
 
-Indirectement, cela leur permet de réfléchir à leur propre pratique et ce qui est bien ou moins bien dans leur propre travail
+Indirectement, cela leur permet de réfléchir à leur propre pratique et ce qui est bien ou moins bien dans leur propre travail.
 
 ## Source
 
