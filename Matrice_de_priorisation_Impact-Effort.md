@@ -1,4 +1,14 @@
-#Matrice de priorisation Impact-Effort
+<!--
+
+---
+title: Matrice de priorisation Impact-Effort 
+description: La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peu être utilisé individuellement ou collectivement.
+image_url: 
+---
+
+-->
+
+# Matrice de priorisation Impact-Effort
 
 La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peu être utilisé individuellement ou collectivement.
 
