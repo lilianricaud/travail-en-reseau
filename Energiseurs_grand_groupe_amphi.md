@@ -1,7 +1,17 @@
+<!--
+
+---
+title: Energiseurs de grands groupes 
+description: Une liste de formats pour dynamiser des grands groupes dans le cadre contraint d'un amphithéatre.
+image_url: 
+---
+
+-->
+
 
 # Energiseur grand groupe en amphi
 
-Pas facile d'énergiser le public dans un amphi, celui ci étant assis dans des fauteuils et anonyme dans la foule, il est intéressant de le dynamiser avec des exercices privélgiant le corporel, même si la mobilité est réduite par l'architecture, il est possible de jouer avec les contraintes, même pour de très grands groupes.
+Pas facile d'énergiser le public dans un amphi, celui ci étant assis dans des fauteuils et anonyme dans la foule, il est intéressant de le dynamiser avec des exercices privilégiant le corporel, même si la mobilité est réduite par l'architecture, il est possible de jouer avec les contraintes, même pour de très grands groupes.
 
 
 ## Changer de place
