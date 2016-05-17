@@ -1,4 +1,16 @@
-Le principe du travail en groupe de co-apprentissage est de créer des situations problèmes conçu pour être trop complexes pour être résolus individuellement, et force les élèves à échanger pour rsoudre le problème et ainsi échanger et apprendre mutuellement les uns des autres. Cette architecture permet de démultiplier le travail du formateur.
+<!--
+
+---
+title: Travail en groupe de co-apprentissage 
+description: Le principe du travail en groupe de co-apprentissage est de créer des situations problèmes conçu pour être trop complexes pour être résolus individuellement, et force les élèves à échanger pour résoudre le problème et ainsi échanger et apprendre mutuellement les uns des autres. Cette architecture permet de démultiplier le travail du formateur.
+image_url: 
+---
+
+-->
+
+# Travail en groupe de co-apprentissage
+
+Le principe du travail en groupe de co-apprentissage est de créer des situations problèmes conçu pour être trop complexes pour être résolus individuellement, et force les élèves à échanger pour résoudre le problème et ainsi échanger et apprendre mutuellement les uns des autres. Cette architecture permet de démultiplier le travail du formateur.
 
 
 ## Principes de conception du problème
