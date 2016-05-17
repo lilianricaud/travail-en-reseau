@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Entretiens croisés en binome
+description: Pour commencer une réunion ou une rencontre en large groupe, ce format sert d'énergiseur et de brise-glace simple à mettre en oeuvre.
+image_url: 
+---
+
+-->
+
 ## Entretiens croisés en binome: énergiseur et brise glace
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
@@ -32,6 +42,9 @@ Il est important dans ce format de choisir de bonnes questions qui ouvrent la co
 
 ## Source: 
 Adapté par Lilian Ricaud à partir d'un format vécu lors d'une pause dej à la Serre, Toulouse (animé par ???)
+
+## Format similaire:
+- Ascenceur
 
 ## Patterns
 
