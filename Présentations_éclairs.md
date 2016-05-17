@@ -3,7 +3,7 @@
 ---
 title: Présentations éclairs 
 description: Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
-image_url: http://www.co-creative-recipes.cc/recipes/ignite/
+image_url: http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/ignite-talk.jpg
 ---
 
 -->
