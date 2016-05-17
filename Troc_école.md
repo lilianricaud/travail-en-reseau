@@ -1,8 +1,20 @@
-## Troc Ecole: une école éphémère participative basée sur le troc
+<!--
+
+---
+title: Troc Ecole:
+description: Ce format est la version francisée du format tradeschool. Une tradeschool est une école éphémère basée sur le troc ou n'importe qui peut proposer un enseignement sur n'importe quel sujet et demande en échange un "paiement" non monétaire.
+image_url: 
+---
+
+-->
+
+# Troc Ecole: une école éphémère participative basée sur le troc
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
-Ce format est la version francisée du format tradeschool. Une tradeschool est une école éphémère basée sur le troc ou n'importe qui peut proposer un enesignement sur n'importe quel sujet et demande en échange un "paiement" non monétaire.
+Ce format est la version francisée du format tradeschool. Une tradeschool est une école éphémère basée sur le troc ou n'importe qui peut proposer un enseignement sur n'importe quel sujet et demande en échange un "paiement" non monétaire.
+
+## Principe
 
 La tradeschool souhaite faire l’éloge des nouveaux terrains de connaissance, pratiques ou théoriques, qui émergent de la révolution écologique, de l’épanouissement des économies locales et collaboratives et du courant “Do it yourself”. Elle accueille tous les savoirs et savoir-faire sans faire de distinction entre enseignement académique et amateur.
 
