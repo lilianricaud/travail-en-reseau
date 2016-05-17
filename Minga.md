@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Minga 
+description: Plus qu'un format défini avec des règles du jeu précise, la Minga est un appel à travailler ensemble pour créer des bien commun.
+image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2013/03/La-Minga-de-Curgos.jpg
+---
+
+-->
+
 ![La Minga de Curcos](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2013/03/La-Minga-de-Curgos.jpg)
 
 ## Minga: un chantier collectif pour créer des biens communs
@@ -33,4 +43,3 @@ Image mise dans le domaine public par Wilson Daza https://fr.wikipedia.org/wiki/
 ## Voir le kit Minga pour co-créer des comuns
 
 * http://www.multibao.org/lilianricaud/minga/
-
