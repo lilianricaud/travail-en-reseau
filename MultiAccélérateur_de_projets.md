@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Multi-accélérateur de projet
+description: Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
+image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/multiaccelerateur-30juin152.jpg
+---
+
+-->
+
 # "Multi-accélérateur de projet” - Recette libre
 
 Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
