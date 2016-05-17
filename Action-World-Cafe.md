@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Action World-Cafe 
+description: Ce format est une variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
+image_url: 
+---
+
+-->
+
+
 # Action World-Cafe
 
 Ce format est une variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
@@ -77,4 +88,3 @@ Adapté à partir du World Café par David Delon et Lilian Ricaud
 Méthodes World café:
 - http://www.multibao.org/multibao/contributions/contributions/world_cafe_expert.md
 - http://www.multibao.org/multibao/contributions/contributions/world_cafe.md
-
