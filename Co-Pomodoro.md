@@ -1,6 +1,16 @@
+<!--
+
+---
+title: Co-Pomodoro
+description: Un format optimisé pour mener des réunions efficaces à distance avec une contrainte de temps.
+image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/09/technique-pomodoro-reunions-591x510.jpg
+---
+
+-->
+
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/09/technique-pomodoro-reunions-591x510.jpg)
 
-## Co-Pomodoro: Un format pour mener des réunions efficaces à distance
+## Co-Pomodoro: Un format optimisé pour mener des réunions efficaces à distance avec une contrainte de temps.
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
