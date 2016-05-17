@@ -1,8 +1,18 @@
+<!--
+
+---
+title: Tous dans le même bateau (speedboat)
+description: Le speedboat et sa variante "Tous dans le même bateau" sont des jeux co-créatifs issu des innovation games et qui permettent de récolter des critiques/retours sur un système, un projet ou un produit dans un cadre constructif et bienveillant.
+image_url: 
+---
+
+-->
+
 ## Tous dans le même bateau (speedboat): réflexion collective
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/) et Stéphane Langlois (http://scopyleft.fr/)
 
-Le speedboat et sa variante "Tous dans le même bateau" sont des jeux co-créatif issu des innovation games et qui permettent de récolter des critiques/retours sur un système, un projet ou un produit dans un cadre constructif et bienveillant.
+Le speedboat et sa variante "Tous dans le même bateau" sont des jeux co-créatifs issu des innovation games et qui permettent de récolter des critiques/retours sur un système, un projet ou un produit dans un cadre constructif et bienveillant.
 
 Brievement le format de base consiste à dessiner un bateau sur un mur, ce bateau représentant le système étudié, et demander aux participants de noter sur des post-it quels sont les ancres qui freinent à l'avancée du bateau (le système étudié).
 
