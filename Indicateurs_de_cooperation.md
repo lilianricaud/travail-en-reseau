@@ -1,3 +1,12 @@
+<!--
+
+---
+title: Indicateurs de coopération 
+description: voici une liste d'indicateurs qui reflètent le degré de coopération dans des groupes.
+image_url: 
+---
+
+-->
 
 > faire une grille d'évaluation ?
 
