@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Pomodoro Synchrone 
+description: Pour ne pas déranger mutuellement en permanence quand on travaille ensemble dans un même espace physique, il est possible de faire un pomodoro synchrone ou tout le monde se met hors-flux en même temps avant de prendre une pause collective où les discussion reprennent.
+image_url: 
+---
+
+-->
+
+
 # Pomodoro Synchrone
 
 Il faut 15 minutes pour revenir au niveau de concentration qu'on avait avant une interruption -> si on est dérangé toutes les 10 minutes on ne peut rien faire.
