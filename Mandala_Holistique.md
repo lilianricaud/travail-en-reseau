@@ -3,7 +3,7 @@
 ---
 title: Mandala holistique 
 description: Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-definissant des valeurs et des actions à mettre en oeuvre.
-image_url: https://permaculturelle.files.wordpress.com/2011/09/dscf45801.jpg
+image_url: https://raw.githubusercontent.com/lilianricaud/travail-en-reseau/master/mandala-holistique.jpg
 ---
 
 -->
