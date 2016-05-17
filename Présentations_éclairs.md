@@ -1,6 +1,16 @@
-## Présentations éclairs: format de présentations dynamiques
+<!--
 
-CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
+---
+title: Présentations éclairs 
+description: Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
+image_url: http://www.co-creative-recipes.cc/recipes/ignite/
+---
+
+-->
+
+# Présentations éclairs: format de présentations dynamiques
+
+## Principe
 
 Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel. Ce format permet aussi à un public de visualiser et découvrir un très grand nombre de sujets en un temps très court. En revanche ce format n'est pas adapté pour de l'interactivité.
 
@@ -39,6 +49,10 @@ http://mt180.fr/
 
 * Elevator Pitch
 * Café projet
+
+## Documentation 
+
+Recette CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
 
 ## Patterns
 
