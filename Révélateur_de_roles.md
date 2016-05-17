@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Révélateur de roles 
+description: Ce jeu de rôle vise à rendre visible les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. En permettant de rendre visible les représentations que chacun peut avoir sur différents rôles, le format permet d'expliciter la culture d'un groupe et/ou de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué. 
+image_url: 
+---
+
+-->
+
 # Révélateur de roles
 
 ## Principe
