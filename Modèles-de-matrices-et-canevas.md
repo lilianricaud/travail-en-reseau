@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Modèles de matrices et de canevas
+description: Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement:
+image_url: 
+---
+
+-->
+
 Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement:
 
 ## Mandala Holistique
