@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Mon Journal 
+description: Mon journal est un format qui permet aux membres du groupe de se livrer et parler d'eux aux autres membres du groupe à travers la création d'images et de textes de magazines assemblées sur un support papier. Ceci permet à chacun de mieux apprendre à connaitre les autres dans un contexte bienveillant.
+image_url: 
+---
+
+-->
+
 # Mon journal
 
 ## Principe
