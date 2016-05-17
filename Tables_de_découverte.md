@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Tables de découverte 
+description: Les Tables de Découverte sont des séquences d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
+image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2013/05/table-de-decouverte-moustic.jpg
+---
+
+-->
+
 ![Museomix, projet présenté dans un format tables de découverte lors des rencontres MousTIC 2013 2013](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2013/05/table-de-decouverte-moustic.jpg)
 
 ## Tables de découverte: format de présentation de projets
