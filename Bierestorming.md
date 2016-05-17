@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Bièrestorming 
+description: Un format de brainstorming dans un cadre convivial autour d'une bière.
+image_url: 
+---
+
+-->
+
 ## Bièrestorming: Un format de brainstorming dans un cadre convivial autour d'une bière.
 
 CC-BY-SA Lilian Ricaud (http://www.lilianricaud.com/)
