@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Sprint d'écriture
+description: le sprint d'écriture est un dispositif qui permet la co-rédaction rapide d'un texte (ou un livre) avec une méthode d'animation structurée.
+image_url: 
+---
+
+-->
+
+
 ## Sprint d'écriture: format de co-écriture dynamique
 
 CC-BY-SA Lilian Ricaud (http://lilianricaud.com/)
