@@ -1,7 +1,19 @@
+<!--
+
+---
+title: Elaguer l'arbre-projet
+description: Le jeu "Elaguer l'arbre projet" offre à des contributeurs à un projet de visualiser les actions en cours et d'imaginer et de prioriser les évolutions futures tout en gardant une vision globale du projet.
+image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/10/elaguer-arbre-projet.png
+---
+
+-->
+
 
 # Elaguer l'arbre-projet
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/10/elaguer-arbre-projet.png)
+
+Le jeu "Elaguer l'arbre projet" offre à des contributeurs à un projet de visualiser les actions en cours et d'imaginer et de prioriser les évolutions futures tout en gardant une vision globale du projet.
 
 ## Le principe: 
 
