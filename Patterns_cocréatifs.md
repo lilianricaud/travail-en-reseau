@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Patterns cocréatifs
+description: Les patterns et les langages de patterns sont des façon de décrire les meilleures pratiques, les bonnes conceptions et capturer l'expérience de telle manière qu'il est possible pour d'autres de réutiliser cette expérience.
+image_url: 
+---
+
+-->
+
+
 ## A propos des patterns
 
 Un design pattern, traduit en français par patron de conception est une façon de documenter de façon formelle la solution à un probleme de conception dans un champ d'expertise particulier. L'idée a été introduite par l'architecte Christopher Alexander dans le domaine de l'architecture et a depuis été adapté dans d'autres disciplines comme les sciences informatiques, la facilitation. Une collection ordonnée de design patterns liés a un domaine particulier est appellé un langage de patterns (pattern language)
@@ -33,5 +44,3 @@ En cartographiant les modèles d’évènement créatifs, il est possible d’id
 L’identification et la formalisation de patterns pour les évènements co-créatifs pourrait devenir un outil puissant pour aider des individus qui partagent déja un intéret commun à partager aussi une intention commune et faciliter l’auto-organisation ponctuelle de groupes co-créatifs collaborant autour d’objectifs communs.
 
 Dans ce document http://www.multibao.org/lilianricaud/patterns_co-creatifs/Patterns_%C3%A0_miner.md, je liste des patterns que l'on retrouve dans plusieurs formats de rencontres co-créatives. Ces patterns sont pour l'instant "bruts" et n'ont pas été nécessairement dégrossis. Ils seront affinés et polis par la suite. Plus d'information sur le contexte de ce travail: http://www.lilianricaud.com/travail-en-reseau/a-propos/projets/bibliotheque-libre-patterns-evenements-co-creatifs/
-
-
