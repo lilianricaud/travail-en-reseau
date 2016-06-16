@@ -3,7 +3,7 @@
 ---
 title: Entretiens croisés en binome
 description: Pour commencer une réunion ou une rencontre en large groupe, ce format sert d'énergiseur et de brise-glace simple à mettre en oeuvre.
-image_url: 
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-entretiencroise-francebleu-ccbysa.jpg?raw=true
 ---
 
 -->
