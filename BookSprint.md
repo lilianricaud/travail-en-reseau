@@ -3,7 +3,7 @@
 ---
 title: BookSprint - créer un livre de documentation en 5 jours
 description: Un booksprint est un format innovant basé sur le Code Sprint, mais en mettant l'accent sur la production de documents au lieu de code. 
-image_url: http://www.flossmanualsfr.net/recettes-sur-la-documentation/_booki/recettes-sur-la-documentation/static/RecettesDocumentation-_index-img_0178-fr-old.jpg 
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-booksprint-lilianricaudccbysa.jpg?raw=true
 ---
 
 -->
