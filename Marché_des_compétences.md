@@ -3,8 +3,7 @@
 ---
 title: Marché des compétences
 description: Le principe de ce format est de créer un cadre où les personnes qui cherchent à acquérir une compétence et celle qui peuvent en offrir sont mises en relation puis échangent des savoirs.
-
-image_url: 
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-marchesav-US%20Embassy%20Madrid-ccbysa.jpg?raw=true
 ---
 
 -->
