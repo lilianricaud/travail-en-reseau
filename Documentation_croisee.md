@@ -3,7 +3,7 @@
 ---
 title: Documentation croisée 
 description: Un format où un "expert" instruit un "novice" qui en échange produit une recette sous licence libre.
-image_url: 
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-docucroisee-malcevsacha-ccbysa.jpg?raw=true
 ---
 
 -->
