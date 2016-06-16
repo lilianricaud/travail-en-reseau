@@ -3,7 +3,7 @@
 ---
 title: Souvenirs du futur: format de réflexion collective et énergiseur
 description: Ce format est un type de brainstorming qui permet de générer des idées par une réflexion collective, mais aussi de créer une vision partagée et de générer de l'enthousiasme autour d'un projet commun.
-image_url: http://farm1.staticflickr.com/33/98427151_9c58050ab7_z.jpg
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-souvenirdufutu.jpg?raw=true
 ---
 
 -->
