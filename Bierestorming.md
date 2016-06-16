@@ -3,7 +3,7 @@
 ---
 title: Bièrestorming 
 description: Un format de brainstorming dans un cadre convivial autour d'une bière.
-image_url: 
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-bierestorming-Fran%C3%A7oisJacques-ccbysa.jpg?raw=true
 ---
 
 -->
