@@ -3,7 +3,7 @@
 ---
 title: Minga 
 description: Plus qu'un format défini avec des règles du jeu précise, la Minga est un appel à travailler ensemble pour créer des bien commun.
-image_url: http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2013/03/La-Minga-de-Curgos.jpg
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-minga.jpg?raw=true
 ---
 
 -->
