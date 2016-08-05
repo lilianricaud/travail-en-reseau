@@ -24,4 +24,6 @@ En entrainant le cerveau à croire que cela est possible parce qu'il le voit, on
 ## Source
 Voir le détail de la méthode (en anglais)
 
+https://www.youtube.com/watch?v=4vl6wCiUZYc
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4vl6wCiUZYc" frameborder="0" allowfullscreen></iframe>
