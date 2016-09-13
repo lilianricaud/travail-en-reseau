@@ -3,7 +3,7 @@
 ---
 title: Avis à la population
 description: ce format consiste a demander aux participants de representer le projet ou produit étudié sous forme d'une affichepour mieux y réfléchir collectivement et de manière créative.
-image_url: https://github.com/multibao/contributions/blob/master/media/LR-copomodoro.jpg?raw=true
+image_url: 
 ---
 
 -->
