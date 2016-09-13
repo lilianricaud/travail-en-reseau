@@ -11,13 +11,13 @@ image_url:
 
 # Avis à la population
 
-ce format consiste a demander aux participants de representer le projet ou produit étudié sous forme d'une affiche. Le fait de travailler avec ses mains incitent à la créativité et au plaisir. Favorisant le jeu et la discussion/négociation entre participants, ce format permet de croiser des réprésentations de manière constructive (évite les oui mais). Il est possible d'utiliser ce format pour travailler avec des grands groupe (ex 10 groupes de 5 personnes).
+Ce format consiste a demander aux participants de representer le projet ou produit étudié sous forme d'une affiche. Le fait de travailler avec ses mains incitent à la créativité et au plaisir. Favorisant le jeu et la discussion/négociation entre participants, ce format permet de croiser des réprésentations de manière constructive (évite les oui mais). Il est possible d'utiliser ce format pour travailler avec des grands groupe (ex 10 groupes de 5 personnes).
 
 ## Matériel
 
 feuilles de paperboard, post-it, feutres, marqueurs, ciseaux, scotch, colle, feuilles colorées, ...
 
-### Consigne
+## Consigne
 
 Rappeller brievement l'intitulé du projet ou du produit.
 
@@ -39,26 +39,24 @@ Avant la fin du temps, les facilitateurs informent de la fin du temps et demande
 
 Annoncer le temps restant: "il vous reste une demi-heure avant de présenter votre affiche"
 
-### Pitch
+## Pitch
 
 Affichage des affiches sur le mur central, le groupe est beaucoup plus près du tableau. 
 Chaque groupe doit à tour de role présenter son affiche en 1 min de pitch.
         
 "Est ce que l'on peut pitchez a 2 ?" Pitchez à autant que vous voulez, sauf à un"
 
-### Déroulé
+## Déroulé
 
 - 5 min présentation consignes
 - 30 min travail
 - 10 min préparation du pitch
 - 10 min pitch en grand groupe
 
-### Options
+## Options
 
 - Un ballon est lancé au hasard pour choisir le groupe qui présentera ensuite
 - mesure par applaudimètre: si applaudissements après les pitchs l'animateur annonce un score d'applaudimètre après chaque applaudissement et le résultat noté sur un papier. A la fin l'animateur froisse le papier et le jette pour signifier qu'il n'y a aucune bonne ou mauvaise présentationet casser toute dynamique compétitive.
-
-
 
 ## Source
 
