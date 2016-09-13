@@ -63,7 +63,7 @@ Ce travail fait il peut etre interessant d'ancrer dans l'espace cette charte (af
 
 Recette simplifiée rédigée par Lilian Ricaud.
 
-La recette détaillé est disponible dans un livre "Faire Ensemble, outils participatifs pour les collectifs", de Robina Mc Curdy, qui propose plusieurs formats tres interessants et ciblés sur les projets transition/habitat partagé.
+La recette détaillée est disponible dans un livre "Faire Ensemble, outils participatifs pour les collectifs", de Robina Mc Curdy, qui propose plusieurs formats tres interessants et ciblés sur les projets transition/habitat partagé.
 
 http://www.passerelleco.info/article.php?id_article=1778
 
