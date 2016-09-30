@@ -52,7 +52,7 @@ Ces groupes servent ensuite de base de travail à la mise en oeuvre concrète du
 
 ## Variantes:
 
-###Souvenirs du futur en ligne
+### Souvenirs du futur en ligne
 
 Ce format a été utilisé avec succès à distance via des outils de visio type Skype. Dans ce cas il est utile d'avoir un scribe sur place qui note les idées au fur et à mesure. Cela libère le facilitateur et lui permet de se concentrer pleinement sur ce qui est dit. Mais cela lui permet aussi d'avoir une lecture écrite qui est particulièrement utile quand le son n'est pas de bonne qualité.
 
@@ -64,6 +64,38 @@ Dans le souvenir du futur on demande aux participants de « se rappeler » uniqu
 
 ## Exemple d'utilisation:
 http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/
+
+### Souvenir du futur pour grand groupe
+
+Ce format a été testé avec succès pour un groupe de 40 personnes dans un temps total de 2h. Il a été couplé avec la matrice MANDALA HOLISTIQUE pour traitement collectif de l'information.
+
+- Consigne (5min)
+
+"Nous sommes le x octobre 2017, une année s'est écoulée depuis la mise en place xxx.... Vous avez trouvé l'année GENIALE, vous avez beaucoup apprécié ce qui s'est passé. Dites pourquoi et décrivez comment ça s'est passé.
+Vous pouvez vous rappellez ce qui s'est passé mais aussi comment ça s'est passé, comment on en est arrivé la.
+Vous avez 5 minutes de réflexion seul pour ensuite le partager en sous -groupe, puis en grand groupe.
+Ecrivez votre contribution au passé (1 idée/souvenir  par post-it)et de manière lisible (en majuscule)
+
+- Lister ses souvenirs personnels sur papier: 5 min
+
+- Par groupe de 3 mettre en commun ses souvenirs, éliminer les doublons ou compléter: 15 min
+Et remettre sur des post-it, un souvenir par post-it.
+
+- Par groupe de 6 on remet encore en commun ses souvenirs: 10-15 minutes
+Présentation du Mandala (5 minutes)
+
+- Restitution grand groupe: 5 min / groupe = 40 minutes minimum (prévoir 40 min de plus pour les dépassements)
+
+Option testée:
+Laisser les groupes positionner leur post it au fur et a mesure dans le mandala
+On ne discute pas le choix, phase d'écoute et de recueil, pas de négociation.
+le travail de catégorisation fin et discussion collective des sujets a lieu plus tard dans un seconde phase
+
+Autre option possible: prendre le temps nécessaire pour collectivement positionner les post it en discutant/négociant leur emplacement (nécessite plus de deux heures).
+
+Prévoir un-e gardien-ne du temps qui donne 5 min par groupe et qui signale le temps restant. En pratique les groupes ont du mal a tenir le temps donné (surtout s'il y un peu d'interaction, mais en faisant cela, ils débordent seulement de quelques minutes).
+
+Prévoir du temps de battement, car cela peut facilement déborder si la discussion est riche.
 
 ## Sources:
 Ce format a été adapté du format utilisé par Stéphane Langlois, lui même inspiré par le format Remember the Future des Innovations Games (http://www.innovationgames.com/remember-the-future/)
