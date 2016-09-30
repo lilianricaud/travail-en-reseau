@@ -50,6 +50,10 @@ Les souvenirs collectés devrait etre notés tels quels et restitués aux partic
 
 Ces groupes servent ensuite de base de travail à la mise en oeuvre concrète du projet.
 
+## Exemple d'utilisation:
+http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/
+
+
 ## Variantes:
 
 ### Souvenirs du futur en ligne
@@ -61,9 +65,6 @@ Pour trouver des pistes d'actions plus concrètes en utilisant l'intelligence co
 
 ### Cauchemars du futur
 Dans le souvenir du futur on demande aux participants de « se rappeler » uniquement ce qui a bien marché pour unir autour d’une vision positive. Il est aussi possible de « se rappeler » ce qui n’avait pas marché afin d’avoir une idées des écueils ou difficultés possibles. Dans ce cas on peut aussi demander aux participants de se rappeller les mauvais souvenirs ou cauchemars du futur. La encore la question posée influencera énormément le résultat.
-
-## Exemple d'utilisation:
-http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/
 
 ### Souvenir du futur pour grand groupe
 
