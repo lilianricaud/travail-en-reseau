@@ -85,7 +85,7 @@ Pour des raison de temps sur une journée, le mandala de ce grand groupe était 
 
 Revoir l'ensemble avec le facilitateur présentant ces éléments un par un aurait été extremement laborieux et une interaction frustrante (une ou deux personnes parlant à la fois et le reste étant spectateur.
 
-Une variante testé avec ce groupe  a donc été de proposer que le groupe prenne collectivement une partie du rôle de facilitateur. 
+Une variante testé avec ce groupe a donc été de proposer que le groupe prenne collectivement une partie du rôle de facilitateur. 
 
 Pour cela l'objectif final avait été clairement présenté: 
 - organiser toute l'information du mandala par grand thèmes qui allait donner les segments
@@ -101,6 +101,7 @@ Ensuite chaque groupe présentait au collectif ce qu'il avait dédui comme princ
 Les valeurs était ainsi obtenus par croisement de plusieurs segments, tandique les principes étaient ensuite discuté.
 
 Important: demander de noter les principes avec un verbe et sur un post it, avec un principe / par post-it.
+Prendre assez de temps pour avoir le temps de discuter et d'avoir un consensus (2-3h grand minimum pour un si grand groupe).
 
 
 ## Source
