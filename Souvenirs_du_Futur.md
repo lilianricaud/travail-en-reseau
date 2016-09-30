@@ -83,7 +83,8 @@ Ecrivez votre contribution au passé (1 idée/souvenir  par post-it)et de maniè
 Et remettre sur des post-it, un souvenir par post-it.
 
 - Par groupe de 6 on remet encore en commun ses souvenirs: 10-15 minutes
-Présentation du Mandala (5 minutes)
+
+- Présentation de la matrice du MANDALA HOLISTIQUE pour traiter l'information (5 minutes)
 
 - Restitution grand groupe: 5 min / groupe = 40 minutes minimum (prévoir 40 min de plus pour les dépassements)
 
