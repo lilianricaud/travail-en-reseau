@@ -21,3 +21,14 @@ Entre forum ouvert, world cafe, pro action cafe, cercle excentrique et autres fo
 Explicitation formelle des différentes étapes pour animer un Forum Ouvert
 
 - http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/forum_ouvert.md
+
+
+## Cercle Excentrique
+
+Impliquer un grand groupe dans la discussion d'un plus petit groupe. Idéal pour favoriser l'écoute.
+
+- http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md
+
+## Accélérateur de projet
+Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
+- http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/accelerateur_de_projets.md
