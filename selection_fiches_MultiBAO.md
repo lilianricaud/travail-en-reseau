@@ -32,3 +32,8 @@ Impliquer un grand groupe dans la discussion d'un plus petit groupe. Idéal pour
 ## Accélérateur de projet
 Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
 - http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/accelerateur_de_projets.md
+
+
+## Guide exercice : des croyances aux comportements
+Ouvrir les participants à une vision différente des personnes autour d'eux
+- http://www.multibao.org/#reseautransitionwb/reseau_transition/blob/master/contributions/donut.md
