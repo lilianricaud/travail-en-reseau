@@ -34,6 +34,6 @@ Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour 
 - http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/accelerateur_de_projets.md
 
 
-## Guide exercice : des croyances aux comportements
-Ouvrir les participants à une vision différente des personnes autour d'eux
+## Exercice du "donut"
+Méthode de l'exercice du "donut", qui permet de comprendre comment nos comportements sont déterminés par nos croyances.
 - http://www.multibao.org/#reseautransitionwb/reseau_transition/blob/master/contributions/donut.md
