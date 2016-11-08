@@ -4,6 +4,7 @@
 title: Réaliser ses rêves grâce au dessin 
 description: Comment réaliser ses rêves et passer à l'action en utilisant le dessin pour entrainer son cerveau à passer à l'action et éviter des rester paralysé par la logique et l'analyse.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
