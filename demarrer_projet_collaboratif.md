@@ -1,3 +1,17 @@
+<!--
+
+---
+title: Démarrer un projet collaboratif 
+description: Lorsque l'on démarre un projet collaboratif (voir différence entre coopératif et collaboratif), il est essentiel de batir sur de bonnes fondations. Voici une séquence qui décrit des étapes essentielles pour faciliter la mise en oeuvre de projet. 
+
+Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet et aide à passer de l'intention de départ à la mise en oeuvre même avec des gens qui ne se connaissent pas avant.
+image_url: 
+---
+
+-->
+
+# Démarrer un projet collaboratif
+
 Lorsque l'on démarre un projet collaboratif (voir différence entre coopératif et collaboratif), il est essentiel de batir sur de bonnes fondations. Voici une séquence qui décrit des étapes essentielles pour faciliter la mise en oeuvre de projet. 
 
 Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet et aide à passer de l'intention de départ à la mise en oeuvre même avec des gens qui ne se connaissent pas avant.
