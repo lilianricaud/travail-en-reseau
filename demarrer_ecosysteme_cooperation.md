@@ -1,14 +1,14 @@
 <!--
 
 ---
-title: Demarrer un ecosystème de coopération comme un jardin partagé 
+title: Démarrer un ecosystème de coopération comme un jardin partagé 
 description: Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant lamétaphore d'un métaphore d'un jardin partagé.
 image_url: 
 licence: CC-BY-SA
 ---
 
 -->
-
+# Démarrer un ecosystème de coopération comme un jardin partagé 
 
 Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant lamétaphore d'un métaphore d'un jardin partagé.
 
