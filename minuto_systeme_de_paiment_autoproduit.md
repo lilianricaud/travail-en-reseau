@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: Minuto: un systeme de paiment autoproduit
+title: Minuto-Cash: un nouveau moyen de paiement autoproduit et pour toutes les régions
 description: A mi-chemin entre le SEL (système d'échange local) et la monnaie complémentaire papier, le Minuto reprends le meilleur des deux pourcréer un système d'échange de service autogéré, non centralisée où la monnaie est auto-produite par chacun des membres du réseau.
 image_url:
 licence: CC-BY-SA
@@ -11,7 +11,7 @@ licence: CC-BY-SA
 
  > A mi-chemin entre le SEL (système d'échange local) et la monnaie complémentaire papier, le Minuto reprends le meilleur des deux pourcréer un système d'échange de service autogéré, non centralisée où la monnaie est auto-produite par chacun des membres du réseau.
 
-# MINUTO – CASH UN NOUVEAU MOYEN DE PAIEMENT AUTOPRODUIT ET POUR TOUTES LES REGIONS 
+# Minuto-Cash: un nouveau moyen de paiement autoproduit et pour toutes les régions 
 
 ## Le Concept du Minuto 
 
