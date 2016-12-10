@@ -44,11 +44,15 @@ Chaque bon Minuto montre le nom et l'adresse de la personne qui l'a émis, sa va
 
 Les minutos sont naturellement plus acceptés dans la région où ils sont créés. Cependant, n'importe qui n'importe où est autorisé à accepter et utiliser des minutos émis dans d'autres régions. Les producteurs de biens du secteur primaire bénéficient particulièrement de ces rencontres et de l'usage de Minutos: agriculture, horticulture, artisanat et services sociaux.
 
+## Présentation vidéo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CU8OCx_MO4E" frameborder="0" allowfullscreen></iframe>
+
 ## Questions fréquentes et réponses
 
 ### 1. Est ce que l'on peut acheter des Minutos seulement auprès de l'émetteur/l'émettrice du bon ?
 
-Est ce que les gens prennent des billets seulement auprès de la banque centrale ? Très peu. De la même manière, les bons Minuto peuvent être passé comme moyen de paiement des centaines de fois d'une personne à une autre, avant de finir auprès de son emetteur. Tout le monde a la liberté de l'accepter ou de le refuser. Mais l'émetteur/l'émettrice a la responsabilité de le rembourser pendant sa durée de validité. 
+Est ce que les gens prennent des billets seulement auprès de la banque centrale ? Très peu. De la même manière, les bons Minuto peuvent être passés comme moyen de paiement des centaines de fois d'une personne à une autre, avant de finir auprès de son emetteur. Tout le monde a la liberté de l'accepter ou de le refuser. Mais l'émetteur/l'émettrice a la responsabilité de le rembourser pendant sa durée de validité. 
 
 ### 2. Est ce nécessaire que l'émetteur/l'émettrice écrive son offre sur les bons qu'il a émis ? 
 
@@ -171,6 +175,17 @@ Oui car les Minutos devraient être crées dans le plus d'endroits possible.  Le
 - formulaire pour remplir vos offres, talents, produits
 - posters Minutos pour les entrées de magasins
 
+### Formulaire à imprimer
+formulaire de bons Minuto pour les montants suivants: 1 – 5 – 15 – 30 – 60 – 120 
+- https://github.com/lilianricaud/travail-en-reseau/raw/master/minuto-bon-france.pdf
+
+formulaire de bons Minuto pour les montants suivants:  30 – 60 – 120 - 30 – 60 – 120
+- https://github.com/lilianricaud/travail-en-reseau/raw/master/minuto-bon-france-2.pdf
+
+### Fichiers modifibiables (format open document)
+
+- https://github.com/lilianricaud/travail-en-reseau/raw/master/minuto-bon-france.odg
+- https://github.com/lilianricaud/travail-en-reseau/raw/master/minuto-bon-france-2.odg
 
 ## Avertissement
 L'auteur ne pourra être tenu responsable si l'information fournie ici n'est pas complète, exacte, à jour ou de bonne qualité.
