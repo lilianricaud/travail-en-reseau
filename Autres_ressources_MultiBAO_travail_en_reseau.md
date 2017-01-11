@@ -23,6 +23,14 @@ La première version de multiBAO donnait accès à de nombreuses fiches, non cla
 - http://www.multibao.org/#multibao/contributions/tree/master/contributions
 - https://github.com/multibao/contributions/tree/master/contributions
 
+## Thomas Wolff
+- http://www.multibao.org/#WolffThomas/perles_gestion_projets/tree/master/contributions
+- https://github.com/WolffThomas/perles_gestion_projets/tree/master/contributions
+
+## Cre Sol
+
+- http://www.multibao.org/#RomainLalande/Cre-sol
+- https://github.com/RomainLalande/Cre-sol
 
 ## Gymkhana
 Ateliers de formation citoyen pour les collectivités voulant co-construire avec des citoyens
