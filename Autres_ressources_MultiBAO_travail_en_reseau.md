@@ -18,6 +18,12 @@ Ces contenus sont tirés de l'ebook : Faire ensemble : manuel à l'usage des ani
 - Dossier MultiBAO: http://www.multibao.org/#supagroflorac/cooptic/tree/master/contributions
 - Source sur Github: https://github.com/supagroflorac/cooptic/tree/master/contributions
 
+## MultiBAO V1
+
+- http://www.multibao.org/#multibao/contributions/tree/master
+- https://github.com/multibao/contributions/tree/master
+
+
 ## Gymkhana
 Ateliers de formation citoyen pour les collectivités voulant co-construire avec des citoyens
 
