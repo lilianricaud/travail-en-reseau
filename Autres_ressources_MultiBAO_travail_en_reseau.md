@@ -19,9 +19,9 @@ Ces contenus sont tirés de l'ebook : Faire ensemble : manuel à l'usage des ani
 - Source sur Github: https://github.com/supagroflorac/cooptic/tree/master/contributions
 
 ## MultiBAO V1
-
-- http://www.multibao.org/#multibao/contributions/tree/master
-- https://github.com/multibao/contributions/tree/master
+La première version de multiBAO donnait accès à de nombreuses fiches, non classées, mais toujours utiles, les voici:
+- http://www.multibao.org/#multibao/contributions/tree/master/contributions
+- https://github.com/multibao/contributions/tree/master/contributions
 
 
 ## Gymkhana
