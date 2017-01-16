@@ -1,6 +1,18 @@
+<!--
+
+---
+title: Lettre à moi même 
+description: Un format pour se rappeller un engagement ou une action à faire.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 # Lettre à moi même
 
-Un format pour se rappeller un engagement ou une action a faire.
+Un format pour se rappeller un engagement ou une action à faire.
 
 ## Usage
 
