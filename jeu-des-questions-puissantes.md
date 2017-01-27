@@ -2,16 +2,16 @@
 <!--
 
 ---
-title: Jeu des questions puissantes
+title: Concevoir des questions puissantes
 description: Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. Cette recette donne des pistes pour concevoir une bonne question.
 image_url: 
 ---
 
 -->
 
-# Jeu des questions puissantes
 
-## Concevoir des questions puissantes 
+
+# Concevoir des questions puissantes 
 
 Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. A l'inverse, une question pauvre ne permettra pas au groupe d'exprimer pleinement son potentiel. 
 Une bonne question est donc l'un des outils les plus puissant du facilitateur et ceci a été tres travaillé par la communauté Art of Hosting. Pourtant ce n'est pas simple de concevoir des bonnes questions. 
