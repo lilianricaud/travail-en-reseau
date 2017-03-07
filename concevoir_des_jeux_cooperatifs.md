@@ -191,10 +191,10 @@ Un pattern n'est pas simplement un élément figé dans une liste. Comme un mot,
 
 ## Autres ressources libres pour créer des jeux:
     
-    https://leschiensdelenfer.org/telechargements/
+- https://leschiensdelenfer.org/telechargements/
 
 ## Source
-contributeurs: sylvain guignard (sylvainguignard@hotmail.com)
+contributeurs patterns jeux: Sylvain Guignard (sylvainguignard@hotmail.com)
 Documentation: Lilian Ricaud
 
 ## Réutilisation: CC-BY-SA
