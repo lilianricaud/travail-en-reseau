@@ -1,21 +1,25 @@
+<!--
+
+---
+title: Concevoir des jeux coopératifs
+description: Voici une liste de bonnes pratiques à intégrer pour créer un jeu et plus spécifiquement un jeu coopératif.
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-booksprint-lilianricaudccbysa.jpg?raw=true
+---
+
+-->
+
 # Concevoir des jeux coopératifs
 
-Pourquoi ce pad ?
-
-Pour cartographier les bonnes pratiques de conception d'un jeu coopératifs et créer une recette libre qui sera publiée sous licence libre CC-BY-SA sur multiBAO. 
-
-
+Voici une liste de bonnes pratiques à intégrer pour créer un jeu et plus spécifiquement un jeu coopératif. Ces bonnes pratiques sont listées au format patterns (voir plus bas).
    
-Voici une liste de bonnes pratiques à intégrer pour créer un jeu et plus spécifiquement un jeu coopératif. Ces bonnes pratiques sont listées au format patterns (voir plus bas)
+La fiche est organisée en 5 parties principales:
    
-La fiche est organisée en 3 parties
-   
-
 - patterns jeux coopératifs
 - patterns génériques des jeux
+- à propos des patterns
 - liste de jeux coopératifs
 - ressources libres pour créer des jeux
-- à propos des patterns
+
 
 
 ## Liste des patterns de jeux coopératifs
