@@ -20,7 +20,7 @@ La fiche est organisée en 5 parties principales:
 - liste de jeux coopératifs
 - ressources libres pour créer des jeux
 
-
+Ce document est un travail en cours, vous pouvez contribuer en modifiant le fichier sur le site github: https://github.com/lilianricaud/travail-en-reseau/blob/master/concevoir_des_jeux_cooperatifs.md
 
 ## Liste des patterns de jeux coopératifs
 
@@ -177,17 +177,17 @@ Un pattern n'est pas simplement un élément figé dans une liste. Comme un mot,
 
 ## Liste de jeux coopératifs
 
-Pandémie, jeu du TAO, ...
-Ghost stories
-Andor
-Salem
-Hanabi
+- Pandémie, jeu du TAO, ...
+- Ghost stories
+- Andor
+- Salem
+- Hanabi
 
 ## Liste de jeux semi-coopératifs
 
-Les chevaliers de la table ronde
-Battlestar Galactica
-Room 25
+- Les chevaliers de la table ronde
+- Battlestar Galactica
+- Room 25
 
 ## Autres ressources libres pour créer des jeux:
     
