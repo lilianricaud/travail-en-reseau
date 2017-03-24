@@ -2,7 +2,7 @@
 
 ---
 title: Brise Glace Kanak
-description: Ce brise glace consiste simplement à poser ces deux questions à une autre personne pour démarrer une conversation.
+description: Ce brise glace consiste simplement à poser deux questions à une autre personne pour démarrer une conversation.
 image_url: 
 licence: CC-BY-SA
 ---
