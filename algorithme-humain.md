@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Algorithme humain 
+description: Lorsque l'on souhaite traiter un problème complexe et que l'on dispose d'un grand groupe motivé, il est possible de mettre en place un "algorithme humain" un mode de fonctionnement avec un ensemble de règles pour traiter le problème.
+image_url: 
+---
+
+-->
+
+
 # Algorithme humain
 
 ## Principe
@@ -45,7 +56,9 @@ Le principe général est de diviser un grand groupe en sous groupe, puis d'assi
 
 Chaque groupe est libre de s'auto-organiser pour mener à bien sa taches.
 
-Il est important pour que cela réussisse que chaque groupe ait une consigne très claire
+Il est important pour que cela réussisse que chaque groupe ait une consigne très claire.
+
+La question posée doit être claire et/ou pertinente pour le groupe.
 
 Les taches sont ainsi traitées en parallèle.
 
@@ -53,4 +66,4 @@ On peut ensuite demander aux groupes de restituer et/ou de s'auto-organiser pour
 
 ## Source
 CC-BY-SA
-Lilian Ricaud
+Lilian Ricaud, inspiré par un dépot multibao (lequel?)
