@@ -1,12 +1,9 @@
-<!--
-
 ---
 title: Co-Pomodoro
 description: Un format optimisé pour mener des réunions efficaces à distance avec une contrainte de temps.
 image_url: https://github.com/multibao/contributions/blob/master/media/LR-copomodoro.jpg?raw=true
 ---
 
--->
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/09/technique-pomodoro-reunions-591x510.jpg)
 
