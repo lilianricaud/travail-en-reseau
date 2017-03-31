@@ -47,4 +47,10 @@ Chaque groupe est libre de s'auto-organiser pour mener à bien sa taches.
 
 Il est important pour que cela réussisse que chaque groupe ait une consigne très claire
 
-Les taches sont ainsi 
+Les taches sont ainsi traitées en parallèle.
+
+On peut ensuite demander aux groupes de restituer et/ou de s'auto-organiser pour remettre en commun.
+
+## Source
+CC-BY-SA
+Lilian Ricaud
