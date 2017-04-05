@@ -16,4 +16,5 @@ Ce brise glace consiste à guider une personne qui marche les yeux fermés. On p
 Il est interessant de faire cela dans un lieu protégé des voitures et/ou avec des stimulation pour d'autres sens (odeurs, sons, ...)
 
 ## Source
-Stéphane Langlois
+Décrit par Stéphane Langlois
+Documenté par Lilian Ricaud CC-BY-SA
