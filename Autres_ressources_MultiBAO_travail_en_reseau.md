@@ -44,3 +44,7 @@ Fiche des jeux joués pendant les Agile Games 2015 de Bazas
 - Dossier MultiBAO: http://www.multibao.org/#pointbar/multibao-agfr2015/tree/master/contributions
 - Source sur Github: https://github.com/pointbar/multibao-agfr2015/tree/master/contributions
 
+## Sylvain Boyer
+Un bon dossier sur les métamodèles:
+- Dossier MultiBAO: http://www.multibao.org/#sylvainboyer/decodage/blob/master/meta_modeles.md
+- Source sur Github: https://github.com/sylvainboyer/decodage/blob/master/meta_modeles.md
