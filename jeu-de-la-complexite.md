@@ -32,5 +32,6 @@ Reconnaître  la  complexité  de  notre  monde,  c’est se  libérer  de  notr
 
 ## Source
 
-Communauté Art of Hosting
-http://communat.com/intranet/_files/files/outiller/mb-guide-ASSS-AT.pdf
+David King-Ruel et Jonathan Jubinville (CC-BY-SA Matière brute 2015)
+- http://matierebrute.com
+- http://communat.com/intranet/_files/files/outiller/mb-guide-ASSS-AT.pdf
