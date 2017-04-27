@@ -46,8 +46,18 @@ Quelques jeux pour apprendre à se connaitre et se rencontrer.
 
 Ce brise glace consiste simplement à poser deux questions à une autre personne pour démarrer une conversation.
 
+### Présentations croisées 
+Alternative aux longues présentations de début de rencontres où chacun se présente de manière conventionnelle.
+
+### Marche en aveugle
+description: Ce brise glace consiste à guider une personne qui marche les yeux fermés.
+
 ## Energiseurs
 
 ### Alinéa
 
 Ce format d'énergiseur consiste a avoir un dialogue fait uniquement de bruits ou de "yahourt". (Alinéa fait référence au dessin animé ou des personnage parle de manière très expressive sans employer de mots).
+
+# Push/Pull
+
+Un énergiseur facile à mettre en oeuvre sans matériel juste avec un peu d'espace.
