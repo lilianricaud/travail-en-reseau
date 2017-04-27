@@ -19,3 +19,6 @@ Alternative aux longues présentations de début de rencontres où chacun se pr�
 
 Option: en tres grand groupe, donner comme consigne de présenter la personne en 2-3 mots pour limiter le temps nécessaire. L'effet est parfois même plus interessant.
 
+## Source
+Format très connus (source originelle ?), documentation Lilian Ricaud CC-BY-SA
+
