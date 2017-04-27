@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: Energiseurs de grands groupes 
+title: Energiseurs de grands groupes en amphi
 description: Une liste de formats pour dynamiser des grands groupes dans le cadre contraint d'un amphithéatre.
 image_url: 
 ---
