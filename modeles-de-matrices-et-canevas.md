@@ -19,6 +19,8 @@ Voici des matrices et canevas qu'il serait interessant de concevoir en version l
 ## barometre des taches - urgent/important
 ## Plus - Delta
 ## qui fait quoi quand
+## Leadership participatif
+## degré de maturité d'un commun
 
 
 - exemple de matrices et canevas: https://www.tuzzit.com/fr/canevas

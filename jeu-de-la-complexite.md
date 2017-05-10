@@ -2,8 +2,7 @@
 
 ---
 title: Jeu de la complexité 
-description: Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en  grand 
-groupe.
+description: Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en grand groupe.
 image_url: 
 licence: CC-BY-SA
 ---
@@ -14,8 +13,7 @@ licence: CC-BY-SA
 
 ## Principe
 
-Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en  grand 
-groupe.
+Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en  grand groupe.
 
 ## Déroulé
 
@@ -29,9 +27,27 @@ Cet exercice nous amène souvent à un questionnement de la volonté de contrôl
 Reconnaître  la  complexité  de  notre  monde,  c’est se  libérer  de  notre  envie  handicapante  de  le contrôler,  c’est  adopter  une  culture  de  mouvement,  d’évolution,  de  lâcher  prise,  d’adaptation perpétuelle.  Et  surtout,  de  faire  tout  ça  dans  le plaisir!
 
 
+## Variante en grand groupe
+
+Faites de la place, allez en extérieur si possible !
+
+Au-delà de 20 personnes, créer 2 équipes.
+
+L'une est en observation, l'autre prend possession de l'espace et joue :
+- Chacun choisit 2 personnes dans le groupe sans le montrer
+- Objectif : être toujours à équidistance de ses deux repères
+- Se déplacer pour répondre à cet objectif en permanence
+
+Intervertissez s'il y a deux groupes.
+
+Débrief
+
 
 ## Source
 
 David King-Ruel et Jonathan Jubinville (CC-BY-SA Matière brute 2015)
 - http://matierebrute.com
 - http://communat.com/intranet/_files/files/outiller/mb-guide-ASSS-AT.pdf
+
+Percolab
+http://percolab.com/

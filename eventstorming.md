@@ -2,7 +2,7 @@
 
 ---
 title: Eventstorming 
-description: Un format consitant a cartographier les evenements d'un système pour mieux le comprendre.
+description: Un format consistant à cartographier les évènements d'un système pour mieux le comprendre.
 image_url: 
 licence: CC-BY-SA
 

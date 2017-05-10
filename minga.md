@@ -42,4 +42,5 @@ Image mise dans le domaine public par Wilson Daza https://fr.wikipedia.org/wiki/
 
 ## Voir le kit Minga pour co-créer des comuns
 
-* http://www.multibao.org/lilianricaud/minga/
+* http://www.multibao.org/#lilianricaud/minga/
+* http://www.github.com/lilianricaud/minga/

@@ -2,7 +2,7 @@
 
 ---
 title: Tables de découverte 
-description: Les Tables de Découverte sont des séquences d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
+description: Les Tables de Découverte sont une série de séquences de présentations d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
 image_url: https://github.com/multibao/contributions/blob/master/media/LR-tabledecouverte.jpg?raw=true
 ---
 
