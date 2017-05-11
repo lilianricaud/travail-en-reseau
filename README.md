@@ -246,12 +246,19 @@ Cette fiche décrit 7 grandes fonctions vitales nécessaires au bon fonctionneme
 Voici une liste d'indicateurs qui reflètent le degré de coopération dans des groupes.
 
 ### Concevoir des jeux coopératifs
+
 Voici une liste de bonnes pratiques à intégrer pour créer un jeu et plus spécifiquement un jeu coopératif.
 
 ### Démarrer un projet collaboratif 
+
 Lorsque l'on démarre un projet collaboratif (voir différence entre coopératif et collaboratif), il est essentiel de batir sur de bonnes fondations. Voici une séquence qui décrit des étapes essentielles pour faciliter la mise en oeuvre de projet. 
 
 Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet et aide à passer de l'intention de départ à la mise en oeuvre même avec des gens qui ne se connaissent pas avant.
 
 ### Démarrer un ecosystème de coopération comme un jardin partagé 
-description: Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant lamétaphore d'un métaphore d'un jardin partagé.
+
+Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant lamétaphore d'un métaphore d'un jardin partagé.
+
+### Critères de qualité d'une réaction dans un débat
+
+Cette liste peut servir de grille d'analyse pour verifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
