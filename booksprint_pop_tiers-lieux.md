@@ -57,7 +57,13 @@ choix du groupe: CC-BY-SA.
 
 ### Outils
 
-- Omnibook: https://omnibook.pro/
+#### Omnibook: 
+- https://omnibook.pro/
+
+Cet outil permet de créer u livre en ligne avec des options de création de chapitres, indiquer le degré de finition (nouveau, besoin de contenu, fini, a relire...).
+
+Permet d'exporter le contenu du projet sous format epub?
+
 
 doc crée par Pierre, cliquer sur le crayon sinon le message d'erreur, permission denied apprait.
 
