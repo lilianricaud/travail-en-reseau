@@ -89,7 +89,8 @@ http://isorepublic.com/
 
 #### Markdown to epub
 
-https://convertfiles.online/convert/md/epub
+- https://convertfiles.online/convert/md/epub
+- http://ebook.online-convert.com/convert-to-epub
 
 ### Chapitrage 
 Trame que l'on pourra faire évoluer au fur et a mesure de l'écriture.
