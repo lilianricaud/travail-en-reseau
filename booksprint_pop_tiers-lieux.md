@@ -87,6 +87,10 @@ http://isorepublic.com/
 - google doc
 - mindmeister
 
+#### Markdown to epub
+
+https://convertfiles.online/convert/md/epub
+
 ### Chapitrage 
 Trame que l'on pourra faire évoluer au fur et a mesure de l'écriture.
 simplifié car appuis sur un doc existant sous cc-by-NC-sa.
