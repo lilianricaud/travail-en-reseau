@@ -60,6 +60,8 @@ choix du groupe: CC-BY-SA.
 
 doc crée par Pierre, cliquer sur le crayon sinon le message d'erreur, permission denied apprait.
 
+https://omnibook.pro/book-sprint-tiers-lieu/_edit/
+
 ### Chapitrage 
 Trame que l'on pourra faire évoluer au fur et a mesure de l'écriture.
 simplifié car appuis sur un doc existant sous cc-by-NC-sa.
