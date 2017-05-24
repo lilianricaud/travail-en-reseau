@@ -71,6 +71,8 @@ https://omnibook.pro/book-sprint-tiers-lieu/_edit/
 
 Note: Attention l'outil influe sur la façon de penser et concevoir le contenu. Omnibook impose de choisir des chapitres avant de les remplir, moins facile pour faire émerger. Un pad est plus facile pour faire émerger et renommer collectivement les chapitres. Le contenu peut ensuite être importé dans omnibook pour formatage/publication en format ebook.
 
+Difficile d'avoir une vue globale et petit bug, certains participants ne peuvent accéder à l'export pour facilement voir tous le contenu. -> on passe sur un pad, mais il manque le formatage (listes à puces, titres), -> on essaye google doc.
+
 #### Canva
 
 https://www.canva.com/ pour la création graphique
@@ -93,6 +95,7 @@ http://isorepublic.com/
 - http://ebook.online-convert.com/convert-to-epub
 - https://leanpub.com/
 - pandoc
+- http://word-to-markdown.herokuapp.com/
 
 ### Chapitrage 
 Trame que l'on pourra faire évoluer au fur et a mesure de l'écriture.
