@@ -77,6 +77,14 @@ Difficile d'avoir une vue globale et petit bug, certains participants ne peuvent
 
 https://www.canva.com/ pour la création graphique
 
+### Google doc
+
+Outil finalement utilisé pour co-écrire sur le document. Permet plus facilement de travailler à plusieurs sur l'ensemble du document, remodifier le contenu, ajouter des images ou laisser des commentaires. 
+
+Alternatives: etherpad ou hackpad
+etherpad peche un peu par son ergonomie mmoins réussi et un formatage moins joli (pas possible d'ajouter des images).
+hackpad est un peu mieux sur ce point la, mais vient d'etre racheté par dropbox.
+
 #### Sources d'images libre de droits
 https://unsplash.com/
 https://www.pexels.com/
