@@ -15,8 +15,8 @@ un outil pour clarifier les valeurs communes d’un collectif
 
 ## Déroulé
 
-1/ Chacun participant note entre 3 et 5 valeurs sur des post-it (Un mot par post-it)
-2/ Mise en commun, la scierie ! On enlève la moitié des post-it. Empilez les doublons, faire des rapprochements (Peut-on grouper des synonymes ? …) Le temps est contraint, à faire en 1à 2 minutes ne pas s’enliser dans des discussions.
+1/ Chacun participant note entre 3 et 5 valeurs sur des post-it (Un mot par post-it). Lister rapidement pour ne pas trop réfléchir.
+2/ Mise en commun, la scierie ! On enlève la moitié des post-it. Empilez les doublons, faire des rapprochements (Peut-on grouper des synonymes ? …) Le temps est contraint, à faire en 1 à 2 minutes ne pas s’enliser dans des discussions.
 3/ Elagage : En 30 secondes réduire encore de moitié.
 4/ Répétez l'opération... jusqu'à obtenir les valeurs prépondérantes du groupe. 
 5/ Pour avoir plusieurs valeurs, faire plusieurs ateliers.
