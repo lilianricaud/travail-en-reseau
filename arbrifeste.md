@@ -33,6 +33,8 @@ Lister individuellement sur des post-it les principes, pratiques et souhaits sur
 ## Source
 
 CC-BY-SA Stéphane Langlois et Scopyleft
+- http://scopyleft.fr/blog/2014/arbrifeste-scopyleft/
+- https://github.com/scopyleft/documentation/blob/master/incubateur/histoire.md
 
 ## Alternatives
 
