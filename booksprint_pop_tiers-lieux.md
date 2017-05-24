@@ -91,6 +91,8 @@ http://isorepublic.com/
 
 - https://convertfiles.online/convert/md/epub
 - http://ebook.online-convert.com/convert-to-epub
+- https://leanpub.com/
+- pandoc
 
 ### Chapitrage 
 Trame que l'on pourra faire évoluer au fur et a mesure de l'écriture.
