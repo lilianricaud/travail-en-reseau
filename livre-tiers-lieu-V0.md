@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Culture tiers-lieux - Cahier d’activités pour créer votre tiers-lieu 
+description: Ce cahier d’activités s’adresse à toutes les personnes qui souhaitent découvrir ou enrichir leur culture des tiers-lieux. Que vous soyez résidents, novices, curieux ou en pleine élaboration de votre projet, ce livre rassemble les questions à se poser aux différentes étapes du projet.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
 
 
 ## **0 - Introduction**
