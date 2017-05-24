@@ -150,7 +150,18 @@ Alternatives aux longues présentations powerpoint ennuyeuses, les présentation
 
 ## S'aligner collectivement
 
+### La scierie des valeurs
+un outil pour clarifier les valeurs communes d’un collectif
+
+### Arbrifeste 
+L'abrifeste est un format utilisant la métaphore de l'arbre pour s'aligner collectivement sur des objectifs et des fonctionnements communs. Il permet de trouver une zone de valeurs communes tout en gardant aussi les valeurs propres à chacun.
+
+### Souvenirs du futur
+Ce format est un type de brainstorming qui permet de générer des idées par une réflexion collective, mais aussi de créer une vision partagée et de générer de l'enthousiasme autour d'un projet commun.
+
 ### Mandala Holistique
+
+Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-definissant des valeurs et des actions à mettre en oeuvre.
 
 ## Produire ensemble
 
