@@ -230,21 +230,11 @@ Après la collecte des idées Jean-Julien a présenté des croquis avec les zone
 
 Après l’atelier les discussions se sont prolongées dans un apéro-dinatoire convivial où les rencontres et les échanges ont été nombreux.
 
-## A suivre…
-
-A partir des informations obtenus avec le noyau dur puis le groupe ouvert d’usagers, nous avons compilé les informations utilisant une nouvelle méthode à base de cartes papiers et de numérique, ce sera l’objet d’un prochain article…
-
-# Partie 2
-
-_L’aménagement de l’espace Comètes (espace de travail partagé + fablab) avance ! Après le travail mené par l’équipe d’animation en lien avec l’architecte et un premier atelier avec des futurs usagers, nous avons organisé des temps de travail sur le bâtiment en chantier. Dans cet article nous revenons sur le processus de travail que nous avons mené pour réfléchir à l’aménagement de l’espace Comètes et les résultats des ateliers._
-
-<span id="more-213"></span>
-
 ## Un aménagement co-construit
 
-Dans un article précédent nous décrivions le travail réalisé pour l’aménagement du lieu d’innovation collaborative Comètes (voir [Aménagement du lieu d’innovation collaborative Comètes – partie 1](http://cometes-innovation.fr/retours-sur-lamenagement-du-lieu-dinnovation-collaborative-de-cometes/)) en collaboration avec l’architecte Yves Cathala, le cabinet de conseil en aménagement EMA, l’équipe d’animation Comètes et de futurs usagers.
+L’aménagement de l’espace Comètes (espace de travail partagé + fablab) avance ! Après le travail mené par l’équipe d’animation en lien avec l’architecte et un premier atelier avec des futurs usagers, nous avons organisé des temps de travail sur le bâtiment en chantier.
 
-A la suite de ce travail nous avions explicité les valeurs et le sens du projet, le rôle du lieu et recueilli des besoins auprès de futurs usagers.
+A la suite des premiers travaux nous avions explicité les valeurs et le sens du projet, le rôle du lieu et recueilli des besoins auprès de futurs usagers.
 
 Par ailleurs ayant travaillé depuis plusieurs mois au sein de l’espace de travail partagé temporaire eLAN, nous (l’équipe d’animation) avions déjà de nombreuses idées sur les ce qu’il serait important de trouver dans le futur espace.
 
