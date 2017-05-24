@@ -367,10 +367,12 @@ Le fait de manger sur l’emplacement de la future cafétéria n’est pas anodi
 
 prototypage de l’espace cafétéria, avec des lintaux au sol pour visualiser l’espace et des tables pour tester le lieu de repas en conditions réelles avant la fin du chantier.
 
+</div>
+
+## Source
+
+CC-BY-SA Lilian Ricaud
+
+Si vous souhaitez suivre l’historique du projet, vous pourrez retrouver [le compte rendus des deniers ateliers ici](https://annuel.framapad.org/p/CoConstructionCometes) et [leur adaptation dans la langage Comètes ici.](https://annuel.framapad.org/p/LangagePatternCometes)
 
 
-## A suivre…
-
-Nous allons continuer ce processus en essayant d’organiser prochainement de nouveaux ateliers. En attendant, si vous souhaitez suivre l’avancement du projet (presque) en direct, vous pourrez retrouver [le compte rendus des deniers ateliers ici](https://annuel.framapad.org/p/CoConstructionCometes) et [leur adaptation dans la langage Comètes ici.](https://annuel.framapad.org/p/LangagePatternCometes)
-
-Vous pouvez aussi recevoir les dernières actualités du projet en vous abonnant. A bientôt pour la suite !
