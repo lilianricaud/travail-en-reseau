@@ -9,7 +9,9 @@ licence: CC-BY-SA
 
 -->
 
-La scierie des valeurs : un outil pour clarifier les valeurs communes d’un collectif
+# La scierie des valeurs
+
+un outil pour clarifier les valeurs communes d’un collectif
 
 ## Déroulé
 
@@ -19,7 +21,8 @@ La scierie des valeurs : un outil pour clarifier les valeurs communes d’un col
 4/ Répétez l'opération... jusqu'à obtenir les valeurs prépondérantes du groupe. 
 5/ Pour avoir plusieurs valeurs, faire plusieurs ateliers.
 Il faut arriver à garder seulement 3 à 5 valeurs à la fin du processus.
-Le principe est que c’est la règle du jeu qui endommage les valeurs, pas un participant contre l’autre cela facilite la discussion autour de ce sujet qui peut être brulant.
+
+Le principe est que c’est la règle du jeu qui endommage les valeurs, pas un participant contre l’autre cela facilite la discussion autour de ce sujet qui peut être brûlant.
 
 
 ## Source
