@@ -66,7 +66,7 @@ Ce brise glace consiste simplement à poser deux questions à une autre personne
 Alternative aux longues présentations de début de rencontres où chacun se présente de manière conventionnelle.
 
 ### Marche en aveugle
-description: Ce brise glace consiste à guider une personne qui marche les yeux fermés.
+Ce brise glace consiste à guider une personne qui marche les yeux fermés.
 
 ### Entretiens croisés en binome
 
@@ -81,6 +81,9 @@ Ce format d'énergiseur consiste à avoir un dialogue fait uniquement de bruits 
 ### Push/Pull
 
 Un énergiseur facile à mettre en oeuvre sans matériel juste avec un peu d'espace.
+
+### Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
+Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 
 ### Energiseurs de grands groupes en amphi
 
@@ -142,7 +145,8 @@ La matrice Effort-Impact est un outil pour prioriser des actions à mener en fon
 ### Tables de découverte 
 
 Les Tables de Découverte sont une série de séquences de présentations d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
-
+Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
+description: Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 ### Présentations éclairs 
 
 Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
