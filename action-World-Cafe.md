@@ -4,6 +4,7 @@
 title: Action World-Cafe 
 description: Ce format est une variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
