@@ -4,7 +4,7 @@
 dans un groupe (mini 4-5 personnes): 
 demander à chacun de decrire un outils d'animation ou un format.
 Puis melange et par binome, hybridez les deux contenus pour en faire un nouveau 
-ne pas faire rentre l'un dans l'autre.
+ne pas faire rentrer l'un dans l'autre, mais imaginer un format nouveau
 
 ## Exemple:
 2 formats:

@@ -66,6 +66,7 @@ Ce brise glace consiste simplement à poser deux questions à une autre personne
 Alternative aux longues présentations de début de rencontres où chacun se présente de manière conventionnelle.
 
 ### Marche en aveugle
+
 Ce brise glace consiste à guider une personne qui marche les yeux fermés.
 
 ### Entretiens croisés en binome
@@ -87,7 +88,7 @@ Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeu
 
 ### Energiseurs de grands groupes en amphi
 
-description: Une liste de formats pour dynamiser des grands groupes dans le cadre contraint d'un amphithéatre.
+Une liste de formats pour dynamiser des grands groupes dans le cadre contraint d'un amphithéatre.
 
 ## Réfléchir ensemble
 
@@ -96,17 +97,20 @@ Ce format consiste a demander aux participants de representer le projet ou produ
 
 ### Bièrestorming 
 
-description: Un format de brainstorming dans un cadre convivial autour d'une bière.
+Un format de brainstorming dans un cadre convivial autour d'une bière.
 
 ### Multi-accélérateur de projet
-description: Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
+
+Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
 
 ### Action World-Cafe 
+
 Ce format est une variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
 
 ## Etre créatif
 
 ### Jeux d'écriture littéraire 
+
 Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser la page blanche ou écrire en sortant de ses habitudes.
 
 ### Hybridation Animation
@@ -114,6 +118,7 @@ Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser
 ## Etre productif
 
 ### Co-Pomodoro
+
 Un format optimisé pour mener des réunions efficaces à distance avec une contrainte de temps.
 
 ### Lettre à moi même 
@@ -128,7 +133,7 @@ Lors d'une discussion en groupe il est parfois dur de focaliser l'attention de t
 
 ### Modèles de matrices et de canevas
 
-Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement:
+Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement.
 
 ## Prioriser
 
@@ -146,7 +151,8 @@ La matrice Effort-Impact est un outil pour prioriser des actions à mener en fon
 
 Les Tables de Découverte sont une série de séquences de présentations d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
 Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
-description: Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
+description: Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace.
+
 ### Présentations éclairs 
 
 Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
@@ -155,19 +161,22 @@ Alternatives aux longues présentations powerpoint ennuyeuses, les présentation
 ## S'aligner collectivement
 
 ### La scierie des valeurs
+
 un outil pour clarifier les valeurs communes d’un collectif
 
 ### Arbrifeste 
+
 L'abrifeste est un format utilisant la métaphore de l'arbre pour s'aligner collectivement sur des objectifs et des fonctionnements communs. Il permet de trouver une zone de valeurs communes tout en gardant aussi les valeurs propres à chacun.
 
 ### Souvenirs du futur
+
 Ce format est un type de brainstorming qui permet de générer des idées par une réflexion collective, mais aussi de créer une vision partagée et de générer de l'enthousiasme autour d'un projet commun.
 
 ### Mandala Holistique
 
 Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-definissant des valeurs et des actions à mettre en oeuvre.
 
-## Produire ensemble
+## Ecrire/Produire ensemble
 
 ### Documentation croisée 
 Un format où un "expert" instruit un "novice" qui en échange produit une recette sous licence libre.
@@ -233,6 +242,7 @@ Un format pour que les moments des restitutions de sous-groupes vers le grand gr
 ## Comprendre un système complexe
 
 ### Jeu de la complexité 
+
 Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en  grand groupe.
 
 ### 4 niveaux de complexité d'un système 
@@ -277,3 +287,7 @@ Voici une recette de Laurent Marsault qui indique comment créer un écosystème
 ### Critères de qualité d'une réaction dans un débat
 
 Cette liste peut servir de grille d'analyse pour verifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
+
+### Autres ressources MultiBAO pour travailler en reseau
+
+Certains dépots n'apparaissent pas encore ou plus sur MultiBAO pourtant ils recellent quelques trésors. En voici quelques uns.

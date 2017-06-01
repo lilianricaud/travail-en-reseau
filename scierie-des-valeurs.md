@@ -11,7 +11,7 @@ licence: CC-BY-SA
 
 # La scierie des valeurs
 
-un outil pour clarifier les valeurs communes d’un collectif
+un outil pour clarifier les valeurs communes d’un collectif.
 
 ## Déroulé
 
