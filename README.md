@@ -115,8 +115,6 @@ Ce format est une variante de World Café adapté spécifiquement pour produire 
 
 Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser la page blanche ou écrire en sortant de ses habitudes.
 
-### Hybridation Animation
-
 ## Être productif
 
 ### Co-Pomodoro
@@ -179,9 +177,11 @@ Le "mandala holistique" est un format très puissant pour aider des collectifs �
 ## Écrire/Produire ensemble
 
 ### Documentation croisée
+
 Un format où un "expert" instruit un "novice" qui en échange produit une recette sous licence libre.
 
 ### Sprint d'écriture
+
 le sprint d'écriture est un dispositif qui permet la co-rédaction rapide d'un texte (ou un livre) avec une méthode d'animation structurée.
 
 ### BookSprint - créer un livre de documentation en 5 jours
@@ -189,6 +189,7 @@ le sprint d'écriture est un dispositif qui permet la co-rédaction rapide d'un 
 Un booksprint est un format innovant basé sur le Code Sprint, mais en mettant l'accent sur la production de documents au lieu de code.
 
 ### Algorithme humain
+
 Lorsque l'on souhaite traiter un problème complexe et que l'on dispose d'un grand groupe motivé, il est possible de mettre en place un "algorithme humain" un mode de fonctionnement avec un ensemble de règles pour traiter le problème.
 
 ### Produire des communs (Minga)
@@ -288,6 +289,10 @@ Voici une recette de Laurent Marsault qui indique comment créer un écosystème
 ### Critères de qualité d'une réaction dans un débat
 
 Cette liste peut servir de grille d'analyse pour vérifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
+
+### Sélection fiches MultiBAO 
+
+MultiBAO regorge de fiches, mais il n'est pas facile de s'y retrouver. Voici ma sélection de fiches recettes favorites que ce soit pour une utilisation courante ou pour inspiration.
 
 ### Autres ressources MultiBAO pour travailler en réseau
 
