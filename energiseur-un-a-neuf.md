@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
+title: Energiseur un à neuf 
 description: Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 image_url: 
 licence: CC-BY-SA
@@ -9,7 +9,7 @@ licence: CC-BY-SA
 
 -->
 
-# Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
+# Energiseur un à neuf 
 
 Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 

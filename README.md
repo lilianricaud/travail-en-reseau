@@ -83,7 +83,7 @@ Ce format d'énergiseur consiste à avoir un dialogue fait uniquement de bruits 
 
 Un énergiseur facile à mettre en œuvre sans matériel juste avec un peu d'espace.
 
-### Un, deux, trois, quatre, cinq, six, sept, huit, neuf
+### Energiseur un à neuf 
 
 Cet énergiseur issu du théâtre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 
@@ -116,6 +116,10 @@ Ce format est une variante de World Café adapté spécifiquement pour produire 
 Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser la page blanche ou écrire en sortant de ses habitudes.
 
 ## Être productif
+
+## Pomodoro Synchrone 
+
+Pour ne pas déranger mutuellement en permanence quand on travaille ensemble dans un même espace physique, il est possible de faire un pomodoro synchrone ou tout le monde se met hors-flux en même temps avant de prendre une pause collective où les discussion reprennent.
 
 ### Co-Pomodoro
 
@@ -202,6 +206,10 @@ Plus qu'un format défini avec des règles du jeu précise, la Minga est un appe
 
 Ce jeu de rôle vise à rendre visible les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. En permettant de rendre visible les représentations que chacun peut avoir sur différents rôles, le format permet d'expliciter la culture d'un groupe et/ou de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué.
 
+### Réaliser ses rêves grâce au dessin 
+
+Comment réaliser ses rêves et passer à l'action en utilisant le dessin pour entrainer son cerveau à passer à l'action et éviter des rester paralysé par la logique et l'analyse.
+
 ## Echanger
 
 ### Minuto-Cash: un nouveau moyen de paiement autoproduit et pour toutes les régions
@@ -240,6 +248,10 @@ Le conseil est un format original qui peut être utilisé pour faire une rétros
 ### Évaluation croisée des restitutions
 
 Un format pour que les moments des restitutions de sous-groupes vers le grand groupe soit un temps de travail à part entière.
+
+### Tous dans le même bateau (speedboat)
+
+Le speedboat et sa variante "Tous dans le même bateau" sont des jeux co-créatifs issu des innovation games et qui permettent de récolter des critiques/retours sur un système, un projet ou un produit dans un cadre constructif et bienveillant.
 
 ## Comprendre un système complexe
 
@@ -285,6 +297,10 @@ Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet e
 ### Démarrer un écosystème de coopération comme un jardin partagé
 
 Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant la métaphore  d'un jardin partagé.
+
+### Co-construire un lieu d'innovation 
+
+Dans cet article nous revenons sur le processus de travail que nous avons mené pour réfléchir à l’aménagement de l’espace Comètes (espace de travail partagé + fablab) situé en Ariège (plus particulièrement Arize-Lèze). Cet article intéressera les personnes qui montent un lieu d’innovation (fablab, espace de coworking, ...) et souhaitent voir ce qui se fait ailleurs.
 
 ### Critères de qualité d'une réaction dans un débat
 
