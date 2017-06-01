@@ -3,7 +3,7 @@
 ---
 title: A propos de ces ressources
 description: des information sur les ressources et leur réutilisation avec un index pour naviguer dans le repertoire.
-image_url: 
+image_url:
 ---
 
 -->
@@ -39,7 +39,7 @@ Attribution à mentionner pour réutiliser ce document: _"Titre du contenu de fo
 
 # Index des contenus classés par thèmes/usages
 
-Ce dépot contient maintenant beaucoup de contenus, j'ai fait le choix de les garder dans un dépot unique. Voici donc un index des recettes classées par thèmes.
+Ce dépôt contient maintenant beaucoup de contenus, j'ai fait le choix de les garder dans un dépot unique. Voici donc un index des recettes classées par thèmes.
 
 ## Briser la glace
 
@@ -49,19 +49,19 @@ S'ouvrir à l'autre et au groupe
 
 Un format simple pour se présenter et briser la glace dans un petit groupe.
 
-### Mon Journal 
+### Mon Journal
 
-Mon journal est un format qui permet aux membres du groupe de se livrer et parler d'eux aux autres membres du groupe à travers la création d'images et de textes de magazines assemblées sur un support papier. Ceci permet à chacun de mieux apprendre à connaitre les autres dans un contexte bienveillant.
+Mon journal est un format qui permet aux membres du groupe de se livrer et parler d'eux aux autres membres du groupe à travers la création d'images et de textes de magazines assemblées sur un support papier. Ceci permet à chacun de mieux apprendre à connaître les autres dans un contexte bienveillant.
 
-### Briser la glace en dessinant 
+### Briser la glace en dessinant
 
-Quelques jeux pour apprendre à se connaitre et se rencontrer.
+Quelques jeux pour apprendre à se connaître et se rencontrer.
 
 ### Brise Glace Kanak
 
 Ce brise glace consiste simplement à poser deux questions à une autre personne pour démarrer une conversation.
 
-### Présentations croisées 
+### Présentations croisées
 
 Alternative aux longues présentations de début de rencontres où chacun se présente de manière conventionnelle.
 
@@ -71,7 +71,7 @@ Ce brise glace consiste à guider une personne qui marche les yeux fermés.
 
 ### Entretiens croisés en binome
 
-Pour commencer une réunion ou une rencontre en large groupe, ce format sert d'énergiseur et de brise-glace simple à mettre en oeuvre.
+Pour commencer une réunion ou une rencontre en large groupe, ce format sert d'énergiseur et de brise-glace simple à mettre en œuvre.
 
 ## S'énergiser
 
@@ -81,10 +81,11 @@ Ce format d'énergiseur consiste à avoir un dialogue fait uniquement de bruits 
 
 ### Push/Pull
 
-Un énergiseur facile à mettre en oeuvre sans matériel juste avec un peu d'espace.
+Un énergiseur facile à mettre en œuvre sans matériel juste avec un peu d'espace.
 
-### Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
-Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
+### Un, deux, trois, quatre, cinq, six, sept, huit, neuf
+
+Cet énergiseur issu du théâtre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
 
 ### Energiseurs de grands groupes en amphi
 
@@ -93,9 +94,10 @@ Une liste de formats pour dynamiser des grands groupes dans le cadre contraint d
 ## Réfléchir ensemble
 
 ### Avis à la population
-Ce format consiste a demander aux participants de representer le projet ou produit étudié sous forme d'une affiche pour mieux y réfléchir collectivement et de manière créative.
 
-### Bièrestorming 
+Ce format consiste a demander aux participants de représenter le projet ou produit étudié sous forme d'une affiche pour mieux y réfléchir collectivement et de manière créative.
+
+### Bièrestorming
 
 Un format de brainstorming dans un cadre convivial autour d'une bière.
 
@@ -103,27 +105,27 @@ Un format de brainstorming dans un cadre convivial autour d'une bière.
 
 Les formats de type "accélérateur de projet" sont des méthodes faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. Ce format permet d'accélérer simultanément jusqu'à 4 projets.
 
-### Action World-Cafe 
+### Action World-Café
 
-Ce format est une variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
+Ce format est une variante de World Café adapté spécifiquement pour produire une liste d'action à mener facilitant une mise en œuvre concrète.
 
-## Etre créatif
+## Être créatif
 
-### Jeux d'écriture littéraire 
+### Jeux d'écriture littéraire
 
 Des jeux littéraires utilisant des contraintes  pour lancer l'écriture, casser la page blanche ou écrire en sortant de ses habitudes.
 
 ### Hybridation Animation
 
-## Etre productif
+## Être productif
 
 ### Co-Pomodoro
 
 Un format optimisé pour mener des réunions efficaces à distance avec une contrainte de temps.
 
-### Lettre à moi même 
+### Lettre à moi même
 
-Un format pour se rappeller un engagement ou une action à faire.
+Un format pour se rappeler un engagement ou une action à faire.
 
 ## Organiser l'information
 
@@ -133,29 +135,27 @@ Lors d'une discussion en groupe il est parfois dur de focaliser l'attention de t
 
 ### Modèles de matrices et de canevas
 
-Voici des matrices et canevas qu'il serait interessant de concevoir en version libres remodifiables facilement.
+Voici des matrices et canevas qu'il serait intéressant de concevoir en version libres remodifiables facilement.
 
 ## Prioriser
 
-### Elaguer l'arbre-projet
+### Élaguer l'arbre-projet
 
-Le jeu "Elaguer l'arbre projet" offre à des contributeurs à un projet de visualiser les actions en cours et d'imaginer et de prioriser les évolutions futures tout en gardant une vision globale du projet.
+Le jeu "Élaguer l'arbre projet" offre à des contributeurs à un projet de visualiser les actions en cours et d'imaginer et de prioriser les évolutions futures tout en gardant une vision globale du projet.
 
-### Matrice de priorisation Impact-Effort 
+### Matrice de priorisation Impact-Effort
 
 La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peu être utilisé individuellement ou collectivement.
 
 ## Présenter des projets
 
-### Tables de découverte 
+### Tables de découverte
 
 Les Tables de Découverte sont une série de séquences de présentations d' ¼ d'heure où des intervenants présentent leur expérience, projet, réseau... devant des groupes d'une petite dizaine de personne assises autour d'une table. Cette présentation est suivie d'un temps de questions/ discussion ce qui permet un véritable temps d'échange.
-Un, deux, trois, quatre, cinq, six, sept, huit, neuf 
-description: Cet énergiseur issu du théatre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace.
 
-### Présentations éclairs 
+### Présentations éclairs
 
-Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succinte, vulgarisée, dynamique et qui va à l'essentiel.
+Alternatives aux longues présentations powerpoint ennuyeuses, les présentations éclairs (Lightning Talks) utilisent une contrainte de temps et de nombre de diapositives pour forcer l'orateur à livrer une présentation succincte, vulgarisée, dynamique et qui va à l'essentiel.
 
 
 ## S'aligner collectivement
@@ -164,7 +164,7 @@ Alternatives aux longues présentations powerpoint ennuyeuses, les présentation
 
 un outil pour clarifier les valeurs communes d’un collectif
 
-### Arbrifeste 
+### Arbrifeste
 
 L'abrifeste est un format utilisant la métaphore de l'arbre pour s'aligner collectivement sur des objectifs et des fonctionnements communs. Il permet de trouver une zone de valeurs communes tout en gardant aussi les valeurs propres à chacun.
 
@@ -174,20 +174,21 @@ Ce format est un type de brainstorming qui permet de générer des idées par un
 
 ### Mandala Holistique
 
-Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-definissant des valeurs et des actions à mettre en oeuvre.
+Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-définissant des valeurs et des actions à mettre en œuvre.
 
-## Ecrire/Produire ensemble
+## Écrire/Produire ensemble
 
-### Documentation croisée 
+### Documentation croisée
 Un format où un "expert" instruit un "novice" qui en échange produit une recette sous licence libre.
 
 ### Sprint d'écriture
 le sprint d'écriture est un dispositif qui permet la co-rédaction rapide d'un texte (ou un livre) avec une méthode d'animation structurée.
 
 ### BookSprint - créer un livre de documentation en 5 jours
-Un booksprint est un format innovant basé sur le Code Sprint, mais en mettant l'accent sur la production de documents au lieu de code. 
 
-### Algorithme humain 
+Un booksprint est un format innovant basé sur le Code Sprint, mais en mettant l'accent sur la production de documents au lieu de code.
+
+### Algorithme humain
 Lorsque l'on souhaite traiter un problème complexe et que l'on dispose d'un grand groupe motivé, il est possible de mettre en place un "algorithme humain" un mode de fonctionnement avec un ensemble de règles pour traiter le problème.
 
 ### Produire des communs (Minga)
@@ -196,15 +197,15 @@ Plus qu'un format défini avec des règles du jeu précise, la Minga est un appe
 
 ## Changer de représentations
 
-### Révélateur de roles 
+### Révélateur de rôles
 
-Ce jeu de rôle vise à rendre visible les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. En permettant de rendre visible les représentations que chacun peut avoir sur différents rôles, le format permet d'expliciter la culture d'un groupe et/ou de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué. 
+Ce jeu de rôle vise à rendre visible les rôles et attitudes plus ou moins implicites dans un groupe par un jeu d'échange avec les pairs. En permettant de rendre visible les représentations que chacun peut avoir sur différents rôles, le format permet d'expliciter la culture d'un groupe et/ou de se mettre en empathie en vivant de l'intérieur un rôle auquel on n'est pas habitué.
 
-## Echanger 
+## Echanger
 
 ### Minuto-Cash: un nouveau moyen de paiement autoproduit et pour toutes les régions
 
-A mi-chemin entre le SEL (système d'échange local) et la monnaie complémentaire papier, le Minuto reprends le meilleur des deux pourcréer un système d'échange de service autogéré, non centralisée où la monnaie est auto-produite par chacun des membres du réseau
+A mi-chemin entre le SEL (système d'échange local) et la monnaie complémentaire papier, le Minuto reprends le meilleur des deux pour créer un système d'échange de service autogéré, non centralisée où la monnaie est auto-produite par chacun des membres du réseau
 
 ## Co-apprendre
 
@@ -213,7 +214,7 @@ A mi-chemin entre le SEL (système d'échange local) et la monnaie complémentai
 Ce format est la version francisée du format tradeschool. Une tradeschool est une école éphémère basée sur le troc ou n'importe qui peut proposer un enseignement sur n'importe quel sujet et demande en échange un "paiement" non monétaire.
 
 
-### Travail en groupe de co-apprentissage 
+### Travail en groupe de co-apprentissage
 
 Le principe du travail en groupe de co-apprentissage est de créer des situations problèmes conçu pour être trop complexes pour être résolus individuellement, et force les élèves à échanger pour résoudre le problème et ainsi échanger et apprendre mutuellement les uns des autres. Cette architecture permet de démultiplier le travail du formateur.
 
@@ -221,35 +222,35 @@ Le principe du travail en groupe de co-apprentissage est de créer des situation
 
 Le principe de ce format est de créer un cadre où les personnes qui cherchent à acquérir une compétence et celle qui peuvent en offrir sont mises en relation puis échangent des savoirs.
 
-## Evaluer ce qui s'est passé
+## Évaluer ce qui s'est passé
 
-### Retrospective simple 
+### Rétrospective simple
 
-Un format très simple de retrospective, un temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
+Un format très simple de rétrospective, un temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
 
-### Retrospective Agile 
+### Rétrospective Agile
 
-Une retrospective est une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
+Une rétrospective est une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
 
-### Le conseil (Retrospective) 
+### Le conseil (Rétrospective)
 
-Le conseil est un format original qui peut être utilisé pour faire une retrospective, une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer. La version uivante vient de la scop UT7.
+Le conseil est un format original qui peut être utilisé pour faire une rétrospective, une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer. La version suivante vient de la scop UT7.
 
-### Evaluation croisée des restitutions 
+### Évaluation croisée des restitutions
 
 Un format pour que les moments des restitutions de sous-groupes vers le grand groupe soit un temps de travail à part entière.
 
 ## Comprendre un système complexe
 
-### Jeu de la complexité 
+### Jeu de la complexité
 
 Ce jeu permet de faire vivre aux participants la dynamique d’un système vivant. Il est généralement utilisé pour introduire la notion de complexité de  façon expérientielle. Il se facilite sur la base d’un cercle  et  peut  se  vivre  tant  en  petit  qu’en  grand groupe.
 
-### 4 niveaux de complexité d'un système 
+### 4 niveaux de complexité d'un système
 
-Un système est un ensemble d'éléments interagissant entre eux selon certains principes ou règles. Les  études sur la complexité distinguent 4 niveaux de complexité décrits ici. 
+Un système est un ensemble d'éléments interagissant entre eux selon certains principes ou règles. Les  études sur la complexité distinguent 4 niveaux de complexité décrits ici.
 
-### Eventstorming 
+### Eventstorming
 
 Un format consistant à cartographier les évènements d'un système pour mieux le comprendre.
 
@@ -260,13 +261,13 @@ Un format consistant à cartographier les évènements d'un système pour mieux 
 
 Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. Cette recette donne des pistes pour concevoir une bonne question.
 
-## Mettre en oeuvre de la coopération 
+## Mettre en œuvre de la coopération
 
-### Fonctions vitales des groupes 
+### Fonctions vitales des groupes
 
 Cette fiche décrit 7 grandes fonctions vitales nécessaires au bon fonctionnement d'un groupe et comment il est mettre en place des mécanismes pour rendre visibles et/ou faire tourner ces fonctions pour créer un leadership circulant et partagé.
 
-### Indicateurs de coopération 
+### Indicateurs de coopération
 
 Voici une liste d'indicateurs qui reflètent le degré de coopération dans des groupes.
 
@@ -274,20 +275,20 @@ Voici une liste d'indicateurs qui reflètent le degré de coopération dans des 
 
 Voici une liste de bonnes pratiques à intégrer pour créer un jeu et plus spécifiquement un jeu coopératif.
 
-### Démarrer un projet collaboratif 
+### Démarrer un projet collaboratif
 
-Lorsque l'on démarre un projet collaboratif (voir différence entre coopératif et collaboratif), il est essentiel de batir sur de bonnes fondations. Voici une séquence qui décrit des étapes essentielles pour faciliter la mise en oeuvre de projet. 
+Lorsque l'on démarre un projet collaboratif (voir différence entre coopératif et collaboratif), il est essentiel de bâtir sur de bonnes fondations. Voici une séquence qui décrit des étapes essentielles pour faciliter la mise en œuvre de projet.
 
-Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet et aide à passer de l'intention de départ à la mise en oeuvre même avec des gens qui ne se connaissent pas avant.
+Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet et aide à passer de l'intention de départ à la mise en œuvre même avec des gens qui ne se connaissent pas avant.
 
-### Démarrer un ecosystème de coopération comme un jardin partagé 
+### Démarrer un écosystème de coopération comme un jardin partagé
 
-Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant lamétaphore d'un métaphore d'un jardin partagé.
+Voici une recette de Laurent Marsault qui indique comment créer un écosystème de coopération qui donne envie aux gens de s'impliquer en utilisant la métaphore  d'un jardin partagé.
 
 ### Critères de qualité d'une réaction dans un débat
 
-Cette liste peut servir de grille d'analyse pour verifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
+Cette liste peut servir de grille d'analyse pour vérifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
 
-### Autres ressources MultiBAO pour travailler en reseau
+### Autres ressources MultiBAO pour travailler en réseau
 
-Certains dépots n'apparaissent pas encore ou plus sur MultiBAO pourtant ils recellent quelques trésors. En voici quelques uns.
+Certains dépôts n'apparaissent pas encore ou plus sur MultiBAO pourtant ils recèlent quelques trésors. En voici quelques uns.
