@@ -2,7 +2,12 @@
 
 L’Institut des Territoires Coopératifs a entrepris de rendre visible la part implicite qui anime les acteurs des territoires et des projets. Anne et Patrick Beauvillard parcourent les territoires à pied, lors de longues itinérances à la rencontre des habitants et des entrepreneurs sociaux. Ils les amènent à mettre en lumière les repères invisibles de leur coopération, pour en identifier les principes d’action.
 
-Pour dégager les ingrédients implicites de la coopération, l'Observatoire de l'implicite utilise une méthode de recherche-action basée sur de l'itinérance afin d'obtenir une "compréhension humain" et pas seulement une "comprehension intellectuelle".
+
+## L'Observatoire de l’Implicite
+
+L’Observatoire de l’Implicite vise à rendre visible la part implicite, souvent non-consciente, qui conditionne la réussite des pratiques coopératives. C’est une démarche d’itinérance à la rencontre de collectifs, praticiens de la coopération. Avec eux, ils appliquent une maïeutique pour qu’ensemble ils mettent à jour les rouages profonds de leur coopération.
+
+Pour dégager ces ingrédients implicites de la coopération, ils utilisent une méthode de recherche-action basée sur de l'itinérance afin d'obtenir une "compréhension humain" et pas seulement une "comprehension intellectuelle".
 
 ## Déroulé
 
@@ -16,13 +21,22 @@ Tous les rendez vous auprès des acteurs sont pris en amont afin que ceux ci soi
 
 A chaque fois il y a une marche de deux ou trois jours pour accéder au lieu de la rencontre. Cette marche permet de faire le vide pour préparer la rencontre, arriver dans un esprit de découverte et sans idée préconçue, de s'impregner de l'environnement. "C'est ce que nous pensons déja qui nous empèche d'apprendre". L'arrivée en marchant crée une posture humble propice au dialogue avec les acteurs.
 
-### J1 Temps de connaissance
+### J1 Temps du lien : 
 
-A l'arrivée (en fin de journée) a lieu temps de connaissance, on partage un repas un morceau de soirée.
+Souvent autour d’un diner, la veille de la journée d’échanges, c’est le temps nécessaire pour créer un lien, se connaître et découvrir le projet, tout en restant (à ce moment là), à sa surface.
 
-### J2 Questions
+
+### J2 - Journée d'échanges
 
 Le lendemain a lieu un temps de questions et d'exploration collective.
+
+#### Narration
+
+Aborder la partie consciente et explicite sur le projet et sa genèse. C’est le moment où sont clarifiés les raisons d’être du projet, ses objectifs et ses finalités, ses modes d’organisation, les motivations des acteurs, mais également les freins ou les difficultés.
+
+#### Questionnement
+
+La plongée au cœur de l’implicite ! A partir des éléments de la narration, nous questionnons les acteurs pour les amener à s’interroger sur les éléments sous-jacents, voire cachés : les valeurs qui animent les acteurs, les forces qui permettent au projet de vivre, les compétences non-conscientes mobilisées par les uns et les autres…
 
 Les chercheurs utilisent un protocole rigoureux de questions qui renvoient à une réflexion personnelle. Il ne s'agit PAS d'un questionnaire. Pour chaque question, il y a une-deux minutes de reflexion suivie d'un tour de table. L'idée est d'aller au dela des rôles habituels. La posture des chercheurs est d'accepter ce qui vient, de laisser émerger.
 
@@ -30,9 +44,20 @@ Dans une deuxieme phase les chercheurs posent des questions "déroutantes" qui c
 
 Par exemple: "quels seraient les inconvenients à réussir ce projet ?" ou "quels seraient les avantages à échouer?"
 
-Dans une troisième phase on cherche à explorer les choses différement, changer de rôles, de positions de perception.
+#### Regard croisé
 
-Dans une quatrieme phase a lieu un temps de feedback, de retours nourrissant pour le groupe et les chercheurs.
+Pour enrichir encore plus la mise en lumière de ces éléments implicites, les acteurs sont amenés à regarder leur projet et à se regarder sous différents angles. On cherche à explorer les choses différement, changer de rôles, de positions de perception. Ainsi de nouveaux éléments se font jour.
+
+#### Enseignement / Temps de feedback
+
+Afin de conscientiser les apprentissages, pour éviter qu’ils ne disparaissent, a lieu un temps de feedback, de retours nourrissant pour le groupe et les chercheurs.
+
+Ce temps est essentiel pour l’Observatoire, mais également pour les acteurs eux-mêmes: Il leur permet souvent d’identifier des points sur lesquels ils peuvent agir pour enrichir leur projet.
+
+#### Temps de cloture
+
+A l’issue de la journée, un temps de clôture permet à chacun de savoir avec quoi il repart, pour lui-même, et le projet.
+
 
 ### Reprise de la route
 
@@ -59,8 +84,7 @@ Amener des personnes (chargés de mission départementaux) pour étude de terrai
 Marcher entre sites/services d'une grande entreprise ou d'un hopital, ...
 
 ## Source
-
-Anne et Patrick Beauvillard
+Protocole développé par Anne et Patrick Beauvillard
 Observatoire de l'implicite, Institut des Territoires Coopératifs
 
 http://institut-territoires-cooperatifs.fr/
@@ -69,6 +93,8 @@ http://institut-territoires-cooperatifs.fr/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dgaYBZEKaNU" frameborder="0" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=dgaYBZEKaNU
+
+Adapté par Lilian Ricaud à partir de notes prises lors d'une conférence et de l'article http://institut-territoires-cooperatifs.fr/a-quoi-ressemble-une-journee-avec-lobservatoire/
 
 
 
