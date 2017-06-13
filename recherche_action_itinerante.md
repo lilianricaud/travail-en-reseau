@@ -41,7 +41,25 @@ Les chercheurs repartent et reprennent la route à pied pour un temps de digesti
 - PRENDRE LE TEMPS: d'arriver de recontrer, de réfléchir, de dire au revoir.
 - MARCHE: mise en mouvement favorise la réflexion, posture d'humilité
 - INSTROSPECTION
-- PRESENCE
+- PRESENCE: pas de questionnaire, être pleinement présent, pas de préparation des personnes
+- PAS DE COTE: voir d'un autre angle, rester en déséquilibre permanent
+
+(PAS D'INTENTION): naiveté, regard du con qui passe, ne pas se sécuriser pour découvrir l'autre.
+
+## Variantes possibles
+
+### Diagnostic territorial itinérant
+
+Amener des personnes (chargés de mission départementaux) pour étude de terrain
+
+### Itinérance en entreprise
+
+Marcher entre sites/services d'une grande entreprise ou d'un hopital, ...
+
+## Source
+
+
+
 
 
 
