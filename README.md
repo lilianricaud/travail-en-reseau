@@ -274,6 +274,9 @@ Un format consistant à cartographier les évènements d'un système pour mieux 
 
 Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. Cette recette donne des pistes pour concevoir une bonne question.
 
+### Recherche-Action itinérante
+L’Institut des Territoires Coopératifs a entrepris de rendre visible la part implicite qui anime les acteurs des territoires et des projets. Anne et Patrick Beauvillard parcourent les territoires à pied, lors de longues itinérances à la rencontre des habitants et des entrepreneurs sociaux. 
+
 ## Mettre en œuvre de la coopération
 
 ### Fonctions vitales des groupes
@@ -283,6 +286,10 @@ Cette fiche décrit 7 grandes fonctions vitales nécessaires au bon fonctionneme
 ### Indicateurs de coopération
 
 Voici une liste d'indicateurs qui reflètent le degré de coopération dans des groupes.
+
+### Principes implicites d'action des groupes coopératifs 
+
+D'après l'observatoire de l'implicité qui a travaillé sur les ingrédients implicites qui font la réussite de projets coopératifs, la capacité d'un groupe a bien coopérer dépends de sa capacité à traitre des écarts clés entre plusieurs attitudes.
 
 ### Concevoir des jeux coopératifs
 
