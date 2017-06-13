@@ -1,5 +1,7 @@
 # Recherche-Action itinérante
 
+L’Institut des Territoires Coopératifs a entrepris de rendre visible la part implicite qui anime les acteurs des territoires et des projets. Anne et Patrick Beauvillard parcourent les territoires à pied, lors de longues itinérances à la rencontre des habitants et des entrepreneurs sociaux. Ils les amènent à mettre en lumière les repères invisibles de leur coopération, pour en identifier les principes d’action.
+
 Pour dégager les ingrédients implicites de la coopération, l'Observatoire de l'implicite utilise une méthode de recherche-action basée sur de l'itinérance afin d'obtenir une "compréhension humain" et pas seulement une "comprehension intellectuelle".
 
 ## Déroulé
@@ -58,7 +60,10 @@ Marcher entre sites/services d'une grande entreprise ou d'un hopital, ...
 
 ## Source
 
+Anne et Patrick Beauvillard
+Observatoire de l'implicite, Institut des Territoires Coopératifs
 
+http://institut-territoires-cooperatifs.fr/
 
 
 
