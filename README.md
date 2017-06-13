@@ -131,6 +131,7 @@ Un format pour se rappeler un engagement ou une action à faire.
 
 ## Organiser l'information
 
+
 ### Discussion à la loupe
 
 Lors d'une discussion en groupe il est parfois dur de focaliser l'attention de tout le monde sur certains points, particulièrement lorsque le problème traité est complexe. Ce format est conçu pour renforcer la focalisation du groupe sur un sujet.
@@ -161,6 +162,10 @@ Alternatives aux longues présentations powerpoint ennuyeuses, les présentation
 
 
 ## S'aligner collectivement
+
+### Co-construire le programme d'une rencontre
+
+Comment concevoir un programme adapté quand on ne sait pas combien de personnes viennent à une rencontre et quels sont leurs intérets ? En construisant le programme avec eux. Voici comment faire ça très simplement.
 
 ### La scierie des valeurs
 
