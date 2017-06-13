@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Recherche-Action itinérante
+description: L’Institut des Territoires Coopératifs a entrepris de rendre visible la part implicite qui anime les acteurs des territoires et des projets. Anne et Patrick Beauvillard parcourent les territoires à pied, lors de longues itinérances à la rencontre des habitants et des entrepreneurs sociaux. 
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
 # Recherche-Action itinérante
 
 L’Institut des Territoires Coopératifs a entrepris de rendre visible la part implicite qui anime les acteurs des territoires et des projets. Anne et Patrick Beauvillard parcourent les territoires à pied, lors de longues itinérances à la rencontre des habitants et des entrepreneurs sociaux. Ils les amènent à mettre en lumière les repères invisibles de leur coopération, pour en identifier les principes d’action.
