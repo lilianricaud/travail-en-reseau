@@ -1,6 +1,17 @@
-# Principes d'action de la coopération
+<!--
 
-D'après l'observatoire de l'implicité qu a travaillé sur les ingrédients implicite qui font la réussite de projets coopératifs, la capacité d'un groupe a bien coopérer dépends de sa capacité à traitre des écarts clés:
+---
+title: Principes implicites d'action des groupes coopératifs 
+description: D'après l'observatoire de l'implicité qui a travaillé sur les ingrédients implicites qui font la réussite de projets coopératifs, la capacité d'un groupe a bien coopérer dépends de sa capacité à traitre des écarts clés entre plusieurs attitudes.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+# Principes implicites d'action des groupes coopératifs
+
+D'après l'observatoire de l'implicité qui a travaillé sur les ingrédients implicites qui font la réussite de projets coopératifs, la capacité d'un groupe a bien coopérer dépends de sa capacité à traitre des écarts clés entre plusieurs attitudes.
 
 
 ce que nous sommes		ce que nous voulons être
