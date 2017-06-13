@@ -66,6 +66,10 @@ Observatoire de l'implicite, Institut des Territoires Coopératifs
 http://institut-territoires-cooperatifs.fr/
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dgaYBZEKaNU" frameborder="0" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=dgaYBZEKaNU
+
 
 
 
