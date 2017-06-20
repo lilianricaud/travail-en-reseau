@@ -192,6 +192,8 @@ Un pattern n'est pas simplement un élément figé dans une liste. Comme un mot,
 ## Autres ressources libres pour créer des jeux:
     
 - https://leschiensdelenfer.org/telechargements/
+- http://blog.brouillardsetboussoles.fr/interview-dalexandre-maitre-du-jeu/
+- http://www.ffjdr.org/manuel-pratique-du-jeu-de-role/
 
 ## Source
 contributeurs patterns jeux: Sylvain Guignard (sylvainguignard@hotmail.com)
