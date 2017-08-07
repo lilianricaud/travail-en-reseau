@@ -195,6 +195,10 @@ Un pattern n'est pas simplement un élément figé dans une liste. Comme un mot,
 - http://blog.brouillardsetboussoles.fr/interview-dalexandre-maitre-du-jeu/
 - http://www.ffjdr.org/manuel-pratique-du-jeu-de-role/
 
+## Jeux sur les communs
+
+- commonspoly: http://commonspoly.cc/
+
 ## Source
 contributeurs patterns jeux: Sylvain Guignard (sylvainguignard@hotmail.com)
 Documentation: Lilian Ricaud
