@@ -70,7 +70,12 @@ Lien vers le fichier au format PDF:
 
 Lien vers le fichier source au format scribus: 
             
+### Informer des complices
 
+- gardien du temps
+- scribe mindmpa
+- facilitateurs qui ont pour rôle de mettre les groupes en mouvement par l'exemple (bouger des que la cloche sonne, répondre aux incompréhensions des autres participants, ...)
+- ...
 
 ### Vidéoprojection des consignes
 
@@ -193,6 +198,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 #### 3eme partie: mode conférence
 - préparation de la salle
 - les rapporteurs ont **5 min** pour affiner leur discours.
+- un scribe prends des notes sur une mindmap vidéo projetée en direct -> le support de présentation est ainsi crée au fur et à mesure
 
 ---
 
@@ -222,20 +228,29 @@ Comment créer des cadres qui favorisent l'intelligence collective, c'est ce que
 
 ### Ce qui a marché
 
-
+- avoir informé les complices avant et vérifié avec eux que les consignes étaient claires
+- les supports papiers pour aider le groupe à réfléchir
 - main levée pour demander le silence
 - gestion relative du temps (prévoir large et donner plus de temps au groupe que ce que l'on leur annonce
 - un gardien du temps dédié avec un objet sonore, mais avec un son qui n'est pas aggressif
+- une persone dédié qui produit un support de présentation sous forme de mindmap
+- production de sens et d'une présentation à plus de 100 et en moins d'une heure trente ! 
+- convivialité, rencontre entre les gens
 - ...
 
 ### Ce qui est à améliorer
 
 - baton de parole (mieux expliquer, avoir un  objet plus joli/visible?)
+- s'assurer que les consignes vidéo projetées sont visibles de partout dans la salle
+
 Pour pouvoir aller plus loin sur les contenus produits: 
 - la mise en perspective des hypothèses (les divers points de vues sur les thèmes) 
 - le lien entre les thèmes
 - le rapport entre personnes plus "expertes" qui pourraient amener le groupe à aller plus loin et le savoir qui émerge du groupe.
 - la distribution des fichiers d'aide aux personnes (prévoir des complices dédiés).
+- ...
 
-
+## Source 
+CC-BY-SA
+Gatien Bataille, Lilian Ricaud, ...
 
