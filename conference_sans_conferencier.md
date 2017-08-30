@@ -35,7 +35,7 @@ que contient une CONFÉRENCE ?
 En option: 
 Le conférencier est souvent placé sur une ESTRADE, ou debout devant un PUPITRE, éventuellement muni d'un MICRO.
 
-## Déroulé
+## Le format en quelques mots ésumé
 
 Le déroulé global se déroulé en 3 partie principales:
 1. définition collective du sujet: création collective de sens sur le sujet à explorer
@@ -45,9 +45,9 @@ Le déroulé global se déroulé en 3 partie principales:
 
 ![](images/processus_conference_coconstruite.jpg)
 
-### A péparer avant
+## A péparer avant
 
-#### Mindmap exploration du sujet
+### Mindmap exploration du sujet
 
 - au centre le concept à étudier
 - 12 bulles
@@ -56,7 +56,7 @@ Lien vers le fichier au format PDF:
 
 Lien vers le fichier source au format scribus: 
 
-#### Matrice d'aide à la réflexion sur les thèmes
+### Matrice d'aide à la réflexion sur les thèmes
 
 Une matrice pense bête à remplir pour les hypothèses. Contient
 - question
@@ -70,16 +70,26 @@ Lien vers le fichier au format PDF:
 
 Lien vers le fichier source au format scribus: 
             
-### Déroulé
 
-Note: il est fortement conseillé de projeter les consignes pour être sur que les participants comprennent bien et ne perde pas de temps. Essentiel pour des grands groupes.
 
-# _L'intelligence collective sauvera-t-elle l'humanité ou est-ce une mode de plus ?_
+### Vidéoprojection des consignes
+
+il est fortement conseillé de projeter les consignes pour être sur que les participants comprennent bien et ne perde pas de temps. Essentiel pour des grands groupes.
+
+### Déroulé du format
+
+Voici le contenu utilisé pour co-construire 2017 sur le thème de l'intelligence collective.
+
+Le fichier au format PDF pour présentation:
+
+Le fichier source au format markdown (modifiable avec le logiciel de présenation Marp)
+
+#### _L'intelligence collective sauvera-t-elle l'humanité ou est-ce une mode de plus ?_
 la conférence dont vous êtes le héros !
 
 ---
 
-# Votre mission si vous l'acceptez:
+#### Votre mission si vous l'acceptez:
 - co-construire une conférence sans conférencier
 - expérimenter (on prendra peut être une gamelle, mais c'est pas grave)
 - se rencontrer et passer un bon moment
@@ -89,7 +99,7 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# Déroulé
+#### Déroulé
 
 ![](images/processus_conference_coconstruite.jpg)
 
@@ -97,7 +107,7 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# Règles du jeu
+#### Règles du jeu
 
 - soyez bienveillants
 - tous les points de vues sont légitimes, il n'y a pas une vérité absolue
@@ -106,11 +116,11 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# 1er partie: définition collective de l'intelligence collective
+#### 1er partie: définition collective de l'intelligence collective
 
 
 ---
-# 1ère itération: Tour de chauffe
+#### 1ère itération: Tour de chauffe
 
 - se placer par 3 avec une mindmap papier
 - se présenter les uns aux autres (nom-prénom, rien de plus pour l’instant !)
@@ -118,7 +128,7 @@ la conférence dont vous êtes le héros !
 - **Vous avez 3 min !**
 
 ---
-# 2ème itération : Tour d’échange
+#### 2ème itération : Tour d’échange
 
 - chaque trinome s'associe à un autre trinome
 - se présenter les uns aux autres  (nom-prénom)
@@ -128,7 +138,7 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# 3ème itération : Tour d’affinage
+#### 3ème itération : Tour d’affinage
 
 - chaque groupe de 6 s'associe à un autre groupe de 6
 - se présenter les uns aux autres (nom-prénom)
@@ -139,24 +149,24 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# 2eme partie: travail sur les thèmes/hypothèses
+#### 2eme partie: travail sur les thèmes/hypothèses
 
 ---
 
-# Capitalisation définition de l'IC
+#### Capitalisation définition de l'IC
 
 - 2 sous-groupes de 12 participants
 - rédiger une synthèse
 
 ---
 
-# Travail sur les hypothèses
+#### Travail sur les hypothèses
 
 il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypothèses.
 
 ---
 
-# Les hypothèses
+#### Les hypothèses
 - L'intelligence collective peut-elle se passer du numérique ? 
 - L'intelligence collective existe-t-elle vraiment dans l'enseignement ?
 - L'intelligence collective peut-elle vraiment se pratiquer dans le privé ?
@@ -164,7 +174,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 
 ---
 
-# Travail par groupe de 12
+#### Travail par groupe de 12
 
 - utilisez la matrice comme outil d'aide à la reflexion
 - Prévoyez un **scribe**
@@ -172,7 +182,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 
 ---
 
-# Recroisement des hypothèses entre les deux sous-groupes
+#### Recroisement des hypothèses entre les deux sous-groupes
 - les 2 sous-groupes ayant travaillé sur la même question se rapprochent
 - Compilation des travaux
 - Choix des rapporteurs (si possible homme/femme)
@@ -180,13 +190,13 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 
 ---
 
-### 3eme partie: mode conférence
+#### 3eme partie: mode conférence
 - préparation de la salle
 - les rapporteurs ont **5 min** pour affiner leur discours.
 
 ---
 
-### Conférence
+#### Conférence
 - définition de l'intelligence collective (3-5 min)
 - L'intelligence collective peut-elle se passer du numérique et/ou des licences libres ? (3-5 min)
 - L'intelligence collective existe-t-elle vraiment dans l'enseignement ? (3-5 min)
@@ -208,4 +218,22 @@ Comment créer des cadres qui favorisent l'intelligence collective, c'est ce que
 
 --->
 
----
+## Retours d'expérience et pistes d'amélioration
+
+### Ce qui a marché
+
+- baton de parole
+- main levée pour demander le silence
+- gestion relative du temps (prévoir large et donner plus de temps au groupe que ce que l'on leur annonce
+- ...
+
+### Ce qui est à améliorer
+
+Pour pouvoir aller plus loin sur les contenus produits: 
+- la mise en perspective des hypothèses (les divers points de vues sur les thèmes) 
+- le lien entre les thèmes
+- le rapport entre personnes plus "expertes" qui pourraient amener le groupe à aller plus loin et le savoir qui émerge du groupe.
+- la distribution des fichiers d'aide aux personnes
+
+
+
