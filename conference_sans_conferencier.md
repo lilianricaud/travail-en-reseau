@@ -222,18 +222,20 @@ Comment créer des cadres qui favorisent l'intelligence collective, c'est ce que
 
 ### Ce qui a marché
 
-- baton de parole
+
 - main levée pour demander le silence
 - gestion relative du temps (prévoir large et donner plus de temps au groupe que ce que l'on leur annonce
+- un gardien du temps dédié avec un objet sonore, mais avec un son qui n'est pas aggressif
 - ...
 
 ### Ce qui est à améliorer
 
+- baton de parole (mieux expliquer, avoir un  objet plus joli/visible?)
 Pour pouvoir aller plus loin sur les contenus produits: 
 - la mise en perspective des hypothèses (les divers points de vues sur les thèmes) 
 - le lien entre les thèmes
 - le rapport entre personnes plus "expertes" qui pourraient amener le groupe à aller plus loin et le savoir qui émerge du groupe.
-- la distribution des fichiers d'aide aux personnes
+- la distribution des fichiers d'aide aux personnes (prévoir des complices dédiés).
 
 
 
