@@ -2,6 +2,12 @@
 
 Voici une format où un thème est collectivement exploré par un large groupe afin de produire une conférence, le tout dans un temps très court.
 
+Ce format permet de:
+- créer de la rencontre entre les participants
+- vivre une expérience co-construction
+-  co-construire un savoir commun sur un thème. Il a été testé lors des rencontres Co-construire 2017 sur le thème l'intelligence collective
+            
+
 ## C'est quoi une conférence ?
 
 Avant de démarrer il faut comprendre ce qui fait la specificité du format conférence.
@@ -31,181 +37,175 @@ Le conférencier est souvent placé sur une ESTRADE, ou debout devant un PUPITRE
 
 ## Déroulé
 
-![](
+Le déroulé global se déroulé en 3 partie principales:
+1. définition collective du sujet: création collective de sens sur le sujet à explorer
+2. travail collectifs sur des thèmes: co-construire un savoir commun sur les hypothèses
+3. conférence
+
+
+![](images/processus_conference_coconstruite.jpg)
 
 ### A péparer avant
-ne matrice pense bête à remplir pour les hypothèse
-            question
-            rédige un point précis
-            un exemple concret
-            un regard critique (rôle à prévoir)
-            un regard positif (rôle à prévoir)
-            format possible
-                intitulé
-                champs texte pour UNE hypothèse en particulier
-                    prise de position ?
-                    3 lignes
-                    prévoir un matrice de restitution clair et assez précis
-                    1, 2 ou 3 points / par thème ?
-                champs "Exemples concrets"
-                    si possible vécu
-                    limiter à 2-3 puces
-                discussion
-                    avec regard critique (ou... )
-                    regard bienveillant progressiste
-                    nuances ???
-                champs libre
-            regle du jeu
-        mindmap préremplies
-            utilisation outil "buller" mindmap
-                méthode avec cartes mentales prédéfinies
-                Impossible de calculer => cfr = analogie / http://pouremporter.communagir.org/outils/buller. Détails de l'erreur : org.freeplane.plugin.script.ExecuteScriptException: startup failed: Script1.groovy: 1: unexpected token: > @ line 1, column 1.    > cfr = analogie / http://pouremporter.communagir.org/outils/buller    ^  1 error  at line 1.
-            12 bulles
-            au centre IC
-            et autour des bulles vides mais une ou deux préremplies par nous
-                @gatien : on part sur des mots différents sur les mindmap ?
-                pas de préremplissage
-            regle du jeu
-    Intro
-        Objectifs
-            poser le cadre/règles du jeu
-            Présentation du format pour que les participants sentent qu'il savent où on va
-        5 min max
-            @gatien :  je sais que c'est l'idéal mais je sais aussi que c'est pas simple à tenir ;-)
-        Lilian, Gatien, ... ?
-            Lilian, Gatien, ... ?
-        Déroulé
-            présenter le titre de la conf
-                l'IC collective sauvera-t-elle 'l'humanité ou est-ce une mode de plus ?
-            Projeter les consignes sur grand écran
-                le plus simple serait un dessin qui permet de visualiser rapidement les grandes étapes et le cadre @gatien
-    1er partie définition collective de l'intelligence collective
-        Objectifs
-            faire remonter représentations
-            co-construire un savoir commun sur l'intelligence collective
-            vivre expérience co-construction
-        20 min max
-        Lilian, ... ?
-        Déroulé
-            Scinder les participants en trinome avec pour  chacun une carte mentale papier
-                @gatien : dictacteur bienveillant pour que ça prennen max 2 min ! croison sles doigts
-            1ere itération: à trois (ou 4?) remplir les bulles avec des définitions
-                5 min => 3min
-                on pourrait imaginer qu certains groupes aient une autre consignes (ex ce qui favorise)
-                    @gatien bonne idée !
-                codes couleurs pour les bulles 1er, 2eme, 3eme itération
-                    @gatien : en lien avec au dessus, bulle verte (facilite) bulle rouge (complique)
-                @gatien : vu les inscriptions qui courent et courent !!!!!
-                    40 groupes de 3 => 20 groupes de 6 et 10 groupes de 12
-            2eme itération: par 6 (ou 8?) on partage et on reprend et additionne dans une mindmap commune
-                5 min
-                @gatien faudra préciser l'objectif de cette nouvelle itération ?
-                    poursuivre la description de l'IC ?
-                    compiler le contenu des 2 cartes mentales sur une seule ?
-            Par 12 (ou 16?) on partage avec les autres reprends les mots clés dans bulles
-                5 min => 7 min
-                @gatien idem... quelle consigne ?
-            on demande à un groupe de volontaires de capitaliser ça dans la partie suivante
-                @gatien : vu le nbr de participants, ne faudrait il pas que ce choix soit automatique et non volontaire... genre le groupe qui a la mindmap avec une pastille verte sera le capitaliseur
-    2eme partie: travail sur les thèmes/hypothèses <4%20groupe%20de%20travail%20sur%20les%20hypothèse%20+%201%20(2)%20groupe%20sur%20capitalisation/synthèse%20travail%20intelligence%20collective%20partie%201%20(voir%20synthèse%20utilisée%20par%20http://pouremporter.communagir.org/outils/buller)>
-        Objectifs
-            co-construire un savoir commun sur les hypothèses
-            vivre expérience de co-construction
-        25 min
-        Lilian, ... ?
-        Déroulé
-            poser les questions
-                projeter les questions
-                dans l'espace physique ?
-                    @gatien, c'est possible d'avoir 4 grandes feuilles format A0 pour écrire ces hypothèses et donc créer des lieux de rassemblement "automatique"
-                3 min
-            Scinder le collectif en 10 sous groupes
-                2 groupes sur capitalisation/synthèse travail intelligence collective partie 1 (voir synthèse utilisée par http://pouremporter.communagir.org/outils/buller)
-                    @gatien : voir au dessus mais peut-être groupe désigné d'office ?
-                    @gatien leur donner un objectif clair, définissez l'IC sur base des mots reçus ? ou ...
-                4 (8) groupe de travail sur les hypothèse +
-                    L'intelligence collective peut-elle se passer du numérique et/ou des licences libres ?
-                    L'intelligence collective existe-t-elle vraiment dans l'enseignement ?
-                    L'intelligence collective peut-elle vraiment se pratiquer dans le privé ?
-                    Intelligence collective et territoires
-                        L'intelligence collective peut-elle (vraiment) être menée à l'échelle d'un large territoire ?
-                        Les outils de cartographies sensibles permettent-ils une meilleure appropriation des territoires par leurs habitants ?
-                    @gatien : à mon avis 8 groupes de 12 et peut-être garder ceux existants pour ne pas "rebattre les cartes" ce qui pourrait prendre plus que les 3 min prévues
-                3 min
-            Travail par sous groupes
-                15 min => 10 min
-                on donne une matrice pense bête à remplir pour chaque groupe
-                    questions imprimée
-                Roles
-                    rédige un point précis
-                        @gatien, on doit clarifier cet intitulé je crois car je me perds moi même...
-                            @gatien : donner % de ok, de non ok dans le groupe # à l'hypothèse
-                            @gatien : et ????? je bloque
-                        rediger un argument en 1-3 lignes ??
-                    un exemple concret
-                    un regard critique (rôle à prévoir)
-                    un regard positif (rôle à prévoir)
-            Recroisement des hypothèses entre les deux sous groupes
-                5 min => 10 min
-                mettre en commun ses informations
-                    5 min
-                dans chaque groupe, désigner 2 personnes éloquentes pour partie conf (un homme/une femme)
-                    5 min aussi pour préparer son intervention
-    3eme partie: restitution finale (mode conférence)
-        25 min
-        Lilian, ... ?
-        Objectif
-            faire la "vraie" conf sur l'intelligence collective
-            partager des savoirs sur différents thèmes
-        Déroulé
-            petite temps insolite pour marquer démarrage mode conférence
-                @gatien bonne idée...
-                    @gatien genre une équipe de techniciens qui débarquent et pose en 2 min le pupitre et le tapis de sol (à la sauce festival entre deux chanteurs) donc rapidos... avec pourquoi pas un faux test micro ;-)
-                    @gatien, ça permettra aussi de rassembler le groupe autour d'un point et de montrer implicitement aux orateurs où ça va se passer
-                    @lilian : super :)
-                indiquer aux orateurs qu'ils ont 5 min de prépa entre eux
-                    prévoir 5 complices qui extraient les orateurs vers une salle calme à coté.
-            Ouverture : définition de l'IC
-                groupe 1-2
-                sur base du travail préalable autour des mots
-                3-5 min
-                    @gatien : pour aider le groupe a rester dans son temps (sans passer par du bruit) on peut imprimer 3 affiches A3 (reste 60 sec, reste 30S , reste 15 sec)
-                        @lilian : super :)
-                        c'est comme les confs TED version papier ;-)
-            Hypothèses/Questions
-                4 groupes
-                3-5 min / groupe = 12-20 min
-                    @gatien : pour aider le groupe a rester dans son temps (sans passer par du bruit) on peut imprimer 3 affiches A3 (reste 60 sec, reste 30S , reste 15 sec)
-            fermeture
-                par nous ?
-                    @gatien : sans doute mais sous quelle forme pour que ça aille vite sans faire "cheap"
-                mindmap
-                    prise de note en direct
-                        @gatien oui il faut que je demande à Laurent
-                            +1
-                synthèse des synthèses
-                    on le fait à plusieurs et tres court
-    Cloture
-        Objectifs
-            refermer l'espace-temps pour passer à autre chose
-            trouver une bonne blague ;-) pour le final
-        Lilian, Gatien, ... ?
-        3-5 min
-        ça continu durant les 3 jours
-            début d'une recherche action qui va durer 3 jours
-        partie glossaire
-            peut vivre par après / pad ou wiki
-                UN PAD simplement + rappel deurant 3 jours
-            on invite les gens à mettre les déf sur les mots
-            Qui ?
-        remerciements collectifs
-        théatralisation ? scénario ??
-    questions @gatien
-        @gatien quel matos prévoir car il reste juste la semaine prochaine pour collecter, préparer
-            videoproj
-            estrade (ultra simple, genre 2 palettes + tapis)
-            feuilles A0
-            micro ?
-            feuilles trame argument
-            mindmaps
 
+#### Mindmap exploration du sujet
+
+- au centre le concept à étudier
+- 12 bulles
+
+Lien vers le fichier au format PDF:
+
+Lien vers le fichier source au format scribus: 
+
+#### Matrice d'aide à la réflexion sur les thèmes
+
+Une matrice pense bête à remplir pour les hypothèses. Contient
+- question
+- reformuler/repréciser la question
+- un exemple concret
+- un regard critique 
+- un regard positif (rôle à prévoir)
+- % de personnes pour, contre, indécises
+
+Lien vers le fichier au format PDF:
+
+Lien vers le fichier source au format scribus: 
+            
+### Déroulé
+
+Note: il est fortement conseillé de projeter les consignes pour être sur que les participants comprennent bien et ne perde pas de temps. Essentiel pour des grands groupes.
+
+# _L'intelligence collective sauvera-t-elle l'humanité ou est-ce une mode de plus ?_
+la conférence dont vous êtes le héros !
+
+---
+
+# Votre mission si vous l'acceptez:
+- co-construire une conférence sans conférencier
+- expérimenter (on prendra peut être une gamelle, mais c'est pas grave)
+- se rencontrer et passer un bon moment
+
+**pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
+
+
+---
+
+# Déroulé
+
+![](images/processus_conference_coconstruite.jpg)
+
+ 
+
+---
+
+# Règles du jeu
+
+- soyez bienveillants
+- tous les points de vues sont légitimes, il n'y a pas une vérité absolue
+- évitez les monologues ou les ping pong à 2: une astuce: utilisez un baton de parole
+
+
+---
+
+# 1er partie: définition collective de l'intelligence collective
+
+
+---
+# 1ère itération: Tour de chauffe
+
+- se placer par 3 avec une mindmap papier
+- se présenter les uns aux autres (nom-prénom, rien de plus pour l’instant !)
+- discutez pour identifier 3 notions, concepts, idées qui vous viennent à l’esprit quand vous pensez à l’intelligence collective.
+- **Vous avez 3 min !**
+
+---
+# 2ème itération : Tour d’échange
+
+- chaque trinome s'associe à un autre trinome
+- se présenter les uns aux autres  (nom-prénom)
+- par 6, discutez les notions déja identifiées
+- **complétez** UNE des 2 feuilles (l’autre est abandonnée) avec 3 notions supplémentaires
+- **Vous avez 5 min !**
+
+---
+
+# 3ème itération : Tour d’affinage
+
+- chaque groupe de 6 s'associe à un autre groupe de 6
+- se présenter les uns aux autres (nom-prénom)
+- par 12, discutez les notions déja identifiées
+- complétez UNE des 2 feuilles (l’autre est abandonnée) avec 6 notions, concepts,idées supplémentaires
+- **Vous avez 7 min !**
+- La feuille complétée est collée sur le mur prévu.
+
+---
+
+# 2eme partie: travail sur les thèmes/hypothèses
+
+---
+
+# Capitalisation définition de l'IC
+
+- 2 sous-groupes de 12 participants
+- rédiger une synthèse
+
+---
+
+# Travail sur les hypothèses
+
+il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypothèses.
+
+---
+
+# Les hypothèses
+- L'intelligence collective peut-elle se passer du numérique ? 
+- L'intelligence collective existe-t-elle vraiment dans l'enseignement ?
+- L'intelligence collective peut-elle vraiment se pratiquer dans le privé ?
+- L'intelligence collective peut-elle vraiment être menée à l'échelle d'un large territoire ?
+
+---
+
+# Travail par groupe de 12
+
+- utilisez la matrice comme outil d'aide à la reflexion
+- Prévoyez un **scribe**
+- **allez à l'essentiel, vous avez 10 min**
+
+---
+
+# Recroisement des hypothèses entre les deux sous-groupes
+- les 2 sous-groupes ayant travaillé sur la même question se rapprochent
+- Compilation des travaux
+- Choix des rapporteurs (si possible homme/femme)
+- Soyez brefs dans vos échanges afin de vous partager la parole (**vous avez 10 min**)
+
+---
+
+### 3eme partie: mode conférence
+- préparation de la salle
+- les rapporteurs ont **5 min** pour affiner leur discours.
+
+---
+
+### Conférence
+- définition de l'intelligence collective (3-5 min)
+- L'intelligence collective peut-elle se passer du numérique et/ou des licences libres ? (3-5 min)
+- L'intelligence collective existe-t-elle vraiment dans l'enseignement ? (3-5 min)
+- L'intelligence collective peut-elle vraiment se pratiquer dans le privé ? (3-5 min)
+- L'intelligence collective peut-elle vraiment être menée à l'échelle d'un large territoire ? (3-5 min)
+- conclusion (2 min)
+
+---
+
+![](images/elephant_aveugles.jpg)
+
+<!---
+
+Pour comprendre la complexité, avoir un seul point de vue ne suffit pas.
+
+L'intelligence collective se nourrit de la diversité des points de vue. 
+
+Comment créer des cadres qui favorisent l'intelligence collective, c'est ce que nous étudierons ensemble durant ces 3 jours.
+
+--->
+
+---
