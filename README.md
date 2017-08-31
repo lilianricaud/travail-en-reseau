@@ -290,6 +290,10 @@ Dans cet article nous revenons sur le processus de travail que nous avons mené 
 
 Cette liste peut servir de grille d'analyse pour vérifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
 
+### Méthode SKA
+
+La méthode SKA est une méthode basée sur les principes de stigmergie complétée par des outils kanban et pratiques agiles.
+
 ### Sélection fiches MultiBAO 
 
 MultiBAO regorge de fiches, mais il n'est pas facile de s'y retrouver. Voici ma sélection de fiches recettes favorites que ce soit pour une utilisation courante ou pour inspiration.
