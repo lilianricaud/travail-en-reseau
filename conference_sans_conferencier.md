@@ -50,7 +50,7 @@ que contient une CONFÉRENCE ?
 En option: 
 Le conférencier est souvent placé sur une ESTRADE, ou debout devant un PUPITRE, éventuellement muni d'un MICRO.
 
-## Le format en quelques mots ésumé
+## Le format résumé en quelques mots
 
 Le déroulé global se déroulé en 3 partie principales:
 1. définition collective du sujet: création collective de sens sur le sujet à explorer
@@ -123,7 +123,7 @@ la conférence dont vous êtes le héros !
 
 ![](images/processus_conference_coconstruite.jpg)
 
- 
+![](images/conference_sans_conferencier_pleniere.jpg)
 
 ---
 
@@ -147,6 +147,9 @@ la conférence dont vous êtes le héros !
 - discutez pour identifier 3 notions, concepts, idées qui vous viennent à l’esprit quand vous pensez à l’intelligence collective.
 - **Vous avez 3 min !**
 
+![](images/conference_sans_conferencier_3.jpg)
+
+
 ---
 #### 2ème itération : Tour d’échange
 
@@ -155,6 +158,11 @@ la conférence dont vous êtes le héros !
 - par 6, discutez les notions déja identifiées
 - **complétez** UNE des 2 feuilles (l’autre est abandonnée) avec 3 notions supplémentaires
 - **Vous avez 5 min !**
+
+![](images/conference_sans_conferencier_6.jpg)
+
+![](images/conference_sans_conferencier_mindmap.jpg)
+
 
 ---
 
@@ -165,7 +173,9 @@ la conférence dont vous êtes le héros !
 - par 12, discutez les notions déja identifiées
 - complétez UNE des 2 feuilles (l’autre est abandonnée) avec 6 notions, concepts,idées supplémentaires
 - **Vous avez 7 min !**
-- La feuille complétée est collée sur le mur prévu.
+- La feuille complétée est recoltée par des complices.
+
+![](images/conference_sans_conferencier_12.jpg)
 
 ---
 
