@@ -1,3 +1,16 @@
+<!--
+
+---
+title: Conférence sans conférencier
+description: Voici une format où un thème est collectivement exploré par un large groupe afin de produire une conférence, le tout dans un temps très court.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
+
 # Conférence sans conférencier
 
 Voici une format où un thème est collectivement exploré par un large groupe afin de produire une conférence, le tout dans un temps très court.
@@ -5,7 +18,9 @@ Voici une format où un thème est collectivement exploré par un large groupe a
 Ce format permet de:
 - créer de la rencontre entre les participants
 - vivre une expérience co-construction
--  co-construire un savoir commun sur un thème. Il a été testé lors des rencontres Co-construire 2017 sur le thème l'intelligence collective
+-  co-construire un savoir commun sur un thème. 
+
+Il a été testé lors des rencontres Co-construire 2017 sur le thème l'intelligence collective
             
 
 ## C'est quoi une conférence ?
