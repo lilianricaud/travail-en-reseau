@@ -107,6 +107,8 @@ Le fichier source au format markdown (modifiable avec le logiciel de présenatio
 #### _L'intelligence collective sauvera-t-elle l'humanité ou est-ce une mode de plus ?_
 la conférence dont vous êtes le héros !
 
+
+
 ---
 
 #### Votre mission si vous l'acceptez:
@@ -114,7 +116,10 @@ la conférence dont vous êtes le héros !
 - expérimenter (on prendra peut être une gamelle, mais c'est pas grave)
 - se rencontrer et passer un bon moment
 
+![](images/conference_sans_conferencier_pleniere.jpg)
+
 **pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
+
 
 
 ---
@@ -123,7 +128,7 @@ la conférence dont vous êtes le héros !
 
 ![](images/processus_conference_coconstruite.jpg)
 
-![](images/conference_sans_conferencier_pleniere.jpg)
+
 
 ---
 
