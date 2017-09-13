@@ -58,12 +58,11 @@ Laisser du matériel à disposition (post it, feutres, stylos) et un paperboard 
 
 Consigne
 
-Sur des post-it lister les pépites, ingrédients de réussite, en essayant de préciser aussi le contexte dans lequels cet ingrédient fonctionne.
+Sur des post-it lister les pépites, ingrédients de réussite qui ont contribés à la réussite du projet, en essayant de préciser aussi le contexte dans lequels cet ingrédient fonctionne.
 
-- qui ont contribués à la réussite du projet 
-- freins (2 couleurs de post its)
+- (optionnel les freins)
 
-un ingrédient par post it, écrire de manière lisible
+noter UN ingrédient par post it, écrire de manière lisible
 
 au dos indiquer au crayon à papier les détails (contexte, limites, ...)
 
