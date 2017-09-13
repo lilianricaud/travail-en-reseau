@@ -59,14 +59,17 @@ Consigne:
 - au dos indiquer au crayon à papier les détails (contexte, limites, ...)
 - (optionnel indiquer les freins)
 
-### Affinage des patterns: Polissage des pépites
+### Détection des patterns: Récolte des pépites
 
 - Mettre en commun les post it
 - Tri par affinités: demander un groupe de volontaires qui aura pour rôle de trier et grouper les post-it par affinités, afin de dégager des thèmes/blocs.
 - Demander au groupe de trieurs de présenter au grand groupe ses blocs et les choix faits
-- Demander aux participants de se positionner sur un groupe de post it (2-5 personnes par groupe): chaque groupe aura la responsabilité de Dégager/identifier les patterns récurrents et rédiger une trame au format pattern
+- Demander aux participants de se positionner sur un groupe de post it de manière à avoir 2 à 5 personnes par groupe: chaque groupe aura la responsabilité de dégager/identifier les patterns récurrents et rédiger une trame au format pattern
+- chaque groupe colle ses post it sur une feuille A4 et part s'isoler pour traiter ses pépites.
 
+### Affinage des patterns: Polissage des pépites
 
+Chaque sous groupe a pour mission de polir les pépites, c'est à dire produire une trame de bonne pratique qui sera réutilisable. Cette trame n'a pas vocation à être parfaite. Il est interessant de mettre une contrainte de temps pour forcer les participants à aller l'essentiel. 
 
 - Nommer la bonne pratique
 - Préciser la bonne pratique, qu'est ce qui marche, dans quel contexte, limites, à quels problèmes ça réponds
