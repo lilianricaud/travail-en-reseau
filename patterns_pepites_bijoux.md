@@ -16,6 +16,20 @@ licence: CC-BY-SA
 Cette recette décrit un processus de capture et co-construction de bonnes pratiques au format d'un langage de pattern.
 
 
+## Principe
+
+Les formats de description de bonnes pratiques sont généralement difficllement applicable hors de leur contexte d'origine. Pour pallier à cela, la méthode des langage de patterns est tres interessante. De même que le langage nous permet de composer une infinité de phrase, un langage de pattern permet à celui qui l'emploi de composer une infinité de solutions à chaque fois adaptée au contexte.
+
+Le terme "pattern", difficile à traduire et moins explicite
+
+La métaphore de pépites et de bijoux est utilisée pour rendre plus intuitive la compréhension des participants que .
+
+Pour cela, le principe est de créer autour du domaine à explorer un espace d'échange entre de nombreux parties prenantes avec assez de diversité pour favoriser l'intelligence collective.
+
+Le cadre doit être propice à une réflexion pas seulement basée sur la logique, mais aussi sur l'intuition.
+
+Au cours de cet espace d'échange, les participants sont invités à capturer ce qu'ils perçoivent comme "pépites", c'est à dire, les bonnes solutions. Cette récolte est ensuite aggrégé pour faire des "bijoux". 
+
 
  Capitalisation
 
