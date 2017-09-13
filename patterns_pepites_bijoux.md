@@ -32,25 +32,34 @@ Au cours de cet espace d'échange, les participants sont invités à capturer ce
 
 ## Exemple de la création d'un langage de patterns collaboration fablab-école
 
-### Espace d'échange
+Cet atélier a été teste au cours d'une journée fablab éphémère consacré à la collaboration fablab-école (au sens large).
 
-Pour faciliter la production de matière nous avons mis en place un espace de discussion avec une STRUCTURE DE PAROLE propice à l'expression de toustes, pas seulement les extravertis et favoriser l'intelligence collective.
+### Espace d'échange: production de minerai
+
+Pour faciliter la production de matière à exploiter, il est intéressant de mettre en place un espace de discussion avec une STRUCTURE DE PAROLE propice à l'expression de toustes, pas seulement les extravertis et favoriser l'intelligence collective.
 
 Pour cela nous avons choisi le format du CERCLE SAMOAN (http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md).
 
-Le THEME avait été choisi pour 
+Le THEME a été choisi en lien avec le thème du jour,  à savoir comment mettre en place une collaboration fablab-école.
 
-Raconter une histoire captivante: " chercheurs d'or, trouver les pépites de collaboration cachées...)
-Afficher les consignes (de manière visuelle avec dessins ) pour faciliter l'entrée de nouveaux participants en cours de route
+Les participants au premier cercle de discussion sont choisi pour témoigner sur leur expérience et lancer la discussion, mais le format du cercle fait en sorte que la discussion évolue selon les interventions des différents participants.
 
-**## Première cartographie de patterns: tamiser les pépites**
+Afficher les consignes (de manière visuelle avec dessins ) pour faciliter l'entrée de nouveaux participants en cours de route.
 
-Première extraction durant la session de présentation du projet Smart Pupils 
+### Première cartographie de patterns: tamiser les pépites
 
-En début de session informer de l'initiative cartographie de patterns
-Travail qui sera partagé sous licence libre donner instructions et laisser matériel à disposition
+En début de session informer de l'initiative de cartographie de patterns.
 
-Sur post it lister pépites, ingrédients 
+Pour ludifier l'ateliers il peut être interessant de raconter une histoire captivante: "vous êtes des  chercheurs d'or, vous devez trouver des pépites de collaboration cachées...)
+
+Préciser que le travail sera partagé sous licence libre pour être réutilisable et améliorable par toustes après l'atelier.
+
+Laisser du matériel à disposition (post it, feutres, stylos) et un paperboard avec un dessin de tamis collé au mur pour permettre aux participants d'afficher leur récolte.
+
+Consigne
+
+Sur des post-it lister les pépites, ingrédients de réussite, en essayant de préciser aussi le contexte dans lequels cet ingrédient fonctionne.
+
 - qui ont contribués à la réussite du projet 
 - freins (2 couleurs de post its)
 
@@ -58,7 +67,7 @@ un ingrédient par post it, écrire de manière lisible
 
 au dos indiquer au crayon à papier les détails (contexte, limites, ...)
 
-**## polissage des pépites**
+### Polissage des pépites
 
 - Mettre en commun les post it
 - Tri par affinités
@@ -70,7 +79,8 @@ sur quel support pour que ce soit visible par toustes ?
 -> feuilles A4, transportables, affichables facilement avec pinces à linges ou sur support mural
 1 feuille /pattern pour faciliter écriture /lisibilité
 
-**## 2eme itération tamis + polissage**
+### 2eme itération tamis + polissage
+
 Tamis sur restitution du défi + questionnaire de participants
 Recruter participants avant et leur montrer liste de patterns existants
 Leur demander noter sur post it, infos nouvelles (nouveaux patterns ou points pour compléter patterns existant 
@@ -80,7 +90,7 @@ Polissage: réamender chaque pattern par discussion collective (sous groupe ? ou
 Feuilles affichées ou posées sur tables avec tour de travail en sous groupe type world café ? (Possibilité de gérer les forks?)
 durée: 30-45 min
 
-**## 3eme itération tamis + polissage**
+### 3eme itération tamis + polissage
 
 Pourrait être effectuée par des volontaires ayant participé aux premier cycles et qui iraient fouiller dans les autres ateliers du ludovia.
 Nécessiterait simplement un espace/temps pour resynchroniser collectivement les données extraites.
