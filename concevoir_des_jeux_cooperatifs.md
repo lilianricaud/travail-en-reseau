@@ -195,6 +195,15 @@ Un pattern n'est pas simplement un élément figé dans une liste. Comme un mot,
 - http://blog.brouillardsetboussoles.fr/interview-dalexandre-maitre-du-jeu/
 - http://www.ffjdr.org/manuel-pratique-du-jeu-de-role/
 
+### Mécanicartes: Patterns de jeux
+
+Les Mécanicartes sont un outil simple et pratique permettant d’avoir une meilleure compréhension de ce qui compose un jeu et de faciliter la personnalisation de ses règles.
+Ce paquet de cartes peut également servir de cadre de contraintes pour créer ses propres jeux, que vous soyez un créateur en herbe ou un auteur à la recherche de nouvelles idées.
+
+Les cartes sont sous licence CC-BY-NC-SA.
+
+http://www.mecanicartes.com/mecanicartes/
+
 ## Jeux sur les communs
 
 - commonspoly: http://commonspoly.cc/
