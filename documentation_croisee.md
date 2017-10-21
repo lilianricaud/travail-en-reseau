@@ -9,15 +9,15 @@ image_url: https://github.com/multibao/contributions/blob/master/media/LR-docucr
 -->
 
 
-#Documentation croisée
+# Documentation croisée
 
-##Le principe: 
+## Le principe: 
     
 Alors qu'il serait intéressant de partager ses connaissances, une personne qui porte un projet ou détient des savoirs n'a pas le temps de documenter son travail pour le transmettre. De plus, lorsqu'elle transmet ou documente des savoirs, la personne qui transmet, peut négliger des détails importants car ils sont évidents pour elle.
 
 D'un autre coté une personne qui souhaite monter en compétence a besoin d'apprendre mais n'a pas forcément les moyens d'apprendre seule ou de quoi rémunérer un formateur ou une personne ressource qui lui consacre du temps pour transmettre des connaissances. En outre le savoir qu'elle reçoit n'est pas forcément formalisé et des choses peuvent rester vague si elles ne sont pas explicitées et remises en perspective.
 
-##Déroulement
+## Déroulement
 
 Le principe de ce format consiste à lier ces deux besoins pour que chacun en bénéficie : 
 
@@ -31,13 +31,13 @@ En échange la personne qui reçoit les savoirs (l'apprenti-éditeur) s'engage �
 
 Un des aspect important peut être de traduire le contenu expert pour le rendre accessible à tous.
 
-##Exemples d'utilisation: 
+## Exemples d'utilisation: 
 
 * un facilitateur transmet une connaissance sur un format qu'il a développé et l'apprenant produit une recette libre.
 * un développeur forme un apprenant à une nouvelle fonctionnalité développée sur un wiki et l'apprenant produit un manuel mode d'emploi sous licence libre
 * ...
 * 
-##Outils
+## Outils
 Ce format peut être fait en présence ou à distance. Dans les deux cas, un outil de co-écriture peut être utilisé pour prendre des notes à plusieurs avant d'archiver le contenu produit sur un site web, wiki ou autre boite à outil comme multibao.
 
 Licence libre : une licence permettant la libre réutilisation y compris commerciale telle la CC-BY-SA ou CC0 doit être choisie:
@@ -58,11 +58,11 @@ Cela n'a pas encore été fait, mais il serait intéressant d'avoir un canevas a
    * histoire et exemple
    * ...
 
-##Source
+## Source
 
 Lilian Ricaud CC-BY-SA, influencé par des discussions avec Outils-Réseaux et le réseau Tilios.
 
-##Format liés
+## Format liés
 
 Troc-Ecole
 Co-Coaching
