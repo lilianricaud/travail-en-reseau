@@ -10,6 +10,12 @@ image_url:
 
 MultiBAO regorge de fiches, mais il n'est pas facile de s'y retrouver. Voici ma sélection de fiches recettes favorites que ce soit pour une utilisation courante ou pour inspiration.
 
+
+## Coups de Marseault
+Laurent Marseault utilise une certaine manière de raconter des histoires et concevoir des accroches de manière drole, mais qui gratte ou ça fait mal. C'est rigolo, mais peut être en même temps grave, permet de se moquer de nous crever l'abscès, tout en allant la où ça fait mal grace à l'humour.
+
+- http://www.multibao.org/#furax37/pepites/blob/master/coup_de_marseault.md
+
 ## Choisir le bon format d'échanges
 Entre forum ouvert, world cafe, pro action cafe, cercle excentrique et autres formats d'échanges, comment faire le bon choix?
 - http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/dynamiques_groupes.md
