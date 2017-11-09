@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Co-Walking
+description: Un "cowalking" est un coworking éphèmere et itinérant inspiré par les WALKINGDEV
+image_url: https://github.com/multibao/contributions/blob/master/media/LR-copomodoro.jpg?raw=true
+---
+
+-->
+
+
 # COWALKING
 
 Un "cowalking" est un coworking éphèmere et itinérant inspiré par les WALKINGDEV. Comme ceux ci, un cowalking contient du travail dans des LIEUX VIVANTS/VITALISANTS, limités par des TIMEBOX et ponctué TEMPS DE MARCHE (ITINÉRANCE).
