@@ -11,7 +11,7 @@ licence: CC-BY-SA
 
 # Brise Glace Kanak
 
-En nouvelle calédonie quand deux personnes se roisent elles échangent plus facilement en posant deux questions:
+En nouvelle calédonie quand deux personnes se croisent elles échangent plus facilement en posant deux questions:
 
 - D'où viens tu ?
 - Où tu vas ?
