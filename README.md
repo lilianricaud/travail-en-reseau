@@ -57,7 +57,10 @@ Un énergiseur facile à mettre en œuvre sans matériel juste avec un peu d'esp
 
 ### Energiseur un à neuf 
 
-Cet énergiseur issu du théâtre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace
+Cet énergiseur issu du théâtre d'improvisation est tres facile a mettre en oeuvre et demande juste un peu d'espace.
+
+### Courant électrique
+Un énergiseur simple qui marche avec toute taille de groupe et sans matériel particulier.
 
 ### Energiseurs de grands groupes en amphi
 
