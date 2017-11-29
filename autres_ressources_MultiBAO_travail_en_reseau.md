@@ -48,3 +48,8 @@ Fiche des jeux joués pendant les Agile Games 2015 de Bazas
 Un bon dossier sur les métamodèles:
 - Dossier MultiBAO: http://www.multibao.org/#sylvainboyer/decodage/blob/master/meta_modeles.md
 - Source sur Github: https://github.com/sylvainboyer/decodage/blob/master/meta_modeles.md
+
+## Yannick UT7
+Ceci est le souce du journal que j'ai tenu durant la 2ieme promotions à Simplon.co. J'y ait consigné mes doutes, mes tentatives et mes reflexions.
+- http://www.multibao.org/#yaf/journal-d-un-formateur-en-2015/tree/master/journaux
+- https://github.com/yaf/journal-d-un-formateur-en-2015/blob/master/
