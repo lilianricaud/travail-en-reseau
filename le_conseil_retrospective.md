@@ -2,7 +2,7 @@
 
 ---
 title: Le conseil (Retrospective) 
-description: Le conseil est un format original qui peut être utilisé pour faire une retrospective, une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer. La version uivante vient de la scop UT7.
+description: Le conseil est un format original qui peut être utilisé pour faire une retrospective, une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer. La version suivante vient de la scop /ut7.
 image_url: 
 ---
 
