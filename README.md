@@ -190,6 +190,10 @@ Ce jeu de rôle vise à rendre visible les rôles et attitudes plus ou moins imp
 
 Comment réaliser ses rêves et passer à l'action en utilisant le dessin pour entrainer son cerveau à passer à l'action et éviter des rester paralysé par la logique et l'analyse.
 
+### Entretien Collectif
+
+Un atelier pour recueillir les représentations individuelles et travailler sur une analyse collective des représentations individuelles d'un groupe.
+
 ## Echanger
 
 ### Minuto-Cash: un nouveau moyen de paiement autoproduit et pour toutes les régions
