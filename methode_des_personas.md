@@ -83,15 +83,20 @@ Rédiger autant de personas que vous jugez nécessaire pour couvrir différents 
 On essairai d’accomoder ses besoins dans la mesure ou cela s’accorde avec ceux de la personas primaire
 
 -**Antipersona:** pas importante, voire à éviter.
-On ne cherche pas répondre à ses besoins, dans certains cas on pourrait faire en sorte de la repousser
+On ne cherche pas répondre à ses besoins, dans certains cas on pourrait faire en sorte de la repousser ou lui donner des signaux que ce qu'elle cherche ne pas la.
 
 ### Notion de taches pour mieux cerner l’utilisateur
 
-La persona a des missions, des objectifs, des taches,... le scénario d’usages aide a comprendre le cheminement et les besoins de la persona et à travers elle, l’utilisateur final.
+La persona a des missions, des objectifs, des taches,... le scénario d’usages aide à comprendre le cheminement et les besoins de la persona et à travers elle, l’utilisateur final.
 
 ### Synthèse mindmap
 
-Capturer toutes les informations données par les participants
+- Utiliser un logiciel de mindmap comme Freeplane et un vidéo projecteur
+- Demander à chaque participants ou groupe de partager ses personas
+- Capturer toutes les informations données par les participants dans la carte vidéoprojetée
+- organiser l'information au fur et à mesure par affinité ou bien quand tout a été dit
+- réévaluer l'organisation du contenu avec les participants
+- quand des discussions émergent laissez les se faire pour qu'il y ait clarification et obtenir une vision partagée des besoins.
 
 ## Exemple de déroulé d'atelier persona
 
