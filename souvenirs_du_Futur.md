@@ -60,7 +60,7 @@ http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit
 
 Ce format a été utilisé avec succès à distance via des outils de visio type Skype. Dans ce cas il est utile d'avoir un scribe sur place qui note les idées au fur et à mesure. Cela libère le facilitateur et lui permet de se concentrer pleinement sur ce qui est dit. Mais cela lui permet aussi d'avoir une lecture écrite qui est particulièrement utile quand le son n'est pas de bonne qualité.
 
-###Aidez moi à me rappeler...
+### Aidez moi à me rappeler...
 Pour trouver des pistes d'actions plus concrètes en utilisant l'intelligence collective du groupe il est possible de focaliser l'attention du groupe en demandant: "Aidez moi à me rappeler comment nous avons fait xxx..." par exemple "Aidez moi à me rappeler comment nous avons convaincu les partenaires."
 
 ### Cauchemars du futur
