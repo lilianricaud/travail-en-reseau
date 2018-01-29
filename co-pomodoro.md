@@ -58,7 +58,8 @@ Si les participants ont le choix de venir ou non, l’invitation leur donne des 
 Celui qui lance l’invitation à une certain légitimité de proposer une format particulier. Si c’est le cas, il est intéressant de proposer les règles du jeu en amont en lançant l’invitation.
 
 Clarifier bien votre intention avant de lancer l’invitation. Pourquoi nous réunissons nous ? Quel est le but ? La durée ? La méthode ? Pour que ce soit clair pour les autres, il faut que ce soit d’abord clair pour vous.
-Ingrédient 2: Check-in/Ouverture/inclusion
+
+### Ingrédient 2: Check-in/Ouverture/inclusion
 
 Les facilitateurs Art of Hosting (une approche de facilitation de rencontre très reconnue) utilisent beaucoup la notion de check in et de  check out (que je traduis par ouverture/inclusion  et cloture/séparation).
 
