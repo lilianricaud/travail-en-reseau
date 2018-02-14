@@ -44,4 +44,4 @@ Colle, scotch, papier (A3) ciseaux, magazines, journaux
 
 ## Source
 
-Existant peut être sous un autre nom, ce format a été adapté par Lilian Ricaud à partir d'un exercice sans nom connu.
+Ce format a été adapté par Lilian Ricaud à partir d'un exercice sans nom connu.
