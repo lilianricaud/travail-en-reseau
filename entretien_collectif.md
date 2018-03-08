@@ -103,7 +103,9 @@ Chaque groupe a 5 minutes pour présenter son analyse en terme d'idée et les r�
 
 Notre best-off en début de formation : analyser les représentations pour pouvoir les transformer éventuellement au long de la formation, mettre les participant.e.s en réflexion individuelle puis en sous-groupe, et en posture de collaboration.
 
-A la fois outils d'analyse et illustration de nos méthodes pédagogiques
+A la fois outils d'analyse et illustration de nos méthodes pédagogiques.
+
+Retours d'usagers: l'entretien collectif à un excellent rapport temps/efficacité par rapport à d'autres méthodes comme métaplan ou world café.
 
 ## Variantes ou prolongements :
 
