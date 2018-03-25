@@ -28,8 +28,9 @@ demander d'écrire sur une carte postale fournie nom, adresse et action.
 - écrire la première plus petite action possible
 - "tu vas recevoir la carte alors mets un petit mot gentil pour toi-même"
 
-## Variante:
- un enregistrement audio ou vidéo peut être utilisé.
+## Variantes:
+- un enregistrement audio ou vidéo peut être utilisé.
+- on peut détourner l'usage du format en l'utilisant comme un SOUVENIR DU FUTUR. Pour cela s'écrire une lettre ou écrire une lettre a un-e ami-e en racontant où on en est dans ce futur idéal.
 
 ## Source
 Via Thomas Wolff.
