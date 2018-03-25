@@ -42,6 +42,10 @@ Le contenu peut être affiché au mur.
 
 Colle, scotch, papier (A3) ciseaux, magazines, journaux
 
+## Variantes
+
+- on peut détourner l'usage du format en l'utilisant comme un SOUVENIR DU FUTUR. Dans ce cas on imagine un futur idéal et on le représente en utilisant le collage avant de présenter ce travail aux autres.
+
 ## Source
 
 Ce format a été adapté par Lilian Ricaud à partir d'un exercice sans nom connu.
