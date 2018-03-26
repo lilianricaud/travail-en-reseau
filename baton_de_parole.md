@@ -16,4 +16,6 @@ Le bâton passant de manière égale entre toutes les mains de tous les particip
 
 De plus, la STRUCTURE DE PAROLE  imposée par le bâton  favorise la réflexion. Le temps que le bâton revienne à nous, nous avons eu le temps nécessaire de mûrir ce que nous souhaitons dire. Ainsi, au lieu de nous exprimer de manière impulsive en réaction à ce que nous venons d'entendre, nous le faisons par rapport à un tout et de manière posée.
 
+## Liens
+
 - https://fr.wikipedia.org/wiki/B%C3%A2ton_de_parole
