@@ -17,7 +17,16 @@ Donner la consigne:
 Avec le matériel suivant spaghettis, fil, scotch, chamallow, chaque équipe doit réaliser la plus haute tour en exactement 18 minutes, avec pour contrainte principale, le fait de disposer le Chamallow au sommet de la structure. 
 
 
+## restitution
 
+Qu’apprend-on avec ce jeu ?
+
+- Que les équipes qui réussissent le mieux sont celles qui s’amusent le plus, et surtout celles qui travaillent par prototypage (essai / erreur / recommencer avec un nouvelle solution)
+- Qu’il vaut mieux commencer à travailler avec le Chamallow dès le début pour ne pas avoir de mauvaise surprise. Le chamallow représente les contraintes de chaque projet, il vaut mieux les attaquer en premier et composer avec plutôt que de ne les intégrer qu’à la fin et risquer que cela ne fonctionne pas.
+- Que certaines contraintes paraissent faibles (le chamallow ne paraissait pas si lourd avant qu’on le mette en haut de la tour, n’est-ce pas), mais qu’en réalité, cela peut avoir un effet très important. Pour rattacher cela au monde de l’entreprise, quelle sont vos contraintes ? Vos coûts à ne pas dépasser ? Vos délais à respecter ?
+
+
+## Source
 
 Inventé par Peter Skillman (ingénieur), et popularisé par Tom Wujec (un autre ingénieur) sur le site TED.
 
