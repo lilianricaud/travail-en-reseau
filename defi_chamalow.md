@@ -16,8 +16,22 @@ Donner la consigne:
 
 Avec le matériel suivant spaghettis, fil, scotch, chamallow, chaque équipe doit réaliser la plus haute tour en exactement 18 minutes, avec pour contrainte principale, le fait de disposer le Chamallow au sommet de la structure. 
 
+Debrief: qu'est ce qui s'est passé, qu'est ce qui marché, qu'avons nous appris ?
 
-## restitution
+
+## Debrief
+
+Tom Wujec a conduit environ 70 sessions avec des populations très diverses, des enfants de maternelles, des jeunes diplômés, des CEO, des architectes, des ingénieurs…
+
+Qui sont les plus mauvais ?
+
+Les jeunes diplômés de Business Schools… ;-)
+
+Trop conceptuels, planifiant et théorisant trop avant de prototyper pour constater alors que leur belle structure ne supporte pas le poids du Chamallow
+
+Les meilleurs ?
+
+Hormis les architectes et ingénieurs qui inventent d’ingénieux dispositifs, ce sont les enfants de maternelles. Dès le début, ils testent, mettent en pratique, puis font évoluer leurs structures. 
 
 Qu’apprend-on avec ce jeu ?
 
