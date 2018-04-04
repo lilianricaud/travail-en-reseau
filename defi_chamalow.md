@@ -19,6 +19,8 @@ Avec le matériel suivant spaghettis, fil, scotch, chamallow, chaque équipe doi
 
 
 
+Inventé par Peter Skillman (ingénieur), et popularisé par Tom Wujec (un autre ingénieur) sur le site TED.
+
 
 
 
