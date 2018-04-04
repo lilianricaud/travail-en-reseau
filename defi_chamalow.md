@@ -30,6 +30,7 @@ Qu’apprend-on avec ce jeu ?
 
 Inventé par Peter Skillman (ingénieur), et popularisé par Tom Wujec (un autre ingénieur) sur le site TED.
 
+https://pedagonews.wordpress.com/2016/02/22/le-defi-du-chamallow/
 
 
 
