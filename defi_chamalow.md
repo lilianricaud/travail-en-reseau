@@ -18,11 +18,11 @@ Avec le matériel suivant spaghettis, fil, scotch, chamallow, chaque équipe doi
 
 Travail par équipe (18 min)
 
-Debrief (10 min): qu'est ce qui s'est passé, qu'est ce qui marché, qu'avons nous appris ?
+Debrief (10 min): qu'est ce qui s'est passé, qu'est ce qui a marché, qu'avons nous appris ? Donner les conclusions.
 
-Option: introduction aux méthodes agiles (15 min), modèle en cascade vs modèle cyclique, planification vs émergence, notions d'itérations, de retrospective, user stories, notion de tache finie, sprint, cycles, 
+Option: introduction aux méthodes agiles (15 min), modèle en cascade vs modèle cyclique, planification vs émergence, notions d'itérations, de retrospective, user stories, notion de tache finie, sprint, prototypes, amélioration continue, cycles,  
 
-## Debrief
+## Conclusions ebrief
 
 Tom Wujec a conduit environ 70 sessions avec des populations très diverses, des enfants de maternelles, des jeunes diplômés, des CEO, des architectes, des ingénieurs…
 
@@ -40,7 +40,7 @@ Qu’apprend-on avec ce jeu ?
 
 - Que les équipes qui réussissent le mieux sont celles qui s’amusent le plus, et surtout celles qui travaillent par prototypage (essai / erreur / recommencer avec un nouvelle solution)
 - Qu’il vaut mieux commencer à travailler avec le Chamallow dès le début pour ne pas avoir de mauvaise surprise. Le chamallow représente les contraintes de chaque projet, il vaut mieux les attaquer en premier et composer avec plutôt que de ne les intégrer qu’à la fin et risquer que cela ne fonctionne pas.
-- Que certaines contraintes paraissent faibles (le chamallow ne paraissait pas si lourd avant qu’on le mette en haut de la tour, n’est-ce pas), mais qu’en réalité, cela peut avoir un effet très important. Pour rattacher cela au monde de l’entreprise, quelle sont vos contraintes ? Vos coûts à ne pas dépasser ? Vos délais à respecter ?
+- Que certaines contraintes paraissent faibles (le chamallow ne paraissait pas si lourd avant qu’on le mette en haut de la tour, n’est-ce pas), mais qu’en réalité, cela peut avoir un effet très important. Pour rattacher cela au monde du travail, quelle sont vos contraintes ? Vos coûts à ne pas dépasser ? Vos délais à respecter ?
 
 
 ## Source
