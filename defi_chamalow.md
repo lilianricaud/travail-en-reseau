@@ -12,12 +12,15 @@ Ce jeu est l'un des plus rapides et plus puissant moyen pour améliorer la capac
 
 Constituer des équipes de 4-5 personnes.
 
-Donner la consigne:
+Donner la consigne (5min):
 
 Avec le matériel suivant spaghettis, fil, scotch, chamallow, chaque équipe doit réaliser la plus haute tour en exactement 18 minutes, avec pour contrainte principale, le fait de disposer le Chamallow au sommet de la structure. 
 
-Debrief: qu'est ce qui s'est passé, qu'est ce qui marché, qu'avons nous appris ?
+Travail par équipe (18 min)
 
+Debrief (10 min): qu'est ce qui s'est passé, qu'est ce qui marché, qu'avons nous appris ?
+
+Option: introduction aux méthodes agiles (15 min), modèle en cascade vs modèle cyclique, planification vs émergence, notions d'itérations, de retrospective, user stories, notion de tache finie, sprint, cycles, 
 
 ## Debrief
 
