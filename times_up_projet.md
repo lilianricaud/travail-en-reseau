@@ -1,4 +1,4 @@
-# time's up projets
+# Time's up projets
 
 Chaque stagiaire animacoop porte un projet support. La page perso sur le wiki et les accélérateurs sont des temps pour partager son avancement mais les stagiaires sont demandeurs de temps pour en savoir plus sur l'avancement de projet des autres
 
