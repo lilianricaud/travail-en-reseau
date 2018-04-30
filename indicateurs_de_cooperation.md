@@ -23,18 +23,18 @@ Les éléments suivants représentent des indicateurs possibles:
 - **une acceptation et une gestion des conflits à des moments opportuns**: lorsque le groupe est confronté à des conflits ou à des divergences de vues, il sait se donner des priorités.
 - **une conscience des détails importants**: ne prise en compte des détails qui pourraient avoir un effet sur la coopération et la susciter ou, à l'inverse, la faire échouer
 - **des mécanismes de retrospective**: une analyse de la façon dont le groupe s'y est pris pour résoudre le problème afin d'améliorer sa coopération lorsque le même type de probleme se présentera
-- **une lucidité et un sntiment d' "efficacité collective"** afin que le groupe ait confiance en l'utilisation de ses ressources pour atteindre ses objectifs.
+- **une lucidité et un sentiment d' "efficacité collective"** afin que le groupe ait confiance en l'utilisation de ses ressources pour atteindre ses objectifs.
 
 ## Comment savoir si un groupe coopére bien ?
 
 D'après Guy le Boterf:
 
 Une bonne coopération nécessite conditions à remplir autour de 3 poles:
-- savoir coopérer: implique une formation mutuelle, la saisie des opportunités de coopération, une culture professionnelle partagée, des situations de formation incluant la coopération, des échange de pratiques, des connaissances et des compétences partagées, l'entrainement aux TIC, des boucles d'apprentissage, ou des moments de régulation et la conception commune des outils. 
-- pouvoir coopérer: demande que soient établis le périmètre de responsabilité de l'équipe (ses pouvoirs, objectifs, moyens, missions), des indicateurs de performances collectives, des équipes (variés et complémentaires), de règles de fcontionnement, des instances de régulation, un lanage d'opération commun, un dispositif d'information, un aménagement de l'espace adéquat, la gestion du temps, la cartographie des compétences ou repertoire des expertises, des règles de mobilité, …
-- vouloir coopérer: conerne le partage des enjeux et des objetifs, les défis, la convivialité, l'etablissement d'un lien de confiance et la rémunération (en evitant la compétition)
+- **savoir coopérer**: implique une formation mutuelle, la saisie des opportunités de coopération, une culture professionnelle partagée, des situations de formation incluant la coopération, des échange de pratiques, des connaissances et des compétences partagées, l'entrainement aux TIC, des boucles d'apprentissage, ou des moments de régulation et la conception commune des outils. 
+- **pouvoir coopérer**: demande que soient établis le périmètre de responsabilité de l'équipe (ses pouvoirs, objectifs, moyens, missions), des indicateurs de performances collectives, des équipes (variés et complémentaires), de règles de fcontionnement, des instances de régulation, un lanage d'opération commun, un dispositif d'information, un aménagement de l'espace adéquat, la gestion du temps, la cartographie des compétences ou repertoire des expertises, des règles de mobilité, …
+- **vouloir coopérer**: concerne le partage des enjeux et des objetifs, les défis, la convivialité, l'établissement d'un lien de confiance et la rémunération (en evitant la compétition)
 
-Règle d'or: Mieux vaut une cohérence forte entre quelques mesures prises sur ces 3 poles qu'une cohérence faible entre des mesures sophistiquées ou partielles prises entre ces trois poles. Il s'agit de créer un environnement favorable pour maximiser les chances que les gens agissent avec compétence.
+__Règle d'or__: Mieux vaut une cohérence forte entre quelques mesures prises sur ces 3 poles qu'une cohérence faible entre des mesures sophistiquées ou partielles prises entre ces trois poles. Il s'agit de créer un environnement favorable pour maximiser les chances que les gens agissent avec compétence.
 
 
 ## Source
