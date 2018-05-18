@@ -53,3 +53,9 @@ Un bon dossier sur les métamodèles:
 Ceci est le souce du journal que j'ai tenu durant la 2ieme promotions à Simplon.co. J'y ait consigné mes doutes, mes tentatives et mes reflexions.
 - http://www.multibao.org/#yaf/journal-d-un-formateur-en-2015/tree/master/journaux
 - https://github.com/yaf/journal-d-un-formateur-en-2015/blob/master/
+
+## Claude Aubry
+
+- http://www.multibao.org/#claudeaubry/contributions/tree/master/altableu
+
+- https://github.com/claudeaubry/contributions/tree/master/altableu
