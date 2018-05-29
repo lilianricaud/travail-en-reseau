@@ -1,10 +1,31 @@
-# Time's up projets
+# Time's up projets coopératifs
 
-Chaque stagiaire animacoop porte un projet support. La page perso sur le wiki et les accélérateurs sont des temps pour partager son avancement mais les stagiaires sont demandeurs de temps pour en savoir plus sur l'avancement de projet des autres
+Un energiseur qui aide à se rappeller les prénoms et les projets professionnels des autres participants.
+
+## Version individuelle
+
+Quand les participants se connaissent peu et connaissent peu les projets des autres commencer par cette version.
 
 - Chacun note sur un post it une description de son projet (sans le nommer) et de son état d'avancement (2 min)
-- les animateurs récoltent les post it puis les lisent un à un. Le groupe doit retrouver à qui est le projet. Bras levé tout le monde attends la description puis baisse la main en même temps pour pointer vers celui/celle qu'il/lle pense être le porteur de projet.
+- les animateurs récoltent les post it puis les lisent. Le groupe doit retrouver à qui est le projet. Bras levé tout le monde attends la description puis baisse la main en même temps pour pointer vers celui/celle qu'il/lle pense être le porteur de projet.
 - en mode animateur télé donner le prénom du porteur de projet et applaudir.
 - option: si le temps le permet redistribuer au hasard un post it à chaque stagiaire et lui demander de décrire aux autres en un mot le projet du post it et les autres doivent reconnaitre à qui est le projet. Refaire de même et cette fois demander aux stagiaire de faire reconnaitre le projet en mimant le projet qui est inscrit sur le post it.
+
+## Version Equipes
+
+Quand les participants se connaissent mieux, il est possible de faire le mode équipe.
+
+- Chaque participants note au recto d'un post-it/papier une description de son projet (sans le nommer) et de son état d'avancement puis au verso essaye note un mot qui évoque le projet (2 min)
+- les animateurs récoltent les post it et constituent deux équipes. Le but pour chaque équipe est de reconnaitre le porteur du projet décrit sur le post it et donner son prénom avant l'autre équipe/ (Le point n'est pas validé si le prénom n'est pas donné). 
+
+Tour description
+- A chaque tour un membre de d'une équipe prend un post it dans la pile et lit la description. Les deux équipes jouent à deviner en même temps et doivent donner le prénom du porteur de projet. Les post Un animateur compte les points.
+
+
+doit faire deviner le prénom du porteur de projet décrit sur le post it
+
+
+
+
 
 CC-BY-SA Stéphane, Mélanie, Lilian Animacoop toulouse
