@@ -3,7 +3,7 @@
 ---
 title: Mandala holistique 
 description: Le "mandala holistique" est un format très puissant pour aider des collectifs à bien démarrer un projet commun en co-definissant des valeurs et des actions à mettre en oeuvre.
-image_url: https://github.com/multibao/contributions/blob/master/media/LR-mandalaholistique.jpg?raw=true
+
 ---
 
 -->
