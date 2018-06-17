@@ -8,6 +8,7 @@ image_url:
 
 -->
 
+> Vous pouvez retrouver ces formats et bien d'autres sous formes d'un jeu de cartes sur http://www.metacartes.cc
 
 # Index des contenus classés par thèmes/usages
 
