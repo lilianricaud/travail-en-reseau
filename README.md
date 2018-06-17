@@ -341,3 +341,7 @@ Selon les conditions suivantes :
 Attribution à mentionner pour réutiliser ce document: _"Titre du contenu de formation" Lilian Ricaud - Creative Commons Paternité - Partage dans les Mêmes Conditions 3.0 France (CC BY-SA 3.0). Basé(e) sur une oeuvre disponible à www.lilianricaud.com._ Les autorisations au-delà du champ de cette licence peuvent être obtenues en me contactant: contact@lilianricaud.com.
 
 
+> Vous pouvez retrouver ces formats et bien d'autres sous formes d'un jeu de cartes sur http://www.metacartes.cc
+
+
+
