@@ -103,6 +103,11 @@ Les valeurs était ainsi obtenus par croisement de plusieurs segments, tandique 
 Important: demander de noter les principes avec un verbe et sur un post it, avec un principe / par post-it.
 Prendre assez de temps pour avoir le temps de discuter et d'avoir un consensus (2-3h grand minimum pour un si grand groupe).
 
+## Variante
+
+Méthode Auto-portrait d’une organisation CC-BY-SA Nicolas Geiger
+- http://www.collecti.cc/2018/05/28/methode-auto-portrait-dune-organisation-cc-by-sa/
+
 
 ## Source
 
