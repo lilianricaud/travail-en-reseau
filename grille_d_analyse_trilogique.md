@@ -1,4 +1,4 @@
-# Grille d'Analyse trilogique
+# Grille d'analyse trilogique
 
 Cette grille permet d'évaluer la cohérence interne d'un projet. Elle comprends trois points:
 
