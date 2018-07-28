@@ -2,7 +2,9 @@
 
 Le cercle est l’une des plus anciennes organisations de discussion naturellement propice à l’échange. En cercle, tout le monde est au même niveau, chacun s’expose et voit l’autre, tous les autres.
 
-Point de vigilance: un cercle est différent d'une réunion autour d'une table, même circulaire. Le VIDE laissé dans l'espace central permet de se voir, facilitant la COMMUNICATION NON-VERBALE
+Point de vigilance: un cercle est différent d'une réunion autour d'une table, même circulaire. 
+
+Le VIDE laissé dans l'espace central permet de se voir, facilitant la COMMUNICATION NON-VERBALE, mais aussi de bouger.
 
 options: 
 Un objet de parole, autrement appelé objet d’écoute qui se passe de main en main
