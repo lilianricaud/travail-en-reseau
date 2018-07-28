@@ -23,9 +23,9 @@ Le principe de ce format consiste à lier ces deux besoins pour que chacun en b�
 
 La personne qui recherche un savoir (l'apprenti-éditeur) va interviewer la personne qui possède le savoir (le spécialiste) d'un sujet en cherchant à comprendre et à reformuler. Elle s'attache à comprendre par une série de questions:
     
-   * ce qui est accessoire / optionnel,
-   * ce qui est important,
-   * ce qui est essentiel. 
+* ce qui est accessoire / optionnel,
+* ce qui est important,
+* ce qui est essentiel. 
 
 En échange la personne qui reçoit les savoirs (l'apprenti-éditeur) s'engage à rédiger et formaliser les savoirs (par écrit, mais il peut aussi y avoir ajout de ressources multimédia, photos, vidéos, audio, cartes, objets interactifs‚...). Le contenu ainsi produit est vérifié par la personne spécialiste puis est mis à disposition sous licence libre pour être contribuer aux communs et être librement réutilisable.
 
@@ -36,7 +36,8 @@ Un des aspect important peut être de traduire le contenu expert pour le rendre 
 * un facilitateur transmet une connaissance sur un format qu'il a développé et l'apprenant produit une recette libre.
 * un développeur forme un apprenant à une nouvelle fonctionnalité développée sur un wiki et l'apprenant produit un manuel mode d'emploi sous licence libre
 * ...
-* 
+ 
+
 ## Outils
 Ce format peut être fait en présence ou à distance. Dans les deux cas, un outil de co-écriture peut être utilisé pour prendre des notes à plusieurs avant d'archiver le contenu produit sur un site web, wiki ou autre boite à outil comme multibao.
 
