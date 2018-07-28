@@ -13,7 +13,12 @@ image_url:
 
 # Concevoir des questions puissantes 
 
-Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. A l'inverse, une question pauvre ne permettra pas au groupe d'exprimer pleinement son potentiel. 
+Concevoir des questions met l'intelligence collective d'un groupe en mouvement. Si la question est bonne le résultat sera spectaculaire. A l'inverse, une question pauvre ne permettra pas au groupe d'exprimer pleinement son potentiel. 
+
+Des questions fermantes ne permettent de répondre que par oui ou non et ferme la discussion, tandis que des questions puissantes ouvrent de nombreuses possibilités de réponses.
+
+La formulation de la question constituera un vecteur, un axe de recherche indiquant une certaine direction à suivre.
+
 Une bonne question est donc l'un des outils les plus puissant du facilitateur et ceci a été tres travaillé par la communauté Art of Hosting. Pourtant ce n'est pas simple de concevoir des bonnes questions. 
 
 Ce jeu des questions puissantes, créé par Helen Titchen Beeth, praticienne de Art of Hosting/l’art d’agir ensemble à la commission européenne a été ajuster pour un travail dans l'espace public.
