@@ -50,7 +50,7 @@ Clôture.
 
 ## Sources
 
-- ART of HOSTING L’art du leadership participatif (2012) ouvrage collectif.
+- ART of HOSTING L’art du leadership participatif (2012) ouvrage collectif, CC-BY-NC-SA Communauté Art of Hosting
 - http://sites.google.com/a/pro-action.eu/pro-action-caf-/how-to-become-a-
 hots/hosting-kit !
 
