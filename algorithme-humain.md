@@ -31,14 +31,14 @@ Chaque groupe présente ensuite ses prorités, les limites identifiés pour chaq
 
 En procédant ainsi on peut ainsi comparer plusieurs point de vues et priorisations en parallèle.
 
-Au dela de la priorisation finale, ceci engage le groupe sur un grande discussion collective.
+Au dela de la priorisation finale, ceci engage le groupe sur une grande discussion collective.
 
 ## Exemple 2: algorithme d'extraction de données d'un storytelling
 
 Exemple vu à moustic 2017 et proposé par Nadine Jouanen
 
-Un public (idéalement en cercle, mais ici en amphi) écoute
-3 conteur partagent leur histoire sur un thème donné en 10 min chacun.
+Un public (idéalement en cercle, mais ici en amphi) écoute.
+3 conteurs partagent leur histoire sur un thème donné en 10 min chacun.
 
 Le public est divisé en 5 groupes. Chacun de ces groupes doit écouter et extraire un certain type d'information des histoires:
 
@@ -48,7 +48,7 @@ Le public est divisé en 5 groupes. Chacun de ces groupes doit écouter et extra
 - En quoi ces histoires font écho à ma propre histoire ?
 - Comment les usagers utilisent le numérique, pour faire quoi ? 
 
-L'intégration se fait sur un pad de manière auto-organisée.
+L'intégration se fait sur un PAD de manière auto-organisée.
 
 ## Inventer un algorithme
 
