@@ -62,8 +62,9 @@ Chaque groupe doit à tour de role présenter son affiche en 1 min de pitch.
 
 Dérivé de Product box (Innovation Game) adapté par Claude Aubry et Stéphane Langlois.
 
-## Formats similaire
-- Product Box
+## Formats similaires
+- Product Box / La boite produit
+- A la une
 - Mon journal
 - Photolangage
 - Lego Serious Play
