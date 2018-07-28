@@ -1,11 +1,13 @@
-Le défi chamalow est un jeu qui par une expérience simple encourage des équipes à vivre des leçons en collaboration, innovation et créativité.
+# DÉFI CHAMALOW
+
+Le défi chamalow est un jeu qui, par une expérience simple, encourage des équipes à vivre des leçons en collaboration, innovation et créativité.
 
 L’épreuve consiste à construire en 18 minutes une structure auto-portée la plus haute possible et planter à son sommet le chamallow.
 
 Ce jeu est l'un des plus rapides et plus puissant moyen pour améliorer la capacité d'une équipe a générer des idées fraiches et intégrer la notion de prototypage.
 
 ## Matériel à prévoir
-20 spaghettis, 1 mètre de scotch, 1 de ficelle et… un chamallow.
+20 spaghettis, 1 mètre de scotch, 1 de ficelle et… des chamallows.
 
 
 ## Déroulé
@@ -22,7 +24,7 @@ Debrief (10 min): qu'est ce qui s'est passé, qu'est ce qui a marché, qu'avons 
 
 Option: introduction aux méthodes agiles (15 min), modèle en cascade vs modèle cyclique, planification vs émergence, notions d'itérations, de retrospective, user stories, notion de tache finie, sprint, prototypes, amélioration continue, cycles,  
 
-## Conclusions ebrief
+## Conclusions debrief
 
 Tom Wujec a conduit environ 70 sessions avec des populations très diverses, des enfants de maternelles, des jeunes diplômés, des CEO, des architectes, des ingénieurs…
 
