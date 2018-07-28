@@ -49,7 +49,7 @@ L'intention clarifiée il faut inviter les parties prenantes à contribuer à la
 
 L'invitation claire et en accord avec l'intention va agir comme un aimant, attirant les personnes en phase avec l'intention et repoussant celles qui ne s'y retrouveraient pas.
 
-Utiliser le format "Intencasting " pour que l'invitation touches les personnes avec qui l'invitation va résonner et qui vont être assez entousiasmées pour se connecter:
+Utiliser le format "Intentcasting " pour que l'invitation touche les personnes avec qui l'invitation va résoner et qui vont être assez enthousiasmées pour se connecter:
 
 Dans le format intentcasting, l'invitation: 
 - décrit une promesse d'un futur possible et souhaitable, 
@@ -105,7 +105,7 @@ La réalité étant mouvante et les choses pouvant changer, il est important de 
 
 Cette étape est grandement simplifiée si les étapes précédentes ont été respectées. Si ce n'est pas le cas, le risque est de faire beaucoup d'aller et retour, faire et défaire, par confusion et manque de clarté.
 
-Même si il est tentant de passer à l'action tres vite, il est important de ne pas négliger les étapes précédentes. 
+Même si il est tentant de passer à l'action très vite, il est important de ne pas négliger les étapes précédentes. 
 
 Dans certains cas il peut être nécessaire de passer vite à l'action dès le début pour saisir une opportunité. Il importe cependant de prendre un temps minimal pour les étapes précédentes avant de démarrer ou alors de très vite y revenir après le démarrage de la mise en oeuvre au risque de le payer cher plus tard.
 
@@ -116,7 +116,7 @@ Dans la plupart des cas cependant, passer à l'action n'est pas si important/urg
 
 Dans le systèmes complexes, les boucles de retro-actions (feedback loops), positives ou négatives, sont un élément clé de la regulation et la stabilité des systèmes.
 
-La retrospective joue ce role en créant un moment ou il est possible d'évaluer le chemin accompli et d'ajuster le parcours en se référant à la vision initialle.
+La retrospective joue ce role en créant un espace/temps où il est possible d'évaluer le chemin accompli et d'ajuster le parcours en se référant à la vision initialle.
 
 Il est donc essentiel de prévoir des temps réguliers de retrospective. La durée et la fréquence des retrospectives sont liées à la durée de mise en oeuvre couverte. Par exemple quelques minutes tous les jours, complétées de quelques heures tous les mois.
 
@@ -129,7 +129,7 @@ Pour faciliter la mise en oeuvre, il est utile de ritualiser (format particulier
 
 ## Itération
 
-La restrospective renvoi à la vision initiale et il peut etre important de prendre un temps pour remettre a jour collectivement celle ci lorsqu'on travaille sur des temps longs (par exemple tous les ans). Dans la nature et les systèmes complexes, l'itération permet de générer de la complexité à partir de règles simples (on le voit de manière claire dans les fractales).
+La restrospective renvoi à la vision initiale et il peut être important de prendre un temps pour remettre a jour collectivement celle ci lorsqu'on travaille sur des temps longs (par exemple tous les ans). Dans la nature et les systèmes complexes, l'itération permet de générer de la complexité à partir de règles simples (on le voit de manière claire dans les fractales).
 
 Ainsi on repart pour un cycle de clarification/explicitation (intention, invitation, vision, principes et actions...)
 
