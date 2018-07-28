@@ -274,11 +274,10 @@ Par exemple la trame ACCESSIBILITÉ peut être appliquées en mettant en place d
 
 Les différents « mots » du langage pourront être ensuite utilisé pour construire des « phrases », c’est a dire combinés pour concevoir le lieu.
 
-<div id="attachment_233" style="width: 1234px" class="wp-caption alignnone">![IMG_4439](http://cometes-innovation.fr/wp-content/uploads/2016/08/IMG_4439-e1472031100372.jpg)
+![IMG_4439](http://cometes-innovation.fr/wp-content/uploads/2016/08/IMG_4439-e1472031100372.jpg)
 
 Cette vue du chantier du bâtiment Comètes montre un mur dont l’extérieur est une construction traditionnelle en brique et galet bati sur une structure bois doté d’une isolation moderne haute performance. Ceci illustre bien la trame MODERNE ET TRADITIONNEL qui consiste à combiner savoirs actuel et traditionnels afin d’obtenir les meilleurs des deux mondes/cultures. Cette trame sera aussi visible dans le fablab où se mêleront des savoirs faire artisanaux et des machines pilotées par ordinateur (par exemple menuiserie et découpe du bois au laser).
 
-</div>
 
 ## Des « cartes-trames » papiers et numériques
 
@@ -327,11 +326,9 @@ Par exemple les zones plus près de l’entrée et donc plus bruyantes sont plus
 
 Nous avons aussi parcouru l’espace de diverses manières pour imaginer les zones de passage pour avoir des flux de circulation agréables et fonctionnels.
 
-<div id="attachment_221" style="width: 628px" class="wp-caption alignnone">![amenagement-espace-travail-partage](http://cometes-innovation.fr/wp-content/uploads/2016/07/amenagement-espace-travail-partage.jpg)
+![amenagement-espace-travail-partage](http://cometes-innovation.fr/wp-content/uploads/2016/07/amenagement-espace-travail-partage.jpg)
 
 un des scénarios d’aménagement envisagé. Les rectangles marron désignent les postes de travail fixes, les carrés blancs au centre désignes des bureaux debout permettant de travailler tout en étant prêt a accueillir un visiteur, en jaune une cabane de réunion, une structure légère permettant d’accueillir des réunions à 2-3 personnes ou de passer un coup de téléphone sans sortir de l’espace ni déranger les autres travailleurs. Même si cet aménagement est abouti, le lieu est pensé pour être reconfigurable selon les besoins futurs.
-
-</div>
 
 ## Deuxième Atelier sur chantier: prototypage de la partie commune et de la cafétéria
 
@@ -341,11 +338,9 @@ Le 7 juillet à 10h, nous étions donc une douzaine de personnes réunis dans la
 
 Ce deuxième atelier a été l’occasion de remettre tout le monde au même niveau d’information et de revoir ensemble les scénarios imaginés.
 
-<div id="attachment_238" style="width: 4138px" class="wp-caption alignnone">![cartes-pattern-cometes](http://cometes-innovation.fr/wp-content/uploads/2016/08/cartes-pattern-cometes.jpg)
+![cartes-pattern-cometes](http://cometes-innovation.fr/wp-content/uploads/2016/08/cartes-pattern-cometes.jpg)
 
 Réunion d’information sur l’avancée du projet. Nous nous plaçons dans la future salle de réunion de l’espace de travail partagé pour prototyper les futurs usages. Dans l’esprit bricolage caractéristique des fablab et lieux d’innovation nous utilisons les ressources présentes, ici des échelles d’échafaudage et de la ficelle nous servent de support pour afficher et présenter les cartes trames aux participants. La future salle contiendra des murs vitrés sur lesquels il sera possible de dessiner ou d’afficher lors de réunions créatives.
-
-</div>
 
 Nous avons utilisé les cartes-trames pour faire un point sur le processus de co-construction utilisé (des valeurs jusqu’aux principes d’aménagement) et les idées obtenus jusqu’à présent (zones fonctionnelles, mobiliers et objets identifiées), nous avons parcouru l’espace point par point depuis l’entrée, la salle polyvalente, le fablab puis fini dans l’espace de cuisine collective/cafétéria/espace commun situé au centre du bâtiment.
 
@@ -353,11 +348,10 @@ A l’aide de craies et de linteaux de bois nous avons commencé à imaginer l�
 
 Le fait de manger sur l’emplacement de la future cafétéria n’est pas anodin. En « vivant » ainsi sur l’espace nous imaginons et expérimentons de manière concrète ce que sera le futur espace.
 
-<div id="attachment_235" style="width: 4138px" class="wp-caption alignnone">![chantier-co-construction-cafet-cometes](http://cometes-innovation.fr/wp-content/uploads/2016/08/chantier-co-construction-cafet-cometes.jpg)
+![chantier-co-construction-cafet-cometes](http://cometes-innovation.fr/wp-content/uploads/2016/08/chantier-co-construction-cafet-cometes.jpg)
 
 prototypage de l’espace cafétéria, avec des lintaux au sol pour visualiser l’espace et des tables pour tester le lieu de repas en conditions réelles avant la fin du chantier.
 
-</div>
 
 ## Source
 
