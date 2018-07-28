@@ -18,7 +18,7 @@ Voici une format où un thème est collectivement exploré par un large groupe a
 Ce format permet de:
 - créer de la rencontre entre les participants
 - vivre une expérience co-construction
--  co-construire un savoir commun sur un thème. 
+- co-construire un savoir commun sur un thème. 
 
 Il a été testé lors des rencontres Co-construire 2017 sur le thème l'intelligence collective
             
@@ -274,10 +274,13 @@ Comment créer des cadres qui favorisent l'intelligence collective, c'est ce que
 - s'assurer que les consignes vidéo projetées sont visibles de partout dans la salle
 
 Pour pouvoir aller plus loin sur les contenus produits: 
-- la mise en perspective des hypothèses (les divers points de vues sur les thèmes) 
-- le lien entre les thèmes
-- le rapport entre personnes plus "expertes" qui pourraient amener le groupe à aller plus loin et le savoir qui émerge du groupe.
-- la distribution des fichiers d'aide aux personnes (prévoir des complices dédiés).
+- la mise en perspective des hypothèses (les divers points de vues sur les thèmes) -> attribuer un rôle méta à un sous-groupe "mise en perspective" ?
+- le lien entre les thèmes -> attribuer un rôle méta à un sous-groupe "relieur" ?
+- trouver un moyen de relier le rapport entre personnes plus "expertes" qui pourraient amener le groupe à aller plus loin et le savoir qui émerge du groupe.
+- la conception et le distribution des fichiers d'aide aux personnes (prévoir des complices dédiés).
+- la conception et la distribution de fichiers qui guident ceux qui fabrique la conférence
+- donner des taches aux personnes qui ne préparent pas la restitution de la conférence pour éviter la dispersion du groupe tout en laissant du temps à ceux qui préparent. Les laisser travailler au vue de toustes ?
+- pour une vrai conférence puissante il faudrait probablement une journée et non pas une heure et pourtant il es tinteressant de démontrer que dans le temps où un conférencier délivre son savoir, il est possible de créer et donner une conférence de qualité.
 - ...
 
 ## Source 

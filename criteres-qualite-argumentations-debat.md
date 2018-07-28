@@ -12,7 +12,7 @@ image_url:
 
 # Critères de qualité d'une réaction dans un débat
 
-Lors de la dernière réunion (#8) sur le projet "le Wikipédia du débat"a eu lieu une réflexion de définition de qualité d'une réaction  dans le cadre d'un débat. Cette liste peut servir de grille d'analyse pour verifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
+Lors d'une réunion sur le projet "le Wikipédia du débat"a eu lieu une réflexion de définition de qualité d'une réaction  dans le cadre d'un débat. Cette liste peut servir de grille d'analyse pour verifier la pertinence de commentaires ou au contraire des tentatives de manipulation.
 
 ## Critères de réaction "de qualité"
 

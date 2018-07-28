@@ -3,7 +3,7 @@
 ---
 title: Co-Walking
 description: Un "cowalking" est un coworking éphèmere et itinérant inspiré par les WALKINGDEV
-image_url: https://github.com/multibao/contributions/blob/master/media/LR-copomodoro.jpg?raw=true
+image_url: 
 ---
 
 -->
@@ -20,11 +20,5 @@ Contrairement au walkingdev, il n'y a pas de THÈME pré-établi avant même si 
 Un BACKLOG en début de journée peut aider à l'AUTO-ORGANISATION que ce soit pour créer des synergies ou choisir des lieux.
 
 Comme dans le Walkingdev, il y a un COTÉ FLOTTANT et aucune règle n'est stricte.
-
-Pour participer au cowalking bordeaux #1, rejoignez les NON-ORGANISATEURS au marché des capucins à jeudi 19 à 9h30.
-
-
-
-
 
 
