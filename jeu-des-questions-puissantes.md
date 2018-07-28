@@ -16,7 +16,7 @@ image_url:
 Concevoir des questions met l'intelligence collective d'un groupe en mouvement. si la question est bonne le résultat sera spectaculaire. A l'inverse, une question pauvre ne permettra pas au groupe d'exprimer pleinement son potentiel. 
 Une bonne question est donc l'un des outils les plus puissant du facilitateur et ceci a été tres travaillé par la communauté Art of Hosting. Pourtant ce n'est pas simple de concevoir des bonnes questions. 
 
-Ce jeu des questions puissantes, créé par Helen Titchen Beeth, praticienne de Art of Hosting/l’art d’agir ensemble à la commission européenne. a été adjuster pour un travail dans l'espace public.
+Ce jeu des questions puissantes, créé par Helen Titchen Beeth, praticienne de Art of Hosting/l’art d’agir ensemble à la commission européenne a été ajuster pour un travail dans l'espace public.
 
 ## Déroulé Jeu des questions puissantes
 
@@ -66,14 +66,21 @@ D’un côté, la question que vous posez est très importante alors préparez-l
 ## Types de questions selon gamestorming
 
 ### Questions d'ouverture
-Visent à découvrir différentes idées et option, inspirer la réflexion, mettre en lumière de nouvelles possibilités et stimuler l'esprit.
 
-- Comment definiriez vous le problème auquel nous sommes confrontés ?
+> Une étincelle pour enflammer l'imagination et allumer la dynamique créative et collaborative
+
+Les questions d'ouverture visent à découvrir différentes idées et option, inspirer la réflexion, mettre en lumière de nouvelles possibilités et stimuler l'esprit. Des questions d'ouverture pertinentes d'examiner les défis sous un angle différent.
+
+- Comment définiriez vous le problème auquel nous sommes confrontés ?
 - Quels types d'élements souhaiteriez vous explorer ?
 - Quelles sont nos plus grandes difficultés ?
 
 ### Questions de navigation
-Aide à évaluer et ajuster l'évolution du jeu au cours de son déroulement. Elles déterminent l'évolution, indiquent la direction à suivre et permettent de rectifier les erreurs.
+
+> Une boussole pour naviguer et trouver sa route
+
+Les questions de navigation aident à évaluer et ajuster l'évolution du jeu au cours de son déroulement. Elles déterminent l'évolution, indiquent la direction à suivre et permettent de rectifier les erreurs.
+
 - Sommes nous sur la bonne voie ?
 - Ai je bien compris cela ?
 - Cet élément nous aide il à atteindre notre but ?
@@ -83,18 +90,51 @@ Aide à évaluer et ajuster l'évolution du jeu au cours de son déroulement. El
 
 ### Questions d'analyse 
 
+> Un zoom de caméra pour focaliser sur les détails
+
+Ces questions réduisent votre champ d'analyse pour vous pousser à vous concentrer sur des détails, des points précis et tout autre caractéristique spécifique. Elles offrent un aspect plus concret aux idées abstraites en les quantifiant et en les qualifiant. 
+
+- De quoi tels éléments est il constitué ?
+- Comment cela fonctionne-t-il ?
+- Pouvez vous me donner un exemple ?
+- A quoi cela ressemble-t-il ?
+- Pouvez vous présenter ceci comme un scénario de la vie courante ?
+
 ### Questions d'expérimentation
 
+> Une montgolfière pour prendre de la hauteur quand on a le nez collé au sol ou perdre de l'altitude quand on est dans les nuages.
+
+Les questions d'expérimentation sollicitent l'imagination et visent à explorer l'éventail des possibles. Elles poussent à atteindre une niveau d'abstraction supérieur afin de découvrir certaines similitudes et d'établir des comparaisons aussi improbables qu'inattendues.
+
+- Quels sont les autres éléments qui fonctionnent de la même manière ?
+- Si ceci était un animal (ou une plante, une machine, etc.), de quelle race serait il et pourquoi ?
+- Que nous manque-t-il ?
+- que se passerait il si tous les obstacles étaient supprimés ?
+- Comment traiterions nous cela si nous étions à la tête d'un restaurant ? D'un hopital ?
+- Et si nous avions tort ?
+ 
 ### Questions de finalisation
+
+> un entonnoir pour canliser la réflexion vers l'action
+
+Les questions de finalisation ont une fonction opposée aux questions d'ouverture. Ces dernières visent à créer de la divergence et et la plus grande diversité possible. La phase de finalisation, elle, se focalise sur la convergence des opinions et sur la sélection.
+
+- Comment classer ces options par ordre de priorité ?
+- Quels objectifs sont réalisables ?
+- Que pouvons nous effectuer au cours des deux prochaines semaines ?
+- Quelles seront les missions de chacun ?
+
+
 
 ## Notes 
 
 Le format SOUVENIR DU FUTUR est essentiellement une question puissante.
 La préparation d'une bonne question est essentiel pour qu'un ACCELERATEUR DE PROJET marche bien.
+Le débat mouvant s'appui essentiellement sur une question volontairement clivante.
 
 ## Source
 Adapté de
-Ezra Bridgman (Percolab)
-http://www.percolab.com/la-force-des-questions-puissantes/
-Paul Messer
-http://www.percolab.com/linnovation-cest-la-pollinisation/
+- Ezra Bridgman (Percolab) http://www.percolab.com/la-force-des-questions-puissantes/
+- Paul Messer http://www.percolab.com/linnovation-cest-la-pollinisation/
+- ART of HOSTING L’art du leadership participatif (2012) ouvrage collectif.
+- Gamestorming, jouer pour innover Dave Gray, Sunni Brown, James Macanufo
