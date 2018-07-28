@@ -48,6 +48,45 @@ Remarquez qu’il y a un choix important au niveau de la formulation – qu’el
 
 D’un côté, la question que vous posez est très importante alors préparez-la avec toute votre attention. D’un autre, sachez que plusieurs questions sont interconnectées. Même si vous ne posez pas la question parfaite, sachez que la question créera probablement un point d’entrée pour accéder à d’autres questions importantes. 
 
+## Types de questions selon Art of hosting
+
+### Questions fermées:
+- Qui ?
+- Quoi ?
+### Questions objectives :
+- Combien ?
+- Quel ?
+### Questions relatives :
+- Où ?
+- Quand ?
+### Questions ouvertes :
+- Pourquoi ?
+- Comment ?
+
+## Types de questions selon gamestorming
+
+### Questions d'ouverture
+Visent à découvrir différentes idées et option, inspirer la réflexion, mettre en lumière de nouvelles possibilités et stimuler l'esprit.
+
+- Comment definiriez vous le problème auquel nous sommes confrontés ?
+- Quels types d'élements souhaiteriez vous explorer ?
+- Quelles sont nos plus grandes difficultés ?
+
+### Questions de navigation
+Aide à évaluer et ajuster l'évolution du jeu au cours de son déroulement. Elles déterminent l'évolution, indiquent la direction à suivre et permettent de rectifier les erreurs.
+- Sommes nous sur la bonne voie ?
+- Ai je bien compris cela ?
+- Cet élément nous aide il à atteindre notre but ?
+- Une telle discussion est elle utile ?
+- Ne devrions nous pas reporter ceci et l'inscrire sur la liste de éléments à analyser ultérieurement ?
+- Le but fixé ce matin est il pertinent ou devons nous effectuer quelques ajustements en fonction de ce que nous avons appris entretemps ?
+
+### Questions d'analyse 
+
+### Questions d'expérimentation
+
+### Questions de finalisation
+
 ## Notes 
 
 Le format SOUVENIR DU FUTUR est essentiellement une question puissante.
