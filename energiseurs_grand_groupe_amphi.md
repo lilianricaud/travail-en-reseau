@@ -30,7 +30,7 @@ source: JF Noubel
 
 L'intervenant peut jouer un rythme en claquant des doigts ou tapant dans les mains et demander au public de suivre. 
 
-Le rythme doit etre progressif pour etre facile a suivre, puis l'intervenant peut introduire des subtilités pour volontairement créer de la confusion avec humour
+Le rythme doit etre progressif pour être facile a suivre, puis l'intervenant peut introduire des subtilités pour volontairement créer de la confusion avec humour
 
 ## Illustrer un principe avec une méthaphore corporelle
 
