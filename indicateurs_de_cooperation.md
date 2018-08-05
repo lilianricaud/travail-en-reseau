@@ -29,10 +29,10 @@ Les éléments suivants représentent des indicateurs possibles:
 
 D'après Guy le Boterf:
 
-Une bonne coopération nécessite conditions à remplir autour de 3 poles:
-- **savoir coopérer**: implique une formation mutuelle, la saisie des opportunités de coopération, une culture professionnelle partagée, des situations de formation incluant la coopération, des échange de pratiques, des connaissances et des compétences partagées, l'entrainement aux TIC, des boucles d'apprentissage, ou des moments de régulation et la conception commune des outils. 
-- **pouvoir coopérer**: demande que soient établis le périmètre de responsabilité de l'équipe (ses pouvoirs, objectifs, moyens, missions), des indicateurs de performances collectives, des équipes (variés et complémentaires), de règles de fcontionnement, des instances de régulation, un lanage d'opération commun, un dispositif d'information, un aménagement de l'espace adéquat, la gestion du temps, la cartographie des compétences ou repertoire des expertises, des règles de mobilité, …
-- **vouloir coopérer**: concerne le partage des enjeux et des objetifs, les défis, la convivialité, l'établissement d'un lien de confiance et la rémunération (en evitant la compétition)
+Une bonne coopération nécessite des conditions à remplir autour de 3 poles:
+- **savoir coopérer**: implique une formation mutuelle, la saisie des opportunités de coopération, une culture professionnelle partagée, des situations de formation incluant la coopération, des échanges de pratiques, des connaissances et des compétences partagées, l'entrainement aux TIC, des boucles d'apprentissage, ou des moments de régulation et la conception commune des outils. 
+- **pouvoir coopérer**: demande que soient établis le périmètre de responsabilité de l'équipe (ses pouvoirs, objectifs, moyens, missions), des indicateurs de performances collectives, des équipes (variés et complémentaires), de règles de fonctionnement, des instances de régulation, un langage d'opération commun, un dispositif d'information, un aménagement de l'espace adéquat, la gestion du temps, la cartographie des compétences ou repertoire des expertises, des règles de mobilité, …
+- **vouloir coopérer**: concerne le partage des enjeux et des objectifs, les défis, la convivialité, l'établissement d'un lien de confiance et la rémunération (en évitant la compétition)
 
 __Règle d'or__: Mieux vaut une cohérence forte entre quelques mesures prises sur ces 3 poles qu'une cohérence faible entre des mesures sophistiquées ou partielles prises entre ces trois poles. Il s'agit de créer un environnement favorable pour maximiser les chances que les gens agissent avec compétence.
 

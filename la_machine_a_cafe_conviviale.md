@@ -22,6 +22,8 @@ Un jeu pour introduire la notion de pattern et la "qualité sans nom" de Christo
 - Dans les cas décrits par les participants comme favorisant les rencontres et les échanges, quels sont les ingrédients ou configurations récurrentes ?
 - Dans les cas décrits par les participants comme defavorables pour les rencontres et les échanges, quels sont les ingrédients ou configurations récurrentes ?
 
+Voir aussi la CARTOGRAPHIE DES PATTERNS (GROUPWORKS).
+
 
 ## source 
 
