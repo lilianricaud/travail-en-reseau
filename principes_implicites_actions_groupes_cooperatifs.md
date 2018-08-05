@@ -29,6 +29,8 @@ transformation personnelle	transformation sociale
 
 Ils notent le piège entre avoir une liste de bonnes pratiques et prendre le chemin pour résoudre les problèmes.
 
+Ces attitudes pourraient être travaillées collectivement en utilisant la méthode de CARTOGRAPHIE DES ATTITUDES.
+
 ## Source
 
 Anne et Patrick Beauvillard
