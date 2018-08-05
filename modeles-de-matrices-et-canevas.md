@@ -21,6 +21,7 @@ Voici des matrices et canevas qu'il serait interessant de concevoir en version l
 ## qui fait quoi quand
 ## Leadership participatif
 ## degré de maturité d'un commun
+## Stratégies production de richesses autour des communs (Laurent Marseault): https://annuel.framapad.org/p/ModeleEcoCommuns
 
 
 - exemple de matrices et canevas: https://www.tuzzit.com/fr/canevas
