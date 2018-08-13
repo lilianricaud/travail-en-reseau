@@ -29,6 +29,12 @@ A la fin chacun regarde ses portraits et en choisit un qui sera affiché pour cr
 
 En une minute dessine toi et ajoute une phrase puis présente la aux autres.
 
+## Temps d'inclusion
+
+Poser une question et demander aux participants de répondre par un dessin.
+
+Dans quel état d'esprit suis je aujourd'hui ? Quelle sont mes attentes pour la journée ?
+
 ## Source
 
 CC-BY-SA Lilian Ricaud à partir des contenus proposés par les participants Walking dev jeux créatifs
