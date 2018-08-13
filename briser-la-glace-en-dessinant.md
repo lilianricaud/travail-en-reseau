@@ -29,11 +29,12 @@ A la fin chacun regarde ses portraits et en choisit un qui sera affiché pour cr
 
 En une minute dessine toi et ajoute une phrase puis présente la aux autres.
 
-## Temps d'inclusion
+## Temps d'inclusion ou de cloture
 
 Poser une question et demander aux participants de répondre par un dessin.
 
-Dans quel état d'esprit suis je aujourd'hui ? Quelle sont mes attentes pour la journée ?
+- Dans quel état d'esprit suis je aujourd'hui ? Quelle sont mes attentes pour la journée ?
+- Qu'est ce que je garde de la journée ? Qu'est ce qui m'a manqu" aujourd'hui ?
 
 ## Source
 
