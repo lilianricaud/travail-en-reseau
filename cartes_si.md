@@ -1,3 +1,5 @@
+
+
 0. Préparer des cartes avec des phrases « si vous aviez xx euros, si vous pouviez parler à n’importe qui dans le monde, … 
 
 1. Si vous pouviez aller n'importe où dans le monde, où iriez vous ?
