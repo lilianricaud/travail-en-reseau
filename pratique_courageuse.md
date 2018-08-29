@@ -10,7 +10,7 @@ Il y a beaucoup de variations différentes de cet exercice. vous pouvez changer 
 
 Il apparait que le simple acte de respirer en tant que groupe de manière alignée est difficile. Pratiquer ne vous aide pas seulement à devenir meilleur à cet exercice, mais vous aide aussi à developper des stratégie pour bouger de manière alignée qui peuvent s'appliquer au dela de la respiration.
 
-Aussi difficile que ce soit d'atteindre un alignement parfait, la lesson la plus importante de cet exercice est que, quand tout le monde essaye, les personnes sont généralement très bonnes à respirer ensemble. "Très bon" est un objectif valable pour n'importe quel groupe qui essaye de collaborer.
+Bien que ce soit difficile que ce soit d'atteindre un alignement parfait, la leçon la plus importante de cet exercice est que, quand tout le monde essaye, les personnes sont généralement très bonnes à respirer ensemble. "Très bon" est un objectif valable pour n'importe quel groupe qui essaye de collaborer.
 
 
 ## Source
