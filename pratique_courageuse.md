@@ -1,4 +1,4 @@
-# Pratique courageuse
+# Respiration collective
 
 un exercice de respiration en groupe qui permet de rester ancré et aligné. 
 
@@ -14,6 +14,6 @@ Bien que ce soit difficile que ce soit d'atteindre un alignement parfait, la le�
 
 
 ## Source
-Eveline Shen et le groupe Forward Together, rapporté par Eugene Eric Kim et traduit par Lilian Ricaud.
+Inspiré par le format Courageous Practice utilisé par Eveline Shen et le groupe Forward Together, rapporté par Eugene Eric Kim et traduit par Lilian Ricaud.
 https://forwardtogether.org/forward-stance/
 
