@@ -4,7 +4,7 @@ un exercice de respiration en groupe qui permet de rester ancré et aligné.
 
 ## Déroulé
 
-Cela commence debout en cercle et consiste à prendre d'abord quelques respirations profondes ensemble. Vous ajoutez ensuite du mouvement à votre respiration, levant levant vos mains à angle droit lorsque vous inspirez et les descendant lorsque vous expirez. Le but est de respirer en alignement les uns avec les autres. Cela aide d'avoir quelques personnes sortant du circle pour agir comme observateurs afin de voir à quel point le groupe est vraiment aligné.
+Cela commence debout en cercle et consiste à prendre d'abord quelques respirations profondes ensemble. Vous ajoutez ensuite du mouvement à votre respiration, levant levant vos mains à angle droit lorsque vous inspirez et les descendant lorsque vous expirez. Le but est de respirer en alignement les uns avec les autres. Cela aide d'avoir quelques personnes sortant du cercle pour agir comme observateurs afin de voir à quel point le groupe est vraiment aligné.
 
 Il y a beaucoup de variations différentes de cet exercice. vous pouvez changer l'orientation des personnes dans le cercle afin que certains soient tournés vers l'intérieur et d'autres vers l'extérieur. Vous pouvez vous tenir debout en ligne ou une autre forme. vous pouvez désignez un meneur ou pas.
 
