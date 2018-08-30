@@ -15,4 +15,5 @@ Bien que ce soit difficile que ce soit d'atteindre un alignement parfait, la le√
 
 ## Source
 Eveline Shen et le groupe Forward Together, rapport√© par Eugene Eric Kim et traduit par Lilian Ricaud.
+https://forwardtogether.org/forward-stance/
 
