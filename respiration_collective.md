@@ -1,6 +1,6 @@
 # Respiration collective
 
-un exercice de respiration en groupe qui permet de rester ancré et aligné. 
+Un exercice de respiration en groupe qui permet de sortir de sa tête pour rester ancré et se réaligner en tant que groupe.
 
 ## Déroulé
 
