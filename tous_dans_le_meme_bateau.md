@@ -61,7 +61,7 @@ Il est intéressant de demander aux participants de dessiner leur propre bateau 
 
 les participants peuvent prioriser les freins placés sur les ancres, en mettant au fond de l'eau les freins les plus importants.
 
-Les freins peuvent être appelés risques
+Les freins peuvent être appelés risques.
 
 Il est possible de prendre un temps pour fusionner/regrouper les post-it exprimant des intérêts similaires. Même s'il y a beaucoup de post it il peut être utile de conserver l'ensemble des différentes ancres, car même si l'idée est similaire, la formulation n'est pas toujours la même et peut donner des précisions quant au problème et aux solutions potentielles.
 
@@ -119,9 +119,15 @@ Coller post it sous le bateau en décrivant au groupe en quelque mot le frein (1
 
 Puis ensuite passer aux voiles (amélioration potentielles) et iles s’il y a d’autres autres éléments ni ancres ni voile observer les bateau des autres. Remercier les participants, "nous étudieront les suggestions". 20 min
 
+
+### 4: grand groupe - (30 personnes) format world café 
+
+faire travailler les groupes sur une partie du dessin (ancres, vents favorables, courant contraires, ile, ...)
+puis faire tourner les groupes.
+
 **compléter**
 
-### 5: Elargir à d'autres acteurs•trices en dehors de l'atelier (en cours de test)
+### 6: Elargir à d'autres acteurs•trices en dehors de l'atelier (en cours de test)
 Dans le cas ou l'on souhaite récolter les ressentis (négatifs et positifs)auprès d'une large communauté.
 - Réaliser l'atelier tel que décrit avec les participant•e•s d'un "groupe projet". 
 - A la suite de l'atelier leur distribuer une version papier du dessin : bateau (avec son nom)+ voiles + ancres + port (avec l'objectif rédigé clairement du projet)+ île. Ajouter le titre du projet et les consignes de la méthode. A minima les feuilles doivent être en A3 pour laisser suffisamment de place pour rédiger.
