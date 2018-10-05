@@ -69,7 +69,7 @@ Les critères informatiques sont plus importants dans le cas de création de sit
 
 ### Consigne
 
-Rédiger des portraits des personas qui pour vous, sont les usagers principaux, avec pour chacune, les infos décrites précedemment (prénom, age, (...) scénarios d’usage…) Les critères informatiques sont plus importantes dans le cas de création de site web, moins essentiels pour d’autres cas de figures. 
+Rédiger des portraits des personas qui pour vous, sont les usagers principaux, avec pour chacune, les infos décrites précédemment (prénom, age, (...) scénarios d’usage…) Les critères informatiques sont plus importantes dans le cas de création de site web, moins essentiels pour d’autres cas de figures. 
 
 Les portraits peuvent être plus ou moins inspiré de personnes existantes ou ce que l’on imagine d’elles.
 
