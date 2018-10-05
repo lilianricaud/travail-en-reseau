@@ -2,7 +2,7 @@
 
 ---
 title: Retrospective Agile 
-description: Une retrospective est une temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
+description: Une retrospective est un temps collectif pour apprendre et s'améliorer en observant collectivement ce qui a bien marché ou pas et ce qu'il faut améliorer.
 image_url: 
 ---
 

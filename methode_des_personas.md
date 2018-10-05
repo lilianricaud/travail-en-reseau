@@ -2,7 +2,7 @@
 
 ---
 title: Méthode des personas
-description: La méthode des personas facilite la conception d'un produit, d'un service ou d'un site web. Très simple à mettre en oeuvre, peu couteuse, cette méthode permet d'obtenir beaucoup d'information sur les usages envisagés pour l'objet à concevoir. Même si elle n'est pas parfaite, elle aide de clarifier beaucoup de points, à se remettre dans le contexte de l'usager et de faire des choix autour de ces usages.
+description: Très simple à mettre en oeuvre, peu couteuse, la méthode des personas aide les concepteurs d'un produit, d'un service ou d'un site web à se mettre à la place de l'usager pour provoquer une discussion les usages envisagés pour l'objet à concevoir. Même si elle n'est pas parfaite, elle aide de clarifier beaucoup de points, à se remettre dans le contexte de l'usager et de faire des choix autour de ces usages.
 image_url: 
 ---
 
