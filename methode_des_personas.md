@@ -10,29 +10,28 @@ image_url:
 
 # Méthode des personas
 
-L'ergonomie est une discipline à part entière qui consiste à concevoir des interfaces, objets, services centrés sur les besoins des utilisateurs et usagers, nous ne rentrerons pas dans le détail dans la présentation. 
+L'ergonomie est une discipline à part entière qui consiste à concevoir des interfaces, objets, services centrés sur les besoins des utilisateurs et usagers. 
+
+Pour prendre en considération les besoins des utilisateurs, il est utile de de créer des personas.
 
 La méthode des personas facilite la conception d'un produit, d'un service ou d'un site web. Très simple à mettre en oeuvre, peu couteuse, cette méthode permet d'obtenir beaucoup d'information sur les usages envisagés pour l'objet à concevoir. Même si elle n'est pas parfaite, elle aide de clarifier beaucoup de points, à se remettre dans le contexte de l'usager et de faire des choix autour de ces usages.
 
+## Principes
+
 *"Les personas sont des personnes fictives utilisées dans le développement de logiciels informatiques. Il s'agit d'archétypes d'utilisateurs possibles de l’application développée auxquels les concepteurs pourront se référer lors de la conception de l’interface."* Wikipedia
 
-## Objectifs
+La méthode des personas consiste à imaginer collectivement des utilisateurs de votre produit ou service en inventant pour chacun un prénom, un age, un lieu de vie ou de travail, un scénario d'usage décrivant un objectif, un comportement, des taches, ...
 
-- utiliser l'intelligence du groupe pour couvrir tous les profils pertinents de personas.
-- utiliser une mindmap pour regrouper des informations et faire une synthèse.
-- obtenir l'accord du groupe dans une vision partagée et discuter les points eventuels de désaccord.
+- **Créer des personas est un travail collectif:** confronter les vues permet de créer une approximation proche de la réalité mais aussi de créer une vision partagée des besoins.
+Parce qu'elle provoque des discussions, la création de persona aide les membres de l'équipe projet à partager efficacement une même compréhension des différents utilisateurs cibles.
 
-## Bénéfices
+- **Inventer des personas vous force à vous pencher réellement sur votre cible:** penser en terme d'"utilisateur" est trop vague, pensez en terme de personas force à aller dans le détail et bien comprendre à qui est destiné le produit ou le service conçu.
 
-Parce qu'elle provoque des discussions, elle aide les membres de l'équipe projet à partager efficacement une même compréhension des différents utilisateurs cibles.
-
+- **Inventer des personas humanise votre cible**: un persona possède un visage, un prénom, un age, un métier, ... en ressemblant à des utilisateurs réels, ils favorisent l'empathie. 
 Les caractéristiques de chaque personas sont comprises dans un contexte bien particulier et associées à une histoire cohérente.
 
-Les solutions proposées peuvent être guidées par la façon dont ils répondent aux besoins des personas, en tant qu'utilisateurs distincts. 
+- **Inventer des personas donne des objectifs à votre cible:** une part importante du travail de création des personas consiste à leur donner des missions. En confrontant les missions, objectifs et tâches des différents type de personas, on peut décrire et hierarchiser finement les objectifs utilisateurs. Les solutions proposées peuvent être guidées et priorisées par la façondont elles répondent aux besoins d'un ou plusieurs personas, en tant qu'utilisateurs distincts. 
 
-Les fonctionnalités peuvent être hiérarchisées en fonction de la manière dont ils répondent aux besoins d'un ou plusieurs personas.
-
-Donner un visage aux personnes pour lesquelles doit être fait le produit, en tant personnes représentatives de différentes populations d'utilisateurs. 
 
 En résumé:
 
@@ -42,9 +41,9 @@ En résumé:
 - Inventer des personas aide affiner la stratégie et les choix
 - Inventer des personas crée une vision partagée dans une équipe
 
-La création de personas est un travail collectif
 
 ### Inconvénients des personas
+
 c’est approximatif et pas scientifique ! Gardez cela en tête. Cependant si les participants à l’atelier sont assez variés et issus de différents milieux, cela donne une estimation assez bonne des besoins en un temps très courts. Pour des projets peu complexes, les infos suffisent à faire rapidement quelque chose de bien qui pourra ensuite être testé et amélioré par itérations successives.
 
 
@@ -96,7 +95,7 @@ La persona a des missions, des objectifs, des taches,... le scénario d’usages
 - Capturer toutes les informations données par les participants dans la carte vidéoprojetée
 - organiser l'information au fur et à mesure par affinité ou bien quand tout a été dit
 - réévaluer l'organisation du contenu avec les participants
-- quand des discussions émergent laissez les se faire pour qu'il y ait clarification et obtenir une vision partagée des besoins.
+- quand des discussions émergent laissez faire pour qu'il y ait clarification et obtenir une vision partagée des besoins.
 
 ## Exemple de déroulé d'atelier persona
 
@@ -120,4 +119,4 @@ La persona a des missions, des objectifs, des taches,... le scénario d’usages
 
 
 ## Source
-Il existe de nombreuses variantes autour de cette méthode, celle décrite ici est inspirée de la méthode proposée par Amélie Boucher: "Ergonomie Web" et simplifiée. 
+Il existe de nombreuses variantes autour de cette méthode, celle décrite ici est inspirée de la méthode proposée par Amélie Boucher: "Ergonomie Web" (Eyrolles, 2008) et simplifiée. 
