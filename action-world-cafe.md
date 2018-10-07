@@ -17,7 +17,7 @@ Ce format est une variante de World Café adapté specifiquement pour produire u
 
 ## Principe
 
-Le principe général du World Café est d'inviter des participants a contribuer a plusieurs sujets en sous groupes. Dans un cadre qui se veut convivial, plusieurs tables sont disposées, avec pour chaque table un sujet/thème à traiter. 
+Le principe général du World Café est d'inviter des participants à contribuer à plusieurs sujets en sous groupes. Dans un cadre qui se veut convivial, plusieurs tables sont disposées, avec pour chaque table un sujet/thème à traiter. 
 
 Autour de chaque table, des petits groupes de participants réfléchissent à un sujet pour un temps limité généralement de 15 à 30 minutes et laisse des notes (sur post-it et/ou sur une nappe) avant de passer à une autre table, pour completer les contributions des premières personnes.
 
@@ -25,10 +25,10 @@ Le World Café est un format puissant de reflexion collective, mais trop souvent
 
 La ou les questions abordées lors des conversations du Café sont essentielles au succès de l’événement.
 
-Le format Action World-Cafe s'appui sur la méthode traditionnelle du World Café mais formalise particulièrement bien la question posée pour obtenir des réponses pertinentes sous forme d'actions à mettre en oeuvre.
+Le format Action World-Cafe s'appui sur la méthode traditionnelle du World Café mais formalise la question posée de manière obtenir des réponses sous forme d'actions à mettre en oeuvre.
 
 ## Méthode du World Café
-Avant de démarrer un Action World Café, il est important de connaitre la méthode du World Café traditionnelle. Cette méthode a été particulierement bien décrite ici: 
+Avant de démarrer un Action World Café, il est important de connaitre la méthode du World Café traditionnelle. Cette méthode a été décrite ici: 
 - http://www.multibao.org/multibao/contributions/contributions/world_cafe_expert.md
 
 Voir en complément ici:
