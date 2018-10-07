@@ -16,7 +16,7 @@ Ce format marche bien en début d'après midi ou entre deux sessions de travail 
 
 ## Variantes
 
-MARCHE SILENCIEUSE (pour faire une pause dynamisante/reposante entre des travaux chargés), MARCHE PLEIN CONSCIENCE (pour reconecter avec soi), MARCHE CRÉATIVE (marcher dans un lieu inspirant en parlant de tout et de rien pour se mettre en phase avant d'attaquer un travail créatif).
+MARCHE SILENCIEUSE (pour faire une pause dynamisante/reposante entre des travaux chargés), MARCHE PLEIN CONSCIENCE (pour reconnecter avec soi), MARCHE CRÉATIVE (marcher dans un lieu inspirant en parlant de tout et de rien pour se mettre en phase avant d'attaquer un travail créatif).
 
 ## Formats liés:
 
@@ -30,6 +30,7 @@ MARCHE SILENCIEUSE (pour faire une pause dynamisante/reposante entre des travaux
 - MARCHE EN AVEUGLE
 
 
-## Source
+## Sources
 
 Documentation: CC-BY-SA Lilian Ricaud
+- Why Everyone From Beethoven, Goethe, Dickens, Darwin To Steve Jobs Took Long Walks and Why You Should Too, Andrew Tate, 2015
