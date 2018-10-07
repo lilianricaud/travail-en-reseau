@@ -27,7 +27,7 @@ Ce format peut être utilisé seul sur un projet personnel ou à plusieurs que c
 
 ## Source
 
-Ce format a été conçu et documenté par Eugene Eric Kim qui l' mis dans le domaine public
+Ce format a été conçu et documenté par Eugene Eric Kim qui l'a mis dans le domaine public
 Traduction cc-by-sa Lilian Ricaud
 
 
