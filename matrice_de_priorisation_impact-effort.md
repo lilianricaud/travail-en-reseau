@@ -2,7 +2,7 @@
 
 ---
 title: Matrice de priorisation Impact-Effort 
-description: La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peu être utilisé individuellement ou collectivement.
+description: La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peut être utilisé individuellement ou collectivement.
 image_url: 
 ---
 
@@ -10,7 +10,7 @@ image_url:
 
 # Matrice de priorisation Impact-Effort
 
-La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peu être utilisé individuellement ou collectivement.
+La matrice Effort-Impact est un outil pour prioriser des actions à mener en fonction de l'impact attendu et de l'effort estimé. Elle peut être utilisé individuellement ou collectivement.
 
 ## Lister des actions à mettre en oeuvre 
 Deux options:
@@ -21,10 +21,10 @@ Noter les actions individuellement sur des post-it: un post-it= une action
 
 ## Placer sur la matrice 
 
-* sur un tableau blanc dessiner la matrice avec en (variante papier affiché sur un mur, ou bien dessin à la craie au sol): sur l'axe horizontal indiquer l'effort (cout de l'action estimé en temps, énergie, argent), sur l'axe vertical indiquer l'impact (bénéfice potentiel de l'action).
+* sur un tableau blanc dessiner la matrice avec en (variante papier affiché sur un mur, ou bien dessin à la craie au sol): sur l'axe horizontal indiquer l'impact (bénéfice potentiel de l'action), sur l'axe vertical indiquer l'effort (cout de l'action estimé en temps, énergie, argent)
 * Le facilitateur présente au groupe chaque action une par une en demandant au groupe de décider l'impact, puis l'effort
 
-En groupe il est important de négocier collectivement le placement pour arriver à une vision partagée. La décision peut etre par consensus (tout le monde dit oui) ou consentement (pas d'objection, je peux vivre avec).
+En groupe il est important de négocier collectivement le placement pour arriver à une vision partagée. La décision peut se faire par consensus (tout le monde dit oui) ou consentement (pas d'objection, je peux vivre avec).
 
 ## Variantes
 
