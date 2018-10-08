@@ -66,6 +66,8 @@ Pour trouver des pistes d'actions plus concrètes en utilisant l'intelligence co
 ### Cauchemars du futur
 Dans le souvenir du futur on demande aux participants de « se rappeler » uniquement ce qui a bien marché pour unir autour d’une vision positive. Il est aussi possible de « se rappeler » ce qui n’avait pas marché afin d’avoir une idées des écueils ou difficultés possibles. Dans ce cas on peut aussi demander aux participants de se rappeller les mauvais souvenirs ou cauchemars du futur. La encore la question posée influencera énormément le résultat.
 
+"Qu'est ce qui a fait que nous avons échoué ?"
+
 ### Souvenir du futur pour grand groupe
 
 Ce format a été testé avec succès pour un groupe de 40 personnes dans un temps total de 2h. Il a été couplé avec la matrice MANDALA HOLISTIQUE pour traitement collectif de l'information.
