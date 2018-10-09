@@ -17,10 +17,10 @@ Ce format peut être utilisé seul sur un projet personnel ou à plusieurs que c
 1. Choisissez un projet. En groupe vous pouvez travailler sur un projet commun ou chacun sur un projet individuel.
 2. Prenez quelques minutes pour imaginer à quoi ressemblerait votre projet s'il réussissait.
 3. Prenez 5 minutes pour poser à plat les différents niveaux de réussite:
- - minimale: doit être atteint pour que le projet soit considéré comme réussi.
- - visée: ce sont les objectifs que vous essayez d'atteindre, mais que vous ne réussirez pas forcement tous.
- - fabuleuse: vous ne visez pas directement ces objectifs, mais ce serait génial s'ils étaient atteints. 
- - Si vous êtes en présence, utilisez des post-it, si vous êtes à distance utilisez un outil de co-écriture.
+ * minimale: tous ces objectifs doivent être atteint pour que le projet soit considéré comme réussi.
+ * visée: ce sont les objectifs que vous essayez d'atteindre, mais que vous ne réussirez pas forcement tous.
+ * fabuleuse: vous ne visez pas directement ces objectifs, mais ce serait génial s'ils étaient atteints. 
+ * Si vous êtes en présence, utilisez des post-it, si vous êtes à distance utilisez un outil de co-écriture.
 4. Prenez 5 minutes pour décrire ce qui représenterait pour vous un échec du projet. Reprenez et ajuster la colonne "Minimum" pour qu'elle soit cohérente avec la colonne "Echec"
 5. Mettez vous en binome et relire votre panorama du succès avec un partenaire. Echanger des retours (5 minutes chacun)
 6. Révisez votre tableau en fonction de la discussion, et partagez brievement vos changements avec votre partenaire (5 minutes chacun).
