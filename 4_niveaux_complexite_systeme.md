@@ -32,4 +32,4 @@ Le système est instable et au bord de l’éclatement.
 Le futur est impossible à prévoir et peut changer très rapidement.
 Les gens ne s’entendent pas sur ce qu’il faut faire et sur comment il faut le faire.
 
-![](4_niveaux_complexite_systeme.jpg)
+![](images/4_niveaux_complexite_systeme.jpg)
