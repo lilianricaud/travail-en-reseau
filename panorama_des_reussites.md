@@ -25,6 +25,15 @@ Ce format peut être utilisé seul sur un projet personnel ou à plusieurs que c
 5. Mettez vous en binome et relire votre panorama du succès avec un partenaire. Echanger des retours (5 minutes chacun)
 6. Révisez votre tableau en fonction de la discussion, et partagez brievement vos changements avec votre partenaire (5 minutes chacun).
 
+## Documents supports
+
+- Modèle en ligne (google doc à copier)
+https://docs.google.com/document/d/1zkuicBEga2icvc0GML1Msi2wNoukccShWm-BIgnzvUM/edit?usp=sharing
+- Modèle Word
+https://github.com/lilianricaud/travail-en-reseau/tree/master/docs_a_telecharger/panorama_des_reussites.docx
+- Modele OpenOffice/LibreOffice
+https://github.com/lilianricaud/travail-en-reseau/tree/master/docs_a_telecharger/panorama_des_reussites.odt
+
 ## Source
 
 Ce format a été conçu et documenté par Eugene Eric Kim qui l'a mis dans le domaine public
