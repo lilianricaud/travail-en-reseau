@@ -35,55 +35,66 @@ Enfin, rédiger les objectifs "de haut niveau", des objectifs clés qui résumen
 
 ## Bonnes pratiques
 
-1. Racontez une histoire
+1. **Racontez une histoire**
 
 Un bon panorama des réussites raconte une histoire. N'importe qui devrai être capable de visualiser et ressentir viscéralement à quoi ressemblerait la réussite du projet.
 
 
-2. Capter différents niveaux de granularité
+2. **Capter différents niveaux de granularité**
 
 Vous voulez capturer à la fois la forêt (la section objectif à haut niveau) et les arbres (le panorama de succès qui peut varier en granularité, mais devrait avoir plusieurs éléments specifiques).
 
 
-3. Pensez aussi aux ressentis  
+3. **Pensez aussi aux ressentis**
 
 Penser au ressenti de la réussite est aussi important que de penser aux débouchés tangibles recherchés. 
 
 
-4. Planter un jalon. Ne vous inquietez pas d'avoir tout juste au premier coup.
+4. **Plantez un jalon. Ne vous inquietez pas d'avoir tout juste au premier coup.**
 
 Ces exercices sont difficiles, car nous sommes inquiets par le fait d'obtenir la "bonne" réponse. L'objectif de l'exercie n'est pas d'avoir "juste", mais de vous donner quelques chose à viser et à explorer.
 
 Dans cet esprit, il vaut mieux être specifique et explorer des scénarios que de rester vague. Par exemple si vous visez une collecte de fonds, mettez un chiffre, même si vous n'avez pas encore fait d'analyse pour le tester.
 
 
-5. Passez de "Plus de" à "Combien"
+5. **Passez de "Plus de" à "Combien"**
 
 Souvent nous pensons la réussite en terme de "plus de" (quelque chose), mais souvent ce n'est pas ce que nous voulons vraiment dire. Par exemple un des objectifs de la réussite minimale est de gagner "plus d'argent" et que vous gagnez un euros de plus cette année, est ce vraiment une réussite ? Une meilleure question est "combien?". Le panorama des réussites vous encourage à être plus spcifique en vous permettant de specifier un panel de réussites.
 
 
-6. Le but de "Réussite Fabuleuse" est d'étendre les possibles
+6. **Le but de "Réussite Fabuleuse" est d'étendre les possibles**
 
-Ne vous censurez pas!  Je demande souvent une deuxieme fois " à quoi ressemble vraiment le succès ?" pour donner une chance aux personnes de surmonter leur censeur intérieur. Avec un peu de chance,le fait que ce soit dans fabuleux et pas attendu, devrait
+Ne vous censurez pas!  Je demande souvent une deuxieme fois " à quoi ressemble vraiment le succès ?" pour donner une chance aux personnes de surmonter leur censeur intérieur. Avec un peu de chance, le fait que ce soit dans fabuleux et pas attendu, devrait vous aider à ne pas vous restreindre.
 
-Don’t censor yourself! I sometimes ask, “What does success really look like?” a second time to give you a second chance to overcome your inner censor. Hopefully, the fact that this is Epic and not expected liberates you from holding back.
-7. Don’t put Target goals in Minimum
 
-Your Target column contains your stretch goals. For your project to be successful, you should get 100% of the items in your Minimum column, and 40-60% of your Target column. Sort accordingly.
-8. Close the Gap, Avoid Overlap
+7. **Ne mettez pas vos objectifs visés dans Minimal**
 
-Make sure there’s no gap between what’s in your Minimum and Failure columns. For example, if you’re trying to raise money, and Minimum success is $100,000, but Failure is $50,000 or below, if you raise $75,000, is that success or failure? Close that gap!
+Votre colonne Réussites visées contient des objectifs qui vous tirent vers l'avant. Pour chaque projet, vous devriez atteindre 100% des objectifs de la colonne Minimale et 40-60% des objectifs de la colonne Visées. Ajustez en conséquence.
 
-Similarly, there should not be overlap between your Minimum, Target, and Epic columns. For example, if you’re throwing an event, and Minimum success is 100-200 participants, and Target success is 150-250 participants, is 150 participants Minimum or Target? Avoid overlap!
-9. Consider Process and Outcomes Goals
 
-“Run a mile every day” is a process goal. “Be able to run a 10-minute mile” is an outcome goal. There are different pros and cons to these different types of goals, and there is no universal answer as to what’s best for you. However, when you’re in the process of formulating your goals, consider both types of goals. Try on how they feel, and think about how they might impact your strategies.
-10. Cluster Items in Rows or Multiple Spectrums
+8. **Bouchez les trous et évitez les chevauchements**
 
-Sometimes, goals and success naturally fall into categories. In these cases, you could either create a new row per category or an entirely new Spectrum.
-11. Review, Reflect, and Keep Practicing
+Assurez vous qu'il n'y a pas de trous entre vos colonnes Minimum et Échec. Par exemple, si vous essayer de récolter des fonds, et que le succès minimal est 10 000€ mais que l'échec est 5000€ ou en dessous, si vous récolter 7500€, est ce une réussite ou un échec ? Bouchez ce trou !
 
-Taking the time to create and align around a Success Spectrum is valuable for both individuals and teams. However, to get the most value out of this tool, using the Success Spectrum should be an ongoing practice, not a one-off. Put your Spectrums somewhere so that everyone will be constantly reminded of them. Review your Spectrums regularly to stay oriented and aligned, and take the time to reflect on the Spectrum afterward to assess success and make meaning of what you learned. The more you practice, the better you will get at working strategically and collaboratively.
+De même, il ne devrait pas y avoir de chevauchement entre vos colonnes Minimal, Visé, Fabuleux. Par exemple, si vous organiser un événement et que la réussite minimale est 100-200 participants et que la réussite visée est 150-200 participants, est ce que 150 est minimal ou visé ? Evitez les chevauchements !
+
+
+9. **Prenez en compte les objectifs de processus et de résultats**
+
+"Courir un kilomètre chaque jour" est un objectif de processus. "Être capable de courir un kilomètre en 10 minute" est un objectif de résultat. Il y a des avantages et des inconvénients à ces deux types d'objectifs, et pour trouver ce qui marchera mieux pour vous, il n'y a pas de réponse universelle. Cependant, quand vous êtes en train de formuler vos objectifs, considérer les deux types d'objectifs. Essayer de voir comment vous sentez l'un ou l'autre, et pensez à la façon dont il peuvent avoir un impact sur vos stratégies.
+
+10. **Regroupez des éléments dans plusieurs lignes ou plusieurs panoramas**
+
+Parfois les objectifs et réussites tombent dans une même catégorie. Dans ces cas, vous pouvez créer une nouvelle ligne par catégorie ou bien créer un nouveau Panorama.
+
+
+11. **Revoyez, ré-évaluez et pratiquez continuellement**
+
+Prendre le temps de créer et de s'aligner autour d'un panorama de réussites est bon pour les individus comme pour les groupes. Cependant, pour tirer le maximum de valeur de cet outil, vous devriez l'utiliser continuellement, pas sur une seule fois. Mettez vos panorama là où ils pourront offrir un rappel constant à tout le monde.
+
+Ré-évaluer vos panoramas régulièrement pour rester orienté et aligné. Prenez aussi un temps de refléxion après coup pour évaluer la réussite effective et donner du sens à ce que vous avez appris. Plus vous pratiquez, meilleur vous serez dans vos travaux stratégiques et collaboratifs.
+
+
 
 ## Documents supports
 
@@ -96,7 +107,8 @@ https://github.com/lilianricaud/travail-en-reseau/tree/master/docs_a_telecharger
 
 ## Source
 
-Ce format a été conçu et documenté par Eugene Eric Kim qui l'a mis dans le domaine public
+Ce format intitulé originellement Goals / Success Spectrum a été conçu et documenté par Eugene Eric Kim qui l'a mis dans le domaine public: http://fasterthan20.com/toolkit/goals-success-spectrum/
+
 Traduction française cc-by-sa Lilian Ricaud
 
 
