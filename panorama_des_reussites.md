@@ -29,7 +29,7 @@ Ce format peut être utilisé seul sur un projet personnel ou à plusieurs que c
 
 **Identifier les incohérences** sur le canevas: le même scénario est dans différentes colonnes, ou une réussite minimale plus tolérante qu'un scénario d'échec. Discuter les incohérences en groupe et ajuster en fonction. 
 
-Une fois qu'il n'y a plus d'incohérences sur le canevas, fais une **vérification avec le tripes**. est ce que les scénarios de réussite sont trop difficiles ou trop faciles ? Ces scénarios sont ils vraiment ceux qui comptent le plus ? Est ce qu'il manque quelque chose ? si nécessaire, recadrer les differents objectifs ou réajuster les différents scénarios de succès.
+Une fois qu'il n'y a plus d'incohérences sur le canevas, fais une **vérification avec les tripes**. est ce que les scénarios de réussite sont trop difficiles ou trop faciles ? Ces scénarios sont ils vraiment ceux qui comptent le plus ? Est ce qu'il manque quelque chose ? si nécessaire, recadrer les differents objectifs ou réajuster les différents scénarios de succès.
 
 Enfin, rédiger les objectifs "de haut niveau", des objectifs clés qui résument ce que aimeriez accomplir et pourquoi.
 
@@ -64,7 +64,7 @@ Souvent nous pensons la réussite en terme de "plus de" (quelque chose), mais so
 
 6. Le but de "Réussite Fabuleuse" est d'étendre les possibles
 
-Ne vous censurez pas!  
+Ne vous censurez pas!  Je demande souvent une deuxieme fois " à quoi ressemble vraiment le succès ?" pour donner une chance aux personnes de surmonter leur censeur intérieur. Avec un peu de chance,le fait que ce soit dans fabuleux et pas attendu, devrait
 
 Don’t censor yourself! I sometimes ask, “What does success really look like?” a second time to give you a second chance to overcome your inner censor. Hopefully, the fact that this is Epic and not expected liberates you from holding back.
 7. Don’t put Target goals in Minimum
