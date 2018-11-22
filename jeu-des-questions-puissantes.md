@@ -13,6 +13,12 @@ image_url:
 
 # Concevoir des questions puissantes 
 
+Poser une question dont on a déjà la réponse, est plutôt improductif lorsque l’on veut avancer et aller plus loin. Alors que questionner différemment, c’est-à-dire autrement que pour valider sa propre vision du monde, est un acte ambitieux et profond.
+
+Quand on pose une question a quelqu'un on l'invite à faire un GESTE MENTAL spécifique. De la même manière que taper du pied dans un ballon ou frapper avec une raquette ne sollicite pas les mêmes muscles et ne donne pas les mêmes effets, "résumer" une situation ou "analyser" une situation ne sollicite pas les mêmes zones du cerveau.
+
+Lorsqu’un de ses disciples avait le sentiment d’une injustice par exemple, Socrate ne demandait pas « pourquoi te sens-tu injustement traité ? », mais tournait plutôt sa question ainsi : « Quelle hypothèse fais-tu pour conclure à une injustice ? ». Le questionnement est totalement différent puisqu’il interroge le disciple sur sa façon de penser. Et penser à sa façon de penser, c’est réfléchir. C’était bien là la mission de Socrate, faire réfléchir à la seule fin d’éduquer
+
 Concevoir des questions met l'intelligence collective d'un groupe en mouvement. Si la question est bonne le résultat sera spectaculaire. A l'inverse, une question pauvre ne permettra pas au groupe d'exprimer pleinement son potentiel. 
 
 Des questions fermantes ne permettent de répondre que par oui ou non et ferme la discussion, tandis que des questions puissantes ouvrent de nombreuses possibilités de réponses.
@@ -136,6 +142,8 @@ Les questions de finalisation ont une fonction opposée aux questions d'ouvertur
 Le format SOUVENIR DU FUTUR est essentiellement une question puissante.
 La préparation d'une bonne question est essentiel pour qu'un ACCELERATEUR DE PROJET marche bien.
 Le débat mouvant s'appui essentiellement sur une question volontairement clivante.
+ GESTE MENTAL
+
 
 ## Source
 Adapté de
@@ -143,3 +151,5 @@ Adapté de
 - Paul Messer http://www.percolab.com/linnovation-cest-la-pollinisation/
 - ART of HOSTING L’art du leadership participatif (2012) ouvrage collectif.
 - Gamestorming, jouer pour innover Dave Gray, Sunni Brown, James Macanufo
+- Frederic Falisse: Questiologie https://www.youtube.com/watch?v=R6YYiZVQMFg et Questions Inspirantes: https://www.questiologie.fr/questions-inspirantes
+- NARRATIVE THERAPY https://www.youtube.com/watch?v=s_ZsX1bLlCo

@@ -13,7 +13,7 @@ licence: CC-BY-SA
 
 # Patterns, pépites et bijoux 
 
-Cette recette décrit un processus de capture et co-construction de trames de bonnes pratiques sous la forme d'un langage de pattern. Les formats de description de bonnes pratiques sont généralement difficllement applicable hors de leur contexte d'origine. Pour pallier à cela, la méthode des langage de patterns est tres interessante. De même que le langage nous permet de composer une infinité de phrase, un langage de pattern permet à celui qui l'emploi de composer une infinité de solutions à chaque fois adaptée au contexte.
+Cette recette décrit un processus de capture et co-construction de trames de bonnes pratiques sous la forme d'un langage de pattern. Les formats de description de bonnes pratiques sont généralement difficllement applicable hors de leur contexte d'origine. Pour pallier à cela, la méthode des langage de patterns est tres intéressante. De même que le langage nous permet de composer une infinité de phrases, un langage de pattern permet à celui qui l'emploi de composer une infinité de solutions à chaque fois adaptée au contexte.
 
 Le terme "pattern", difficile à traduire et peu explicite est remplacé par la métaphore de pépites et de bijoux est utilisée qui rend plus intuitif et ludique le processus.
 
@@ -69,7 +69,7 @@ Consigne:
 
 ### Affinage des patterns: Polissage des pépites
 
-Chaque sous groupe a pour mission de polir les pépites, c'est à dire produire une trame de bonne pratique qui sera réutilisable. Cette trame n'a pas vocation à être parfaite. Il est interessant de mettre une contrainte de temps pour forcer les participants à aller l'essentiel. 
+Chaque sous groupe a pour mission de polir les pépites, c'est à dire produire une trame de bonne pratique qui sera réutilisable. Cette trame n'a pas vocation à être parfaite. Il est intéressant de mettre une contrainte de temps pour forcer les participants à aller l'essentiel. 
 
 - Nommer la bonne pratique
 - Préciser la bonne pratique, qu'est ce qui marche, dans quel contexte, limites, à quels problèmes ça réponds

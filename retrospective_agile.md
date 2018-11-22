@@ -22,7 +22,7 @@ Dans scrum les retrospectives sont courtes et très régulières (ex. 1h pour un
 
 "L'équipe", quiquonque est importante dans le contexte. Dans scrum c'est au minimum l'équipe de développement et parfois le product owner. 
 
-Le SM facilite.
+Le scrum master facilite.
 
 Si vous avez des sujets specifiques qui incluent / affectent d'autres personnes hors de l'équipe, invitez les à travailler sur une solution commune.
 
@@ -53,9 +53,9 @@ Choisir sur quoi travailler et planifier les étapes d'actions concrètes.
 
 ### Cloturer la retrospective
 
-Comment la retrospective peut elle etre améliorée ? Clarifier aussi la suite
+Comment la retrospective peut elle être améliorée ? Clarifier aussi la suite
 
-Vous pouvez soutenir chaque phase avec des activités specifiques pour générer des idées et de l'interaction (voir plan-for-retrospectives.com pour des exemples)
+Vous pouvez soutenir chaque phase avec des activités spécifiques pour générer des idées et de l'interaction (voir plan-for-retrospectives.com pour des exemples)
 
 ## Qu'est ce qu'une retrospective n'est PAS ?
 

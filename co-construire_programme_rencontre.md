@@ -18,7 +18,7 @@ Comment concevoir un programme adapté quand on ne sait pas combien de personnes
 
 - Accueillir les participants avec un brise glace ou un temps d'inclusion pour commencer à mieux se connaitre et créer du lien.
 - mettre à disposition des participants des post-its
-- demander à chacun individuellement de noter sur des post-its des sujets qu'ils aimerait aborder: information ou apports qu'ils peuvent faire, question à creuser, problèmes a résoudre, ... tout ce qui les interpelle ou les interesse, avec un sujet/point par post-it écrit de manière lisible
+- demander à chacun individuellement de noter sur des post-its des sujets qu'ils aimerait aborder: information ou apports qu'ils peuvent faire, question à creuser, problèmes a résoudre, ... tout ce qui les interpelle ou les intéresse, avec un sujet/point par post-it écrit de manière lisible
 - si vous travaillez avec un grand groupe limitez le nombre de post-it par participants (un à trois éléments)
 - demander à chacun de venir afficher ses post it sur un mur ou un paperboard visible par toustes et de présenter au groupe ce qui est sur le post it.
 - quand tout le monde a posé ses post-it, effectuez un TRI PAR AFFINITE pour regrouper les sujets par similarité (ou demander a une ou deux personnes de le faire).
