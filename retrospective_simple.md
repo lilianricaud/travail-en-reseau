@@ -22,7 +22,7 @@ Un format très simple de retrospective, un temps collectif pour apprendre et s'
 - choisir des domaines à améliorer (3-5 élements de correction est un bon nombre).
 
 ## Options de questions
-Il existe de nombreuse svariantes simailaires, mais vous pouvez varier les questions :
+Il existe de nombreuses variantes simailaires, mais vous pouvez varier les questions :
 
 Option 1
 - qu'est ce qui s'est bien passé ? (continuer à le faire)
