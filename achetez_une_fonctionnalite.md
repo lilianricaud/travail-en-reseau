@@ -48,7 +48,9 @@ Si un participants peut acheter trop de propositions, vous chiffrez vos proposit
 
 Traduit à partir de Buy a feature, Innovation Games Luke Hohmnann
 
-Voir en ligne
+Voir en ligne: 
 
-https://blog.xebia.fr/2014/08/20/les-differents-usages-de-buy-a-feature/
+- https://www.innovationgames.com/buy-a-feature/
+
+- En français: https://blog.xebia.fr/2014/08/20/les-differents-usages-de-buy-a-feature/
 
