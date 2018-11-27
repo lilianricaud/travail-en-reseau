@@ -14,7 +14,7 @@ En mettant en action les usagers en tant que groupe et en leur donnant un montan
 
 Mais ce n'est pas la que repose la magie/ La magie vient du fait de structurer les discussions afin que vos usagers négocient les uns avec les autres pour des fonctionnalités spécifiques. C'est cette négociation qui augmente votre comprehension de ce que veulent les usagers
 
-## Déroulé
+## Conception
 
 La taille d'un groupe devrait être entre 4 et 9 personnes.
 
@@ -42,7 +42,26 @@ Moins d'un tiers, signifie trop peu d'argent, les interactions vont souffrir car
 
 Plus de deux tiers signfie trop d'argent les interactions vont souffrir car il sera trop facile d'acheter (vous ne contraignez pas assez les participants).
 
-Si un participants peut acheter trop de propositions, vous chiffrez vos propositions individuelles trop bas.
+Si un participant peut acheter trop de propositions, vous chiffrez vos propositions individuelles trop bas.
+
+Participants
+
+Choisis pour représenter des groupes d'usagers.
+
+options:
+
+- un représentant par groupe d'usagers
+- plusieurs sous groupes avec chacun un représentant par groupe d'usagers
+- donner des sommes différentes à differents usagers (dans certains cas uniquement)
+
+## Déroulé
+
+0. Lors de la conception, s'amuser soi même.
+1. Rappeler que ce n'est qu'un jeu et que les propositions achetées ne seront pas forcement mises en oeuvre.
+2. présenter les propositions avec leur tarifs, donner l'argent et laisser les participants discuter et acheter
+3. Noter dans un tableau qui a acheté quoi. Noter au crayon, car il arrivent qu'au cours de l'atelier, les partcipants ramenent une proposition pour en acheter une autre.
+4. Après l'atelier, traiter les résultats dans un logiciel de tableur. Regrouper les propositions achetées en une liste et trier les en fonctions de combien de groupes d'usagers les ont achetés. Les propositions achetées par plusieurs groupes devraient être les plus prises en compte. Correler les achats avec vos observations des interactions entre usagers. 
+
 
 ## Source
 
