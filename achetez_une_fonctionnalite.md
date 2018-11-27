@@ -44,3 +44,11 @@ Plus de deux tiers signfie trop d'argent les interactions vont souffrir car il s
 
 Si un participants peut acheter trop de propositions, vous chiffrez vos propositions individuelles trop bas.
 
+## Source
+
+Traduit à partir de Buy a feature, Innovation Games Luke Hohmnann
+
+Voir en ligne
+
+https://blog.xebia.fr/2014/08/20/les-differents-usages-de-buy-a-feature/
+
