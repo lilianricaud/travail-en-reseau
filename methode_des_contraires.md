@@ -1,3 +1,14 @@
-méthode de la résolution des problèmes par la méthode de la théorie des contraires
+# MÉTHODE DES CONTRAIRES
 
-on prend l'inverse = ce qu'il faut pour que ça fonctionne
+Une méthode de résolution des problèmes par la méthode de la théorie des contraires
+
+concrètement on prend l'inverse de ce que l'on cherche à obtenir pour mieux en déduire ce qu'il faut pour que ça fonctionne.
+
+Par exemple: 
+- "comment faire pour que ça ne marche pas ?"
+
+# source 
+
+Laurent Marseault 
+
+
