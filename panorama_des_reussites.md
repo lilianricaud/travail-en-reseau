@@ -111,6 +111,30 @@ Ce format intitulé originellement Goals / Success Spectrum a été conçu et do
 
 Traduction française cc-by-sa Lilian Ricaud
 
+notes restant à traduire:
 
+spectrum is like a story playing out -> storytelling + gutcheck for believable
+
+story for youself and others -> shared story
+
+what goes into the spectrum ?
+action vs outcomes
+
+copies ofall the versions of the spectrum
+
+lenght of timeframe: long ? short ?
+fractal usage: nested spectrum
+
+Self explanatory canvas
+
+(productive) tension between people volunteering and people 
+
+2 years from now we failed, what did we do today that caused that ?
+
+add a date for retrospective to re-evaluate
+
+describing other works happening on the side
+
+general + specific 
 
 
