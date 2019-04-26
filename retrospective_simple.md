@@ -36,6 +36,12 @@ Option 2
 - qu'est ce que j'ai appris ?
 - qu'est ce qui m'étonne encore ?
 
+Option 3
+- Ce que j'ai aimé, Ce qui s'est passé pour moi ?
+- Ce que cela signifie, ce que cela a changé pour moi ?
+- Quelles possibilités ou nouvelles questions s'ouvrent à moi ?
+- Une suggestion, une envie d'amélioration ?
+
 
 
 ## Sources
