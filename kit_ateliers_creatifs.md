@@ -1,4 +1,4 @@
-# KIT CRÉATIF
+# KIT ATELIERS CRÉATIFS
 
 Quelques éléments à avoir pour un kit créatif pour soi ou pour des participants d'ateliers.
 - boite dossier transparentes
@@ -13,4 +13,4 @@ Quelques éléments à avoir pour un kit créatif pour soi ou pour des participa
 - scotch de peintre
 - paperboard
 - patafix
-- feuille cartonées colorées A2
+- feuille cartonnées colorées A2
