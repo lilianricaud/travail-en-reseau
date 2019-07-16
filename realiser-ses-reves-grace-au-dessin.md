@@ -22,7 +22,6 @@ Pour cela une technique simple consiste a dessiner sa situation actuelle (profes
 
 En entrainant le cerveau à croire que cela est possible parce qu'il le voit, on crée les conditions où le cerveau trouvera les réponses sur la réalisation et la mise en oeuvre.
 
-Voir un article (en anglais) sur la création de tableau de vision (vision board) et la loi de l'attraction: https://www.selfgrowth.com/articles/How_to_Use_a_Vision_Board_to_Activate_the_Law_of_Attraction.html
 
 ## Source
 Voir le détail de la méthode (en anglais)
@@ -137,3 +136,13 @@ Merci.
 
 
 (Applaudissements)
+
+## Source
+Voir le détail de la méthode (en anglais)
+
+https://www.youtube.com/watch?v=4vl6wCiUZYc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vl6wCiUZYc" frameborder="0" allowfullscreen></iframe>
+
+Voir aussi un article (en anglais) sur la création de tableau de vision (vision board) et la loi de l'attraction: https://www.selfgrowth.com/articles/How_to_Use_a_Vision_Board_to_Activate_the_Law_of_Attraction.html
+
