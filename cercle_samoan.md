@@ -1,3 +1,12 @@
+<!--
+
+---
+title: Cercle Samoan
+description: format de discussion en grand groupe favorisant l'écoute 
+
+---
+
+-->
 # CERCLE SAMOAN
 
 La technique du cercle samoan (aussi appelé cercle excentrique  ou Fishbowl) implique un petit groupe de personnes (en général entre 5 et 8), assises en cercle, qui discutent devant un groupe plus grand d'auditeurs. Cette technique est une manière créative d'impliquer le "public" dans la discussion d'un petit groupe. Cette technique peut être utilisée dans plusieurs contextes tels que des ateliers, conférences, réunions organisationnelles et assemblées publiques.
