@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Évaluation concertée
+description: Plutot que de conduire une évaluation déscendante, il est possible de co-créer une évaluation concertée qui est co-crée par "évaluateurs" et "évalués".
+
+---
+
+-->
+
 # Évaluation concertée
 
 Plutot que de conduire une évaluation déscendante, il est possible de co-créer une évaluation concertée qui est co-crée par "évaluateurs" et "évalués".
