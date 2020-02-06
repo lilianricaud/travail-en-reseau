@@ -1,7 +1,6 @@
 # Évaluation concertée
 
-
-Plutot que de conduire une évaluation déscendante, il est possible de co-créer une évaluation concertée.
+Plutot que de conduire une évaluation déscendante, il est possible de co-créer une évaluation concertée qui est co-crée par "évaluateurs" et "évalués".
 
 Cette évaluation est formulée sous la forme de questions (cadre questionnant), plutôt que de critères ou de grille. 
 
