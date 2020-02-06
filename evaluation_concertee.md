@@ -27,4 +27,4 @@ Ce réferentiel se veut intersubjectivant, manière de voir proposition de méth
 # Source
 Conférence de Luc Carton prononcée le 19 juin 2019 aux Ateliers du vent à Rennes dans le cadre du 3e forum des lieux intermédiaires et indépendants. 
 
-Luc Carton
+https://www.youtube.com/watch?time_continue=545&v=8myG32Fw6XU&feature=emb_logoLuc Carton
