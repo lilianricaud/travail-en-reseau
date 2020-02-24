@@ -20,11 +20,16 @@ Ce dépôt contient maintenant beaucoup de contenus, j'ai fait le choix de les g
 
 ## Briser la glace
 
-S'ouvrir à l'autre et au groupe
+S'ouvrir à l'autre et au groupe 
 
 ### Mon Objet
 
-Un format simple pour se présenter et briser la glace dans un petit groupe.
+Un format simple pour se présenter et briser la glace dans un petit groupe. 
+
+[mon objet](mon_objet.md)
+
+
+
 
 ### Mon Journal
 

@@ -3,7 +3,6 @@
 ---
 title: 4 niveaux de complexité d'un système 
 description: Un système est un ensemble d'éléments interagissant entre eux selon certains principes ou règles. Les  études sur la complexité distinguent 4 niveaux de complexité décrits ici.
-image_url: 
 licence: CC-BY-SA
 ---
 
