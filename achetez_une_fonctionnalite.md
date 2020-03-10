@@ -73,3 +73,5 @@ Voir en ligne:
 
 - En français: https://blog.xebia.fr/2014/08/20/les-differents-usages-de-buy-a-feature/
 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
