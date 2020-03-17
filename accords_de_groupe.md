@@ -27,3 +27,5 @@ Variantes : Possibilité de proposer un temps créatif pour matérialiser ces ac
 
 Aut·eur·rice·s de la ressource : Audrey Auriault
 Licence d'utilisation la ressource : CC BY SA 
+
+![HERE Maps Places and DBScan Clusters](https://user-images.githubusercontent.com/10322094/63057562-d49a0880-beea-11e9-8a7f-68f70c6e629e.png)
